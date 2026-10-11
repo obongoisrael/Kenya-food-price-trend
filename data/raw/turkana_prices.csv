@@ -1,0 +1,474 @@
+Date,County,Commodity,Unit,Price (KES)
+01/01/2021,Turkana,maize (white),kg,54.0
+01/02/2021,Turkana,maize (white),kg,59.04
+01/03/2021,Turkana,MAIZE,kg,59.6
+01/04/2021,Turkana,Maize,kg,63.0
+01/05/2021,TURKANA,MAIZE,kg,68.32
+01/06/2021,Turkana,maize (white),kg,68.04
+01/07/2021,Turkana,maize (white),kg,71.72
+01/08/2021,Turkana,maize (white),kg,70.16
+01/09/2021,Turkana,MAIZE,kg,63.93
+01/10/2021,Turkana,maize (white),kg,60.69
+01/11/2021,Turkana,maize (white),kg,57.99
+01/12/2021,Turkana,Maize,kg,57.26
+01/01/2022,Turkana,maize (white),kg,59.49
+01/02/2022,Turkana,maize (white),kg,63.47
+01/03/2022,Turkana,MAIZE,kg,66.8
+01/04/2022,Turkana,MAIZE,kg,71.44
+01/05/2022,Turkana,MAIZE,kg,76.94
+01/06/2022,Turkana,maize (white),kg,83.96
+01/07/2022,Turkana,Maize,kg,83.16
+01/08/2022,Turkana,Maize,kg,88.82
+01/09/2022,Turkana,Maize,kg,84.48
+01/10/2022,Turkana,MAIZE,kg,88.8
+01/11/2022,Turkana,maize (white),kg,83.64
+01/12/2022,Turkana,Maize,kg,88.77
+01/01/2023,Turkana,maize (white),kg,98.84
+01/02/2023,Turkana,MAIZE,kg,108.02
+01/03/2023,Turkana,maize (white),kg,115.45
+01/04/2023,Turkana,MAIZE,kg,131.25
+01/05/2023,Turkana,maize (white),kg,127.3
+01/06/2023,Turkana,maize (white),kg,126.04
+01/07/2023,Turkana,Maize,kg,115.69
+01/08/2023,Turkana,Maize,kg,112.35
+01/09/2023,Turkana,Maize,kg,97.58
+01/10/2023,Turkana,Maize,kg,85.35
+01/11/2023,Turkana,Maize,kg,72.38
+01/12/2023,Turkana,Maize,kg,72.2
+01/01/2024,Turkana,maize (white),kg,69.13
+01/02/2024,Turkana,Maize,kg,72.44
+01/03/2024,Turkana,maize (white),kg,76.84
+01/04/2024,Turkana,maize (white),kg,76.59
+01/05/2024,Turkana,maize (white),kg,81.63
+01/07/2024,Turkana,Maize,kg,81.28
+01/08/2024,Turkana,Maize,kg,77.0
+01/09/2024,Turkana,maize (white),kg,71.19
+01/10/2024,Turkana,MAIZE,kg,67.92
+01/11/2024,Turkana,maize (white),kg,63.75
+01/12/2024,Turkana,MAIZE,kg,67.25
+01/01/2025,Turkana,MAIZE,kg,66.93
+01/02/2025,Turkana,Maize,kg,67.65
+01/03/2025,Turkana,maize (white),kg,74.94
+01/04/2025,Turkana,maize (white),kg,76.62
+01/05/2025,Turkana,Maize,kg,75.05
+01/06/2025,TURKANA,Maize,kg,
+01/07/2025,Turkana,Maize,kg,86.8
+01/08/2025,Turkana,maize (white),kg,77.19
+01/09/2025,Turkana,Maize,kg,74.8
+01/10/2025,Turkana,Maize,kg,72.55
+01/11/2025,Turkana,maize (white),kg,68.16
+01/12/2025,Turkana,Maize,kg,66.19
+01/01/2021,TURKANA,Beans,kg,141.27
+01/02/2021,Turkana,Beans ,kg,146.94
+01/03/2021,Turkana,Beans ,kg,154.68
+01/05/2021,Turkana,beans - rosecoco,kg,158.04
+01/06/2021,Turkana,Beans,kg,157.72
+01/07/2021,Turkana,Beans ,kg,160.95
+01/08/2021,Turkana,Beans ,kg,159.09
+01/09/2021,Turkana,Beans ,kg,
+01/10/2021,Turkana,beans - rosecoco,kg,150.61
+01/11/2021,Turkana,Beans,kg,145.72
+01/12/2021,Turkana,Beans ,kg,147.08
+01/01/2022,Turkana,Beans,kg,147.76
+01/02/2022,Turkana,Beans,kg,153.73
+01/03/2022,Turkana,Beans,kg,150.91
+01/04/2022,Turkana,Beans ,kg,160.91
+01/05/2022,Turkana,beans - rosecoco,kg,169.64
+01/06/2022,TURKANA,Beans ,kg,184.06
+01/07/2022,Turkana,Beans,kg,185.07
+01/08/2022,Turkana,beans - rosecoco,kg,188.69
+01/09/2022,Turkana,Beans,kg,195.93
+01/10/2022,Turkana,beans - rosecoco,kg,185.24
+01/11/2022,Turkana,Beans,kg,200.95
+01/12/2022,Turkana,beans - rosecoco,kg,202.18
+01/01/2023,Turkana,Beans ,kg,203.55
+01/02/2023,Turkana,Beans,kg,227.28
+01/03/2023,Turkana,Beans,kg,217.62
+01/04/2023,Turkana,Beans ,kg,226.56
+01/05/2023,Turkana,Beans,kg,235.64
+01/06/2023,Turkana,Beans ,kg,237.13
+01/07/2023,Turkana,Beans,kg,225.02
+01/08/2023,Turkana,Beans ,kg,201.0
+01/09/2023,Turkana,Beans,kg,199.59
+01/10/2023,Turkana,Beans,kg,188.5
+01/11/2023,Turkana,Beans ,kg,192.79
+01/12/2023,Turkana,beans - rosecoco,kg,180.4
+01/01/2024,TURKANA,Beans ,kg,172.04
+01/02/2024,Turkana,Beans ,kg,167.31
+01/03/2024,TURKANA,Beans ,kg,178.34
+01/04/2024,Turkana,Beans ,kg,174.58
+01/05/2024,Turkana,beans - rosecoco,kg,185.32
+01/06/2024,Turkana,beans - rosecoco,kg,187.56
+01/07/2024,Turkana,Beans ,kg,182.15
+01/08/2024,Turkana,beans - rosecoco,kg,182.19
+01/09/2024,Turkana,Beans,kg,174.33
+01/10/2024,Turkana,beans - rosecoco,kg,168.38
+01/11/2024,Turkana,Beans,kg,175.56
+01/12/2024,Turkana,Beans,kg,169.92
+01/01/2025,Turkana,Beans ,kg,167.5
+01/02/2025,Turkana,beans - rosecoco,kg,169.58
+01/03/2025,Turkana,Beans ,kg,180.43
+01/04/2025,Turkana,beans - rosecoco,kg,188.6
+01/05/2025,Turkana,Beans ,kg,194.86
+01/06/2025,Turkana,Beans ,kg,200.54
+01/07/2025,Turkana,beans - rosecoco,kg,193.94
+01/08/2025,Turkana,Beans,kg,181.72
+01/09/2025,Turkana,Beans,kg,194.08
+01/10/2025,Turkana,beans - rosecoco,kg,184.28
+01/11/2025,Turkana,beans - rosecoco,kg,178.99
+01/12/2025,Turkana,Beans ,kg,180.65
+01/01/2021,Turkana,rice (pishori),kg,163.88
+01/02/2021,Turkana,rice (pishori),kg,166.94
+01/03/2021,Turkana,Rice,kg,179.03
+01/04/2021,Turkana,rice (pishori),kg,175.8
+01/05/2021,Turkana,rice (pishori),kg,171.08
+01/06/2021,Turkana,rice (pishori),kg,178.9
+01/07/2021,Turkana,rice (pishori),kg,168.28
+01/08/2021,TURKANA,rice (pishori),kg,181.05
+01/09/2021,Turkana,rice (pishori),kg,175.95
+01/10/2021,Turkana,Rice,kg,172.65
+01/11/2021,Turkana,rice (pishori),kg,176.19
+01/12/2021,Turkana,rice (pishori),kg,181.32
+01/01/2022,Turkana,Rice,kg,173.17
+01/02/2022,Turkana,Rice,kg,173.31
+01/03/2022,Turkana,rice (pishori),kg,193.92
+01/04/2022,Turkana,rice (pishori),kg,187.23
+01/05/2022,Turkana,rice (pishori),kg,200.7
+01/06/2022,Turkana,Rice,kg,193.45
+01/07/2022,Turkana,Rice,kg,204.98
+01/08/2022,Turkana,Rice,kg,204.21
+01/09/2022,Turkana,rice (pishori),kg,218.03
+01/10/2022,Turkana,rice (pishori),kg,218.64
+01/11/2022,Turkana,Rice,kg,223.12
+01/12/2022,Turkana,rice (pishori),kg,246.34
+01/01/2023,Turkana,Rice,kg,246.02
+01/02/2023,TURKANA,Rice,kg,235.91
+01/03/2023,Turkana,rice (pishori),kg,254.98
+01/04/2023,Turkana,rice (pishori),kg,252.64
+01/05/2023,TURKANA,rice (pishori),kg,249.73
+01/06/2023,TURKANA,Rice,kg,250.36
+01/07/2023,Turkana,rice (pishori),kg,243.79
+01/08/2023,Turkana,Rice,kg,238.0
+01/09/2023,Turkana,Rice,kg,222.18
+01/10/2023,Turkana,rice (pishori),kg,205.88
+01/11/2023,Turkana,Rice,kg,206.63
+01/12/2023,Turkana,Rice,kg,209.54
+01/01/2024,Turkana,rice (pishori),kg,192.63
+01/02/2024,Turkana,Rice,kg,203.06
+01/03/2024,Turkana,rice (pishori),kg,202.22
+01/04/2024,Turkana,rice (pishori),kg,197.7
+01/05/2024,Turkana,rice (pishori),kg,203.15
+01/06/2024,Turkana,rice (pishori),kg,197.25
+01/07/2024,Turkana,Rice,kg,199.04
+01/08/2024,Turkana,rice (pishori),kg,194.3
+01/09/2024,TURKANA,rice (pishori),kg,201.68
+01/10/2024,Turkana,rice (pishori),kg,205.58
+01/11/2024,Turkana,rice (pishori),kg,192.71
+01/12/2024,Turkana,rice (pishori),kg,203.8
+01/01/2025,Turkana,Rice,kg,185.4
+01/02/2025,Turkana,rice (pishori),kg,194.84
+01/03/2025,Turkana,Rice,kg,196.7
+01/04/2025,TURKANA,rice (pishori),kg,216.06
+01/05/2025,TURKANA,rice (pishori),kg,204.04
+01/06/2025,TURKANA,rice (pishori),kg,213.79
+01/07/2025,TURKANA,Rice,kg,196.31
+01/08/2025,Turkana,Rice,kg,208.96
+01/09/2025,Turkana,Rice,kg,210.35
+01/10/2025,Turkana,rice (pishori),kg,205.24
+01/12/2025,Turkana,Rice,kg,205.79
+01/01/2021,Turkana,SUGAR,kg,145.18
+01/02/2021,Turkana,SUGAR,kg,148.84
+01/03/2021,Turkana,SUGAR,kg,149.57
+01/04/2021,Turkana,SUGAR,kg,153.38
+01/05/2021,TURKANA,Sugar,kg,157.54
+01/06/2021,Turkana,SUGAR,kg,153.26
+01/07/2021,Turkana,sugar,kg,165.5
+01/08/2021,Turkana,sugar,kg,151.98
+01/09/2021,Turkana,Sugar,kg,151.93
+01/10/2021,Turkana,SUGAR,kg,162.68
+01/12/2021,Turkana,Sugar,kg,154.04
+01/01/2022,Turkana,Sugar,kg,154.69
+01/02/2022,Turkana,sugar,kg,153.34
+01/03/2022,Turkana,SUGAR,kg,168.0
+01/04/2022,Turkana,Sugar,kg,168.3
+01/05/2022,Turkana,SUGAR,kg,168.96
+01/06/2022,Turkana,SUGAR,kg,182.47
+01/07/2022,Turkana,sugar,kg,196.12
+01/08/2022,Turkana,sugar,kg,202.06
+01/09/2022,Turkana,SUGAR,kg,223.3
+01/10/2022,Turkana,sugar,kg,230.66
+01/11/2022,Turkana,SUGAR,kg,241.45
+01/12/2022,Turkana,Sugar,kg,254.77
+01/01/2023,Turkana,sugar,kg,276.3
+01/02/2023,Turkana,sugar,kg,297.3
+01/03/2023,Turkana,sugar,kg,305.51
+01/04/2023,Turkana,Sugar,kg,312.39
+01/05/2023,Turkana,SUGAR,kg,302.55
+01/06/2023,Turkana,Sugar,kg,297.81
+01/07/2023,Turkana,Sugar,kg,286.04
+01/08/2023,Turkana,SUGAR,kg,256.2
+01/09/2023,Turkana,SUGAR,kg,228.94
+01/10/2023,TURKANA,Sugar,kg,231.78
+01/11/2023,Turkana,SUGAR,kg,209.08
+01/12/2023,Turkana,sugar,kg,191.66
+01/01/2024,Turkana,Sugar,kg,187.91
+01/02/2024,Turkana,sugar,kg,180.76
+01/03/2024,Turkana,SUGAR,kg,170.76
+01/04/2024,Turkana,Sugar,kg,178.29
+01/05/2024,Turkana,Sugar,kg,171.54
+01/06/2024,TURKANA,Sugar,kg,180.15
+01/07/2024,Turkana,Sugar,kg,177.89
+01/08/2024,Turkana,Sugar,kg,183.43
+01/09/2024,Turkana,SUGAR,kg,175.39
+01/10/2024,Turkana,sugar,kg,176.71
+01/11/2024,Turkana,Sugar,kg,172.43
+01/12/2024,Turkana,SUGAR,kg,172.09
+01/01/2025,Turkana,Sugar,kg,167.79
+01/02/2025,Turkana,sugar,kg,182.28
+01/03/2025,Turkana,Sugar,kg,180.32
+01/04/2025,Turkana,SUGAR,kg,178.62
+01/05/2025,TURKANA,Sugar,kg,184.87
+01/06/2025,Turkana,sugar,kg,182.52
+01/07/2025,TURKANA,sugar,kg,180.92
+01/08/2025,Turkana,SUGAR,kg,185.59
+01/09/2025,Turkana,sugar,kg,189.66
+01/10/2025,Turkana,SUGAR,kg,180.28
+01/11/2025,Turkana,Sugar,kg,173.26
+01/12/2025,TURKANA,Sugar,kg,177.75
+01/02/2021,Turkana,Flour (wheat),kg,128.75
+01/03/2021,Turkana,Flour (wheat),kg,142.74
+01/04/2021,Turkana,Flour (wheat),kg,142.34
+01/05/2021,Turkana,Flour (wheat),kg,145.74
+01/06/2021,Turkana,Flour (wheat),kg,136.52
+01/07/2021,Turkana,Flour (wheat),kg,131.25
+01/08/2021,Turkana,Flour (wheat),kg,138.48
+01/09/2021,Turkana,Wheat flour,kg,140.32
+01/10/2021,Turkana,Flour (wheat),kg,142.26
+01/11/2021,Turkana,wheat Flour,kg,139.01
+01/12/2021,Turkana,Wheat flour,kg,141.53
+01/02/2022,Turkana,wheat Flour,kg,138.41
+01/03/2022,Turkana,Flour (wheat),kg,155.81
+01/04/2022,Turkana,wheat Flour,kg,146.08
+01/05/2022,Turkana,Wheat flour,kg,156.46
+01/06/2022,Turkana,Wheat flour,kg,165.27
+01/07/2022,Turkana,Wheat flour,kg,161.99
+01/08/2022,TURKANA,Wheat flour,kg,172.75
+01/09/2022,Turkana,wheat Flour,kg,189.61
+01/10/2022,Turkana,wheat Flour,kg,188.36
+01/11/2022,TURKANA,Flour (wheat),kg,206.38
+01/12/2022,Turkana,Flour (wheat),kg,212.5
+01/01/2023,Turkana,Wheat flour,kg,222.27
+01/02/2023,Turkana,Wheat flour,kg,234.24
+01/03/2023,Turkana,wheat Flour,kg,233.49
+01/04/2023,Turkana,Flour (wheat),kg,235.75
+01/05/2023,Turkana,Flour (wheat),kg,242.02
+01/06/2023,Turkana,wheat Flour,kg,231.1
+01/07/2023,Turkana,Flour (wheat),kg,223.59
+01/08/2023,Turkana,Flour (wheat),kg,202.0
+01/09/2023,Turkana,Flour (wheat),kg,198.39
+01/10/2023,Turkana,Flour (wheat),kg,194.65
+01/11/2023,Turkana,wheat Flour,kg,183.76
+01/12/2023,Turkana,wheat Flour,kg,173.82
+01/01/2024,Turkana,Flour (wheat),kg,164.61
+01/02/2024,Turkana,wheat Flour,kg,161.16
+01/03/2024,Turkana,wheat Flour,kg,164.69
+01/04/2024,Turkana,wheat Flour,kg,168.77
+01/05/2024,TURKANA,Flour (wheat),kg,161.91
+01/06/2024,Turkana,Wheat flour,kg,167.96
+01/07/2024,Turkana,Wheat flour,kg,160.04
+01/08/2024,TURKANA,Flour (wheat),kg,166.97
+01/09/2024,Turkana,Wheat flour,kg,155.95
+01/10/2024,Turkana,wheat Flour,kg,161.32
+01/11/2024,Turkana,wheat Flour,kg,155.2
+01/12/2024,Turkana,Wheat flour,kg,163.81
+01/01/2025,Turkana,Flour (wheat),kg,164.15
+01/02/2025,TURKANA,Wheat flour,kg,157.89
+01/04/2025,Turkana,Wheat flour,kg,163.05
+01/05/2025,TURKANA,Wheat flour,kg,158.98
+01/06/2025,Turkana,Flour (wheat),kg,162.53
+01/07/2025,Turkana,Flour (wheat),kg,163.16
+01/08/2025,Turkana,Wheat flour,kg,
+01/09/2025,Turkana,wheat Flour,kg,174.08
+01/10/2025,Turkana,Flour (wheat),kg,164.64
+01/11/2025,Turkana,wheat Flour,kg,165.35
+01/12/2025,Turkana,wheat Flour,kg,168.17
+01/01/2021,Turkana,veg. oil,litre,301.49
+01/02/2021,Turkana,Cooking oil,litre,304.09
+01/03/2021,Turkana,Cooking Oil,litre,302.49
+01/04/2021,Turkana,Cooking Oil,litre,294.72
+01/06/2021,Turkana,Cooking oil,litre,
+01/07/2021,Turkana,Cooking oil,litre,306.56
+01/08/2021,Turkana,Cooking oil,litre,309.97
+01/09/2021,Turkana,Cooking Oil,litre,322.63
+01/10/2021,Turkana,Cooking oil,litre,321.87
+01/11/2021,Turkana,Cooking Oil,litre,315.56
+01/12/2021,Turkana,Cooking oil,litre,319.7
+01/01/2022,TURKANA,Cooking Oil,litre,315.85
+01/02/2022,Turkana,veg. oil,litre,344.49
+01/03/2022,Turkana,veg. oil,litre,338.86
+01/04/2022,Turkana,veg. oil,litre,357.91
+01/05/2022,Turkana,veg. oil,litre,344.84
+01/06/2022,Turkana,veg. oil,litre,356.6
+01/07/2022,Turkana,veg. oil,litre,377.41
+01/08/2022,Turkana,Cooking Oil,litre,384.39
+01/09/2022,Turkana,veg. oil,litre,405.38
+01/10/2022,Turkana,veg. oil,litre,411.5
+01/11/2022,Turkana,veg. oil,litre,461.54
+01/12/2022,TURKANA,Cooking oil,litre,476.75
+01/01/2023,Turkana,Cooking Oil,litre,511.83
+01/02/2023,Turkana,Cooking Oil,litre,517.32
+01/03/2023,Turkana,Cooking oil,litre,506.6
+01/04/2023,Turkana,Cooking oil,litre,548.44
+01/05/2023,Turkana,veg. oil,litre,554.05
+01/06/2023,Turkana,Cooking Oil,litre,500.76
+01/07/2023,Turkana,veg. oil,litre,484.13
+01/08/2023,TURKANA,Cooking Oil,litre,467.93
+01/09/2023,Turkana,Cooking Oil,litre,441.46
+01/10/2023,Turkana,veg. oil,litre,397.84
+01/11/2023,Turkana,veg. oil,litre,418.45
+01/12/2023,Turkana,veg. oil,litre,392.19
+01/01/2024,Turkana,Cooking oil,litre,361.89
+01/02/2024,Turkana,Cooking oil,litre,341.5
+01/03/2024,Turkana,Cooking oil,litre,360.81
+01/04/2024,Turkana,Cooking Oil,litre,376.17
+01/05/2024,Turkana,Cooking oil,litre,363.18
+01/06/2024,Turkana,veg. oil,litre,366.36
+01/07/2024,Turkana,Cooking Oil,litre,343.68
+01/08/2024,Turkana,Cooking Oil,litre,355.39
+01/09/2024,Turkana,Cooking Oil,litre,336.17
+01/10/2024,Turkana,Cooking oil,litre,372.09
+01/11/2024,Turkana,veg. oil,litre,357.04
+01/12/2024,Turkana,Cooking oil,litre,329.49
+01/01/2025,TURKANA,Cooking oil,litre,333.75
+01/02/2025,Turkana,Cooking oil,litre,360.94
+01/03/2025,Turkana,Cooking oil,litre,360.28
+01/04/2025,Turkana,veg. oil,litre,358.42
+01/05/2025,Turkana,Cooking Oil,litre,371.05
+01/06/2025,Turkana,Cooking oil,litre,388.05
+01/07/2025,Turkana,veg. oil,litre,370.76
+01/08/2025,Turkana,Cooking oil,litre,346.76
+01/09/2025,Turkana,Cooking oil,litre,364.22
+01/10/2025,Turkana,Cooking oil,litre,350.96
+01/11/2025,Turkana,Cooking Oil,litre,356.36
+01/12/2025,TURKANA,veg. oil,litre,369.43
+01/01/2021,Turkana,potatoes,kg,56.49
+01/02/2021,Turkana,Irish potatoes,kg,61.56
+01/03/2021,Turkana,Irish potatoes,kg,60.84
+01/04/2021,Turkana,Irish potatoes,kg,67.32
+01/05/2021,Turkana,Irish potatoes,kg,69.02
+01/06/2021,Turkana,potatoes,kg,72.85
+01/07/2021,Turkana,potatoes,kg,73.12
+01/08/2021,Turkana,Potatoes,kg,68.17
+01/09/2021,Turkana,potatoes,kg,66.51
+01/10/2021,Turkana,Potatoes,kg,64.55
+01/11/2021,Turkana,potatoes,kg,61.58
+01/12/2021,Turkana,potatoes,kg,61.0
+01/01/2022,Turkana,Irish potatoes,kg,58.17
+01/02/2022,Turkana,Potatoes,kg,64.95
+01/03/2022,Turkana,potatoes,kg,71.77
+01/04/2022,Turkana,potatoes,kg,75.32
+01/05/2022,Turkana,Irish potatoes,kg,75.35
+01/06/2022,Turkana,Irish potatoes,kg,81.11
+01/07/2022,Turkana,Irish potatoes,kg,83.84
+01/08/2022,Turkana,potatoes,kg,80.71
+01/09/2022,Turkana,Irish potatoes,kg,83.88
+01/10/2022,Turkana,Irish potatoes,kg,79.31
+01/11/2022,Turkana,Potatoes,kg,80.48
+01/12/2022,Turkana,Potatoes,kg,82.81
+01/01/2023,Turkana,potatoes,kg,92.78
+01/02/2023,Turkana,potatoes,kg,91.64
+01/03/2023,TURKANA,potatoes,kg,96.95
+01/04/2023,Turkana,Potatoes,kg,105.95
+01/05/2023,Turkana,potatoes,kg,104.81
+01/06/2023,Turkana,Irish potatoes,kg,106.16
+01/07/2023,Turkana,Irish potatoes,kg,94.6
+01/08/2023,Turkana,potatoes,kg,95.8
+01/09/2023,Turkana,Irish potatoes,kg,87.36
+01/10/2023,Turkana,Irish potatoes,kg,77.23
+01/11/2023,Turkana,Irish potatoes,kg,78.03
+01/12/2023,Turkana,potatoes,kg,71.53
+01/01/2024,Turkana,Potatoes,kg,71.27
+01/02/2024,Turkana,Potatoes,kg,70.6
+01/03/2024,Turkana,Irish potatoes,kg,72.9
+01/04/2024,Turkana,Potatoes,kg,78.65
+01/05/2024,Turkana,potatoes,kg,78.82
+01/07/2024,Turkana,Irish potatoes,kg,84.81
+01/08/2024,Turkana,potatoes,kg,78.5
+01/09/2024,Turkana,Potatoes,kg,72.73
+01/10/2024,Turkana,potatoes,kg,71.95
+01/11/2024,Turkana,Potatoes,kg,67.99
+01/12/2024,Turkana,potatoes,kg,69.77
+01/01/2025,Turkana,Potatoes,kg,71.07
+01/02/2025,Turkana,Potatoes,kg,72.82
+01/03/2025,Turkana,Irish potatoes,kg,78.08
+01/04/2025,Turkana,potatoes,kg,84.64
+01/05/2025,Turkana,potatoes,kg,89.58
+01/06/2025,Turkana,Irish potatoes,kg,85.2
+01/07/2025,Turkana,Irish potatoes,kg,87.64
+01/08/2025,Turkana,Potatoes,kg,82.57
+01/09/2025,Turkana,potatoes,kg,76.94
+01/10/2025,Turkana,Potatoes,kg,78.65
+01/11/2025,TURKANA,potatoes,kg,73.92
+01/12/2025,Turkana,potatoes,kg,72.52
+01/01/2021,Turkana,milk (fresh),litre,65.82
+01/02/2021,Turkana,Milk,litre,72.86
+01/03/2021,Turkana,milk (fresh),litre,70.65
+01/04/2021,TURKANA,milk (fresh),litre,73.74
+01/05/2021,Turkana,Milk,litre,79.54
+01/06/2021,Turkana,Milk,litre,75.98
+01/07/2021,TURKANA,Milk,litre,72.76
+01/08/2021,Turkana,milk (fresh),litre,73.19
+01/09/2021,Turkana,Milk,litre,72.97
+01/10/2021,Turkana,Milk,litre,76.14
+01/11/2021,Turkana,Milk,litre,71.75
+01/12/2021,Turkana,milk (fresh),litre,70.72
+01/01/2022,Turkana,milk (fresh),litre,74.04
+01/02/2022,Turkana,Milk,litre,77.22
+01/03/2022,Turkana,milk (fresh),litre,75.35
+01/04/2022,Turkana,milk (fresh),litre,83.72
+01/05/2022,Turkana,Milk,litre,85.44
+01/06/2022,Turkana,Milk,litre,87.04
+01/07/2022,Turkana,milk (fresh),litre,
+01/08/2022,Turkana,Milk,litre,89.81
+01/09/2022,Turkana,milk (fresh),litre,94.24
+01/10/2022,Turkana,milk (fresh),litre,91.0
+01/11/2022,Turkana,milk (fresh),litre,100.19
+01/12/2022,Turkana,milk (fresh),litre,96.69
+01/01/2023,Turkana,milk (fresh),litre,97.14
+01/02/2023,Turkana,Milk,litre,106.36
+01/03/2023,Turkana,milk (fresh),litre,109.49
+01/04/2023,Turkana,Milk,litre,114.2
+01/05/2023,Turkana,Milk,litre,111.55
+01/06/2023,Turkana,milk (fresh),litre,115.21
+01/07/2023,Turkana,Milk,litre,105.39
+01/08/2023,TURKANA,milk (fresh),litre,102.39
+01/09/2023,Turkana,milk (fresh),litre,92.55
+01/10/2023,TURKANA,milk (fresh),litre,88.53
+01/11/2023,TURKANA,milk (fresh),litre,86.94
+01/12/2023,Turkana,milk (fresh),litre,82.01
+01/01/2024,TURKANA,Milk,litre,81.5
+01/02/2024,Turkana,milk (fresh),litre,82.49
+01/03/2024,Turkana,milk (fresh),litre,84.97
+01/04/2024,Turkana,Milk,litre,87.95
+01/05/2024,Turkana,milk (fresh),litre,89.29
+01/06/2024,Turkana,milk (fresh),litre,90.51
+01/07/2024,Turkana,Milk,litre,87.87
+01/08/2024,Turkana,Milk,litre,84.55
+01/09/2024,TURKANA,Milk,litre,80.06
+01/10/2024,Turkana,Milk,litre,81.37
+01/12/2024,Turkana,milk (fresh),litre,76.21
+01/01/2025,Turkana,milk (fresh),litre,85.55
+01/02/2025,Turkana,milk (fresh),litre,78.67
+01/03/2025,Turkana,milk (fresh),litre,86.67
+01/04/2025,Turkana,Milk,litre,89.66
+01/05/2025,Turkana,Milk,litre,89.41
+01/06/2025,Turkana,milk (fresh),litre,98.06
+01/07/2025,Turkana,milk (fresh),litre,90.7
+01/08/2025,Turkana,milk (fresh),litre,87.27
+01/09/2025,Turkana,Milk,litre,92.13
+01/10/2025,Turkana,Milk,litre,83.47
+01/11/2025,Turkana,milk (fresh),litre,80.55
+01/12/2025,Turkana,Milk,litre,81.34
+01/08/2023,Turkana,SUGAR,kg,256.2
+01/11/2023,Turkana,veg. oil,litre,418.45
+01/08/2023,Turkana,Maize,kg,112.35

@@ -1,0 +1,474 @@
+Date,County,Commodity,Unit,Price (KES)
+01/01/2021,KISUMU,MAIZE,kg,41.65
+01/02/2021,Kisumu,maize (white),kg,45.53
+01/03/2021,Kisumu,Maize,kg,47.76
+01/04/2021,Kisumu,Maize,kg,50.02
+01/05/2021,Kisumu,MAIZE,kg,52.59
+01/06/2021,Kisumu,maize (white),kg,53.03
+01/07/2021,Kisumu,Maize,kg,54.49
+01/08/2021,Kisumu,Maize,kg,50.87
+01/09/2021,Kisumu,Maize,kg,49.02
+01/10/2021,KISUMU,MAIZE,kg,45.35
+01/11/2021,Kisumu,Maize,kg,42.02
+01/12/2021,Kisumu,MAIZE,kg,44.65
+01/01/2022,Kisumu,MAIZE,kg,43.2
+01/02/2022,Kisumu,MAIZE,kg,48.25
+01/03/2022,Kisumu,maize (white),kg,51.66
+01/05/2022,Kisumu,MAIZE,kg,57.19
+01/06/2022,Kisumu,Maize,kg,60.77
+01/07/2022,Kisumu,MAIZE,kg,61.87
+01/08/2022,Kisumu,MAIZE,kg,61.8
+01/09/2022,Kisumu,Maize,kg,65.51
+01/10/2022,Kisumu,MAIZE,kg,63.75
+01/11/2022,Kisumu,maize (white),kg,66.1
+01/12/2022,Kisumu,Maize,kg,67.4
+01/01/2023,Kisumu,Maize,kg,74.04
+01/02/2023,Kisumu,MAIZE,kg,78.35
+01/03/2023,Kisumu,maize (white),kg,87.29
+01/04/2023,Kisumu,Maize,kg,94.73
+01/05/2023,Kisumu,Maize,kg,95.78
+01/06/2023,Kisumu,maize (white),kg,92.8
+01/07/2023,Kisumu,MAIZE,kg,85.76
+01/08/2023,Kisumu,Maize,kg,80.98
+01/09/2023,Kisumu,MAIZE,kg,72.37
+01/10/2023,KISUMU,maize (white),kg,62.99
+01/11/2023,Kisumu,Maize,kg,56.01
+01/12/2023,Kisumu,Maize,kg,54.65
+01/01/2024,Kisumu,MAIZE,kg,56.73
+01/02/2024,Kisumu,Maize,kg,53.43
+01/05/2024,Kisumu,MAIZE,kg,56.37
+01/06/2024,Kisumu,MAIZE,kg,62.03
+01/07/2024,Kisumu,Maize,kg,59.62
+01/08/2024,Kisumu,Maize,kg,61.0
+01/09/2024,Kisumu,maize (white),kg,54.96
+01/10/2024,Kisumu,maize (white),kg,50.99
+01/11/2024,Kisumu,maize (white),kg,49.59
+01/12/2024,Kisumu,Maize,kg,49.43
+01/01/2025,Kisumu,Maize,kg,49.4
+01/02/2025,Kisumu,MAIZE,kg,52.8
+01/03/2025,Kisumu,Maize,kg,54.16
+01/04/2025,Kisumu,Maize,kg,59.63
+01/05/2025,Kisumu,maize (white),kg,64.19
+01/06/2025,Kisumu,MAIZE,kg,67.63
+01/07/2025,Kisumu,Maize,kg,64.48
+01/08/2025,Kisumu,maize (white),kg,61.33
+01/09/2025,Kisumu,Maize,kg,59.62
+01/10/2025,Kisumu,Maize,kg,55.96
+01/11/2025,Kisumu,MAIZE,kg,54.52
+01/12/2025,Kisumu,maize (white),kg,52.83
+01/01/2021,Kisumu,Beans,kg,105.21
+01/02/2021,Kisumu,beans - rosecoco,kg,103.87
+01/03/2021,KISUMU,Beans ,kg,120.53
+01/04/2021,Kisumu,beans - rosecoco,kg,
+01/05/2021,KISUMU,beans - rosecoco,kg,118.26
+01/06/2021,Kisumu,Beans ,kg,123.1
+01/07/2021,Kisumu,Beans ,kg,115.75
+01/08/2021,Kisumu,beans - rosecoco,kg,114.54
+01/09/2021,Kisumu,Beans ,kg,114.66
+01/10/2021,Kisumu,beans - rosecoco,kg,111.67
+01/11/2021,KISUMU,Beans ,kg,111.69
+01/12/2021,KISUMU,Beans,kg,114.91
+01/01/2022,Kisumu,beans - rosecoco,kg,111.34
+01/02/2022,Kisumu,Beans ,kg,118.36
+01/03/2022,Kisumu,Beans ,kg,123.87
+01/04/2022,Kisumu,beans - rosecoco,kg,123.11
+01/05/2022,Kisumu,Beans ,kg,133.41
+01/06/2022,Kisumu,Beans,kg,132.91
+01/07/2022,Kisumu,beans - rosecoco,kg,144.22
+01/08/2022,Kisumu,Beans,kg,143.48
+01/09/2022,Kisumu,beans - rosecoco,kg,142.76
+01/10/2022,Kisumu,Beans,kg,138.23
+01/11/2022,Kisumu,Beans,kg,146.94
+01/01/2023,Kisumu,beans - rosecoco,kg,160.0
+01/02/2023,Kisumu,beans - rosecoco,kg,163.41
+01/03/2023,Kisumu,Beans,kg,167.04
+01/04/2023,Kisumu,Beans ,kg,181.51
+01/05/2023,Kisumu,Beans ,kg,182.51
+01/06/2023,Kisumu,beans - rosecoco,kg,173.4
+01/07/2023,Kisumu,Beans ,kg,176.45
+01/08/2023,Kisumu,Beans,kg,160.23
+01/09/2023,Kisumu,Beans ,kg,150.31
+01/10/2023,Kisumu,Beans,kg,142.91
+01/11/2023,Kisumu,beans - rosecoco,kg,132.02
+01/12/2023,Kisumu,Beans,kg,128.88
+01/01/2024,Kisumu,Beans ,kg,128.54
+01/02/2024,Kisumu,Beans ,kg,136.25
+01/03/2024,Kisumu,beans - rosecoco,kg,
+01/04/2024,Kisumu,beans - rosecoco,kg,135.19
+01/05/2024,Kisumu,Beans,kg,145.5
+01/06/2024,Kisumu,Beans,kg,139.62
+01/07/2024,Kisumu,Beans,kg,140.48
+01/08/2024,Kisumu,Beans,kg,139.88
+01/09/2024,Kisumu,Beans ,kg,133.81
+01/10/2024,Kisumu,beans - rosecoco,kg,138.4
+01/11/2024,Kisumu,Beans,kg,127.45
+01/12/2024,Kisumu,beans - rosecoco,kg,121.34
+01/01/2025,Kisumu,Beans,kg,
+01/02/2025,Kisumu,beans - rosecoco,kg,129.13
+01/03/2025,Kisumu,beans - rosecoco,kg,134.01
+01/04/2025,Kisumu,Beans ,kg,127.22
+01/05/2025,Kisumu,Beans ,kg,147.52
+01/06/2025,Kisumu,Beans ,kg,148.34
+01/07/2025,KISUMU,Beans,kg,147.62
+01/08/2025,Kisumu,Beans ,kg,145.78
+01/09/2025,KISUMU,Beans ,kg,144.94
+01/10/2025,Kisumu,beans - rosecoco,kg,134.06
+01/11/2025,Kisumu,Beans,kg,135.33
+01/12/2025,Kisumu,Beans ,kg,128.02
+01/01/2021,Kisumu,Rice,kg,122.78
+01/02/2021,Kisumu,Rice,kg,129.58
+01/03/2021,Kisumu,Rice,kg,131.21
+01/04/2021,Kisumu,Rice,kg,126.72
+01/05/2021,Kisumu,Rice,kg,129.15
+01/06/2021,KISUMU,rice (pishori),kg,128.33
+01/07/2021,Kisumu,Rice,kg,130.63
+01/08/2021,Kisumu,Rice,kg,128.0
+01/09/2021,Kisumu,Rice,kg,128.99
+01/10/2021,Kisumu,Rice,kg,130.06
+01/11/2021,Kisumu,rice (pishori),kg,126.67
+01/01/2022,Kisumu,Rice,kg,126.94
+01/02/2022,Kisumu,Rice,kg,136.4
+01/03/2022,Kisumu,Rice,kg,137.79
+01/04/2022,Kisumu,Rice,kg,145.39
+01/05/2022,Kisumu,rice (pishori),kg,149.4
+01/06/2022,Kisumu,rice (pishori),kg,147.27
+01/07/2022,Kisumu,Rice,kg,155.86
+01/08/2022,Kisumu,Rice,kg,150.13
+01/09/2022,Kisumu,rice (pishori),kg,172.35
+01/10/2022,Kisumu,Rice,kg,
+01/11/2022,Kisumu,Rice,kg,170.48
+01/12/2022,KISUMU,Rice,kg,171.31
+01/01/2023,Kisumu,Rice,kg,185.68
+01/02/2023,Kisumu,Rice,kg,178.59
+01/03/2023,Kisumu,Rice,kg,189.02
+01/04/2023,Kisumu,rice (pishori),kg,200.16
+01/05/2023,Kisumu,rice (pishori),kg,195.74
+01/06/2023,Kisumu,rice (pishori),kg,189.21
+01/07/2023,Kisumu,Rice,kg,191.72
+01/08/2023,Kisumu,rice (pishori),kg,173.63
+01/09/2023,Kisumu,Rice,kg,172.97
+01/10/2023,Kisumu,rice (pishori),kg,161.82
+01/11/2023,Kisumu,Rice,kg,154.24
+01/12/2023,Kisumu,rice (pishori),kg,156.07
+01/01/2024,Kisumu,rice (pishori),kg,146.83
+01/02/2024,Kisumu,rice (pishori),kg,158.87
+01/03/2024,Kisumu,Rice,kg,147.74
+01/04/2024,Kisumu,rice (pishori),kg,160.05
+01/05/2024,Kisumu,rice (pishori),kg,146.75
+01/06/2024,Kisumu,Rice,kg,154.84
+01/07/2024,Kisumu,Rice,kg,146.37
+01/08/2024,Kisumu,Rice,kg,144.98
+01/09/2024,Kisumu,rice (pishori),kg,150.67
+01/10/2024,Kisumu,rice (pishori),kg,151.92
+01/11/2024,Kisumu,rice (pishori),kg,142.59
+01/12/2024,KISUMU,rice (pishori),kg,153.61
+01/01/2025,Kisumu,Rice,kg,145.67
+01/02/2025,Kisumu,Rice,kg,151.44
+01/03/2025,Kisumu,rice (pishori),kg,154.62
+01/04/2025,Kisumu,Rice,kg,157.69
+01/05/2025,Kisumu,Rice,kg,148.12
+01/06/2025,Kisumu,Rice,kg,165.14
+01/07/2025,Kisumu,rice (pishori),kg,160.26
+01/08/2025,Kisumu,Rice,kg,154.98
+01/09/2025,KISUMU,rice (pishori),kg,151.15
+01/10/2025,Kisumu,rice (pishori),kg,147.01
+01/11/2025,Kisumu,Rice,kg,147.94
+01/01/2021,Kisumu,SUGAR,kg,109.29
+01/02/2021,Kisumu,Sugar,kg,106.49
+01/03/2021,Kisumu,SUGAR,kg,111.11
+01/04/2021,Kisumu,Sugar,kg,112.64
+01/05/2021,Kisumu,sugar,kg,119.58
+01/06/2021,Kisumu,Sugar,kg,115.77
+01/07/2021,Kisumu,Sugar,kg,114.65
+01/08/2021,Kisumu,sugar,kg,112.36
+01/09/2021,Kisumu,Sugar,kg,112.31
+01/10/2021,Kisumu,Sugar,kg,115.57
+01/11/2021,Kisumu,sugar,kg,114.82
+01/12/2021,Kisumu,Sugar,kg,119.94
+01/01/2022,Kisumu,Sugar,kg,115.06
+01/02/2022,KISUMU,sugar,kg,123.24
+01/03/2022,Kisumu,SUGAR,kg,123.4
+01/04/2022,Kisumu,sugar,kg,126.2
+01/05/2022,Kisumu,Sugar,kg,122.81
+01/06/2022,Kisumu,Sugar,kg,130.64
+01/07/2022,Kisumu,SUGAR,kg,145.17
+01/08/2022,Kisumu,Sugar,kg,155.51
+01/09/2022,KISUMU,Sugar,kg,158.86
+01/10/2022,Kisumu,SUGAR,kg,171.88
+01/11/2022,Kisumu,sugar,kg,177.44
+01/12/2022,Kisumu,Sugar,kg,190.1
+01/01/2023,Kisumu,SUGAR,kg,200.83
+01/02/2023,Kisumu,Sugar,kg,222.55
+01/03/2023,Kisumu,SUGAR,kg,226.83
+01/06/2023,Kisumu,SUGAR,kg,223.12
+01/07/2023,Kisumu,Sugar,kg,210.06
+01/08/2023,Kisumu,SUGAR,kg,189.25
+01/09/2023,Kisumu,SUGAR,kg,188.81
+01/10/2023,KISUMU,SUGAR,kg,167.41
+01/11/2023,Kisumu,SUGAR,kg,154.95
+01/12/2023,Kisumu,SUGAR,kg,152.91
+01/01/2024,Kisumu,SUGAR,kg,144.99
+01/02/2024,Kisumu,sugar,kg,136.92
+01/03/2024,Kisumu,Sugar,kg,137.85
+01/04/2024,Kisumu,sugar,kg,130.81
+01/05/2024,Kisumu,Sugar,kg,132.49
+01/06/2024,Kisumu,Sugar,kg,125.83
+01/07/2024,Kisumu,sugar,kg,139.47
+01/08/2024,Kisumu,sugar,kg,126.12
+01/09/2024,KISUMU,SUGAR,kg,135.41
+01/10/2024,Kisumu,SUGAR,kg,128.45
+01/11/2024,Kisumu,sugar,kg,127.31
+01/12/2024,Kisumu,Sugar,kg,130.46
+01/01/2025,Kisumu,Sugar,kg,133.07
+01/02/2025,Kisumu,sugar,kg,135.89
+01/03/2025,Kisumu,sugar,kg,142.43
+01/04/2025,Kisumu,Sugar,kg,138.52
+01/05/2025,Kisumu,sugar,kg,142.16
+01/06/2025,Kisumu,Sugar,kg,136.82
+01/07/2025,Kisumu,Sugar,kg,142.4
+01/08/2025,Kisumu,SUGAR,kg,139.51
+01/09/2025,Kisumu,Sugar,kg,136.03
+01/10/2025,Kisumu,SUGAR,kg,136.62
+01/11/2025,Kisumu,sugar,kg,136.19
+01/12/2025,Kisumu,Sugar,kg,137.29
+01/01/2021,Kisumu,Wheat flour,kg,98.2
+01/02/2021,KISUMU,Flour (wheat),kg,99.18
+01/03/2021,Kisumu,wheat Flour,kg,109.4
+01/04/2021,KISUMU,Wheat flour,kg,105.45
+01/05/2021,KISUMU,Wheat flour,kg,100.97
+01/06/2021,Kisumu,Wheat flour,kg,107.13
+01/07/2021,Kisumu,Flour (wheat),kg,105.15
+01/08/2021,Kisumu,wheat Flour,kg,100.48
+01/09/2021,Kisumu,Flour (wheat),kg,98.99
+01/10/2021,Kisumu,wheat Flour,kg,101.14
+01/11/2021,Kisumu,wheat Flour,kg,107.29
+01/12/2021,KISUMU,wheat Flour,kg,106.78
+01/01/2022,Kisumu,Wheat flour,kg,107.11
+01/02/2022,Kisumu,wheat Flour,kg,110.33
+01/03/2022,Kisumu,Wheat flour,kg,113.41
+01/04/2022,Kisumu,Flour (wheat),kg,106.74
+01/05/2022,Kisumu,Wheat flour,kg,115.93
+01/06/2022,KISUMU,wheat Flour,kg,117.66
+01/07/2022,Kisumu,wheat Flour,kg,120.39
+01/08/2022,Kisumu,wheat Flour,kg,128.04
+01/09/2022,Kisumu,wheat Flour,kg,135.72
+01/10/2022,Kisumu,Flour (wheat),kg,142.02
+01/11/2022,KISUMU,Wheat flour,kg,144.22
+01/01/2023,Kisumu,Flour (wheat),kg,176.43
+01/02/2023,Kisumu,Flour (wheat),kg,167.34
+01/03/2023,Kisumu,wheat Flour,kg,168.22
+01/04/2023,Kisumu,wheat Flour,kg,180.26
+01/05/2023,KISUMU,Flour (wheat),kg,180.44
+01/06/2023,Kisumu,Wheat flour,kg,175.2
+01/07/2023,KISUMU,wheat Flour,kg,160.44
+01/08/2023,Kisumu,Wheat flour,kg,162.61
+01/09/2023,KISUMU,Wheat flour,kg,145.9
+01/10/2023,Kisumu,wheat Flour,kg,136.72
+01/11/2023,Kisumu,Wheat flour,kg,132.38
+01/12/2023,Kisumu,wheat Flour,kg,129.22
+01/01/2024,Kisumu,Flour (wheat),kg,128.69
+01/02/2024,Kisumu,wheat Flour,kg,126.02
+01/03/2024,Kisumu,Wheat flour,kg,122.41
+01/04/2024,Kisumu,Wheat flour,kg,125.4
+01/05/2024,Kisumu,Wheat flour,kg,122.14
+01/06/2024,Kisumu,Wheat flour,kg,125.07
+01/07/2024,Kisumu,Flour (wheat),kg,116.56
+01/08/2024,Kisumu,Wheat flour,kg,115.71
+01/09/2024,Kisumu,Wheat flour,kg,123.95
+01/10/2024,Kisumu,Wheat flour,kg,115.83
+01/11/2024,Kisumu,Flour (wheat),kg,119.71
+01/12/2024,Kisumu,Wheat flour,kg,120.68
+01/01/2025,Kisumu,Wheat flour,kg,119.82
+01/02/2025,Kisumu,Wheat flour,kg,120.79
+01/04/2025,Kisumu,Flour (wheat),kg,115.06
+01/05/2025,Kisumu,Flour (wheat),kg,128.7
+01/06/2025,Kisumu,Flour (wheat),kg,134.64
+01/07/2025,Kisumu,wheat Flour,kg,126.3
+01/08/2025,Kisumu,Wheat flour,kg,126.09
+01/09/2025,Kisumu,wheat Flour,kg,128.69
+01/10/2025,Kisumu,wheat Flour,kg,132.63
+01/11/2025,Kisumu,Wheat flour,kg,121.2
+01/12/2025,Kisumu,Wheat flour,kg,126.24
+01/01/2021,Kisumu,veg. oil,litre,224.98
+01/02/2021,Kisumu,veg. oil,litre,221.08
+01/03/2021,Kisumu,Cooking oil,litre,218.33
+01/04/2021,Kisumu,Cooking Oil,litre,224.26
+01/05/2021,KISUMU,Cooking Oil,litre,235.99
+01/06/2021,Kisumu,Cooking oil,litre,237.52
+01/07/2021,Kisumu,Cooking Oil,litre,231.34
+01/08/2021,Kisumu,Cooking Oil,litre,233.34
+01/09/2021,Kisumu,Cooking Oil,litre,230.69
+01/10/2021,Kisumu,Cooking oil,litre,225.01
+01/11/2021,Kisumu,veg. oil,litre,242.22
+01/12/2021,Kisumu,veg. oil,litre,236.89
+01/01/2022,Kisumu,Cooking Oil,litre,254.0
+01/02/2022,Kisumu,veg. oil,litre,234.3
+01/03/2022,Kisumu,Cooking Oil,litre,243.23
+01/04/2022,Kisumu,Cooking Oil,litre,256.58
+01/05/2022,Kisumu,Cooking Oil,litre,255.1
+01/06/2022,Kisumu,veg. oil,litre,254.45
+01/07/2022,KISUMU,Cooking Oil,litre,267.93
+01/08/2022,Kisumu,Cooking oil,litre,288.98
+01/09/2022,Kisumu,Cooking oil,litre,305.86
+01/10/2022,Kisumu,Cooking oil,litre,318.73
+01/11/2022,Kisumu,Cooking oil,litre,348.55
+01/12/2022,Kisumu,Cooking Oil,litre,368.57
+01/01/2023,Kisumu,Cooking oil,litre,380.32
+01/02/2023,Kisumu,Cooking Oil,litre,392.87
+01/03/2023,Kisumu,Cooking oil,litre,400.29
+01/04/2023,Kisumu,Cooking oil,litre,414.03
+01/05/2023,Kisumu,veg. oil,litre,414.68
+01/06/2023,Kisumu,Cooking oil,litre,393.25
+01/07/2023,Kisumu,Cooking oil,litre,380.95
+01/08/2023,Kisumu,Cooking Oil,litre,352.48
+01/09/2023,Kisumu,Cooking oil,litre,321.07
+01/10/2023,Kisumu,Cooking oil,litre,306.52
+01/11/2023,Kisumu,veg. oil,litre,306.54
+01/12/2023,Kisumu,Cooking oil,litre,290.79
+01/01/2024,Kisumu,Cooking oil,litre,291.2
+01/02/2024,Kisumu,Cooking oil,litre,272.68
+01/03/2024,Kisumu,Cooking oil,litre,276.05
+01/04/2024,Kisumu,veg. oil,litre,278.26
+01/05/2024,Kisumu,veg. oil,litre,275.11
+01/06/2024,Kisumu,veg. oil,litre,262.06
+01/07/2024,Kisumu,Cooking Oil,litre,265.13
+01/08/2024,Kisumu,Cooking oil,litre,267.08
+01/09/2024,Kisumu,Cooking Oil,litre,257.51
+01/10/2024,Kisumu,veg. oil,litre,268.55
+01/11/2024,Kisumu,Cooking oil,litre,272.76
+01/12/2024,KISUMU,Cooking oil,litre,261.3
+01/01/2025,Kisumu,veg. oil,litre,282.13
+01/02/2025,Kisumu,Cooking Oil,litre,265.9
+01/03/2025,Kisumu,Cooking oil,litre,268.84
+01/04/2025,Kisumu,Cooking oil,litre,270.79
+01/05/2025,KISUMU,veg. oil,litre,268.81
+01/06/2025,Kisumu,veg. oil,litre,279.38
+01/07/2025,Kisumu,Cooking oil,litre,276.63
+01/08/2025,Kisumu,Cooking Oil,litre,290.14
+01/09/2025,Kisumu,Cooking oil,litre,280.92
+01/10/2025,Kisumu,Cooking oil,litre,279.85
+01/11/2025,Kisumu,Cooking oil,litre,273.46
+01/12/2025,Kisumu,Cooking Oil,litre,264.11
+01/01/2021,Kisumu,Irish potatoes,kg,46.43
+01/02/2021,Kisumu,potatoes,kg,48.73
+01/03/2021,Kisumu,Irish potatoes,kg,49.89
+01/04/2021,Kisumu,Potatoes,kg,49.35
+01/05/2021,Kisumu,potatoes,kg,53.12
+01/06/2021,Kisumu,Potatoes,kg,55.99
+01/07/2021,KISUMU,Irish potatoes,kg,54.56
+01/08/2021,Kisumu,potatoes,kg,55.38
+01/09/2021,Kisumu,potatoes,kg,48.54
+01/10/2021,Kisumu,potatoes,kg,
+01/11/2021,Kisumu,potatoes,kg,45.81
+01/12/2021,Kisumu,Potatoes,kg,48.11
+01/01/2022,KISUMU,potatoes,kg,47.21
+01/02/2022,Kisumu,Potatoes,kg,51.2
+01/03/2022,Kisumu,Irish potatoes,kg,51.87
+01/04/2022,Kisumu,Irish potatoes,kg,54.01
+01/05/2022,Kisumu,Irish potatoes,kg,57.53
+01/06/2022,Kisumu,Potatoes,kg,60.59
+01/07/2022,Kisumu,Potatoes,kg,60.84
+01/08/2022,Kisumu,potatoes,kg,65.0
+01/09/2022,Kisumu,potatoes,kg,64.53
+01/10/2022,Kisumu,Potatoes,kg,61.83
+01/11/2022,Kisumu,potatoes,kg,59.44
+01/12/2022,Kisumu,Irish potatoes,kg,62.47
+01/01/2023,Kisumu,Irish potatoes,kg,64.28
+01/02/2023,Kisumu,potatoes,kg,72.88
+01/03/2023,Kisumu,Irish potatoes,kg,75.14
+01/04/2023,Kisumu,potatoes,kg,79.42
+01/05/2023,Kisumu,potatoes,kg,79.27
+01/06/2023,Kisumu,potatoes,kg,74.85
+01/07/2023,KISUMU,Irish potatoes,kg,74.8
+01/08/2023,Kisumu,Potatoes,kg,69.26
+01/09/2023,Kisumu,potatoes,kg,66.7
+01/10/2023,Kisumu,potatoes,kg,60.8
+01/11/2023,Kisumu,Irish potatoes,kg,55.22
+01/12/2023,Kisumu,Potatoes,kg,53.74
+01/01/2024,Kisumu,potatoes,kg,56.65
+01/02/2024,Kisumu,Irish potatoes,kg,53.87
+01/03/2024,Kisumu,potatoes,kg,56.24
+01/04/2024,Kisumu,Potatoes,kg,59.98
+01/05/2024,Kisumu,Potatoes,kg,61.03
+01/06/2024,Kisumu,Potatoes,kg,62.27
+01/07/2024,Kisumu,potatoes,kg,63.37
+01/08/2024,KISUMU,potatoes,kg,63.54
+01/09/2024,Kisumu,potatoes,kg,54.59
+01/10/2024,Kisumu,Potatoes,kg,54.92
+01/11/2024,Kisumu,Potatoes,kg,53.07
+01/12/2024,Kisumu,Irish potatoes,kg,52.26
+01/01/2025,Kisumu,potatoes,kg,53.05
+01/02/2025,Kisumu,Irish potatoes,kg,55.11
+01/03/2025,Kisumu,potatoes,kg,60.57
+01/04/2025,Kisumu,potatoes,kg,61.08
+01/05/2025,Kisumu,Irish potatoes,kg,64.07
+01/06/2025,Kisumu,Irish potatoes,kg,65.33
+01/07/2025,Kisumu,potatoes,kg,64.95
+01/08/2025,Kisumu,Potatoes,kg,62.45
+01/09/2025,Kisumu,potatoes,kg,61.77
+01/10/2025,Kisumu,potatoes,kg,57.15
+01/11/2025,Kisumu,potatoes,kg,55.43
+01/12/2025,Kisumu,Irish potatoes,kg,54.42
+01/01/2021,Kisumu,Milk,litre,51.87
+01/02/2021,Kisumu,Milk,litre,51.78
+01/03/2021,Kisumu,Milk,litre,53.1
+01/04/2021,Kisumu,milk (fresh),litre,58.37
+01/05/2021,Kisumu,milk (fresh),litre,55.23
+01/06/2021,Kisumu,milk (fresh),litre,56.15
+01/07/2021,Kisumu,milk (fresh),litre,57.43
+01/08/2021,Kisumu,milk (fresh),litre,56.09
+01/09/2021,Kisumu,Milk,litre,58.94
+01/10/2021,Kisumu,Milk,litre,50.66
+01/11/2021,Kisumu,Milk,litre,54.37
+01/12/2021,Kisumu,milk (fresh),litre,54.88
+01/01/2022,Kisumu,milk (fresh),litre,52.68
+01/02/2022,Kisumu,milk (fresh),litre,54.98
+01/03/2022,Kisumu,Milk,litre,58.95
+01/04/2022,Kisumu,milk (fresh),litre,63.52
+01/05/2022,Kisumu,milk (fresh),litre,61.11
+01/06/2022,KISUMU,Milk,litre,61.73
+01/07/2022,Kisumu,milk (fresh),litre,68.22
+01/08/2022,Kisumu,milk (fresh),litre,70.45
+01/09/2022,Kisumu,milk (fresh),litre,67.56
+01/10/2022,Kisumu,Milk,litre,64.64
+01/11/2022,Kisumu,Milk,litre,73.75
+01/12/2022,KISUMU,Milk,litre,72.37
+01/01/2023,Kisumu,milk (fresh),litre,78.17
+01/02/2023,KISUMU,milk (fresh),litre,78.73
+01/03/2023,Kisumu,Milk,litre,80.96
+01/04/2023,Kisumu,Milk,litre,82.91
+01/05/2023,Kisumu,Milk,litre,88.48
+01/06/2023,Kisumu,milk (fresh),litre,87.24
+01/07/2023,Kisumu,milk (fresh),litre,75.69
+01/08/2023,Kisumu,Milk,litre,74.79
+01/09/2023,Kisumu,milk (fresh),litre,76.43
+01/10/2023,Kisumu,milk (fresh),litre,67.69
+01/11/2023,Kisumu,Milk,litre,62.53
+01/12/2023,Kisumu,Milk,litre,63.14
+01/01/2024,Kisumu,Milk,litre,62.13
+01/02/2024,Kisumu,milk (fresh),litre,62.44
+01/03/2024,Kisumu,Milk,litre,62.71
+01/04/2024,Kisumu,milk (fresh),litre,64.24
+01/05/2024,Kisumu,Milk,litre,64.93
+01/06/2024,Kisumu,milk (fresh),litre,66.89
+01/07/2024,Kisumu,milk (fresh),litre,64.27
+01/08/2024,Kisumu,Milk,litre,64.29
+01/09/2024,Kisumu,Milk,litre,63.17
+01/10/2024,Kisumu,milk (fresh),litre,64.47
+01/11/2024,Kisumu,Milk,litre,61.75
+01/12/2024,Kisumu,milk (fresh),litre,60.64
+01/01/2025,Kisumu,milk (fresh),litre,62.46
+01/02/2025,Kisumu,Milk,litre,63.62
+01/03/2025,Kisumu,milk (fresh),litre,66.79
+01/04/2025,Kisumu,milk (fresh),litre,67.53
+01/05/2025,Kisumu,milk (fresh),litre,71.59
+01/06/2025,Kisumu,milk (fresh),litre,71.36
+01/07/2025,Kisumu,Milk,litre,68.3
+01/08/2025,Kisumu,milk (fresh),litre,66.56
+01/09/2025,Kisumu,Milk,litre,67.72
+01/10/2025,Kisumu,Milk,litre,65.53
+01/11/2025,KISUMU,Milk,litre,63.35
+01/12/2025,Kisumu,milk (fresh),litre,60.49
+01/12/2023,Kisumu,SUGAR,kg,152.91
+01/01/2024,Kisumu,Cooking oil,litre,291.2
+01/09/2023,Kisumu,MAIZE,kg,72.37

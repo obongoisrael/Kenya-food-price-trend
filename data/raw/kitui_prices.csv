@@ -1,0 +1,474 @@
+Date,County,Commodity,Unit,Price (KES)
+01/01/2021,Kitui,MAIZE,kg,45.24
+01/02/2021,Kitui,Maize,kg,46.92
+01/03/2021,KITUI,MAIZE,kg,52.57
+01/04/2021,Kitui,Maize,kg,53.09
+01/05/2021,Kitui,MAIZE,kg,
+01/06/2021,Kitui,maize (white),kg,55.35
+01/07/2021,KITUI,MAIZE,kg,56.0
+01/08/2021,Kitui,MAIZE,kg,53.16
+01/09/2021,Kitui,Maize,kg,54.53
+01/10/2021,Kitui,maize (white),kg,47.15
+01/11/2021,Kitui,Maize,kg,46.02
+01/12/2021,Kitui,maize (white),kg,47.9
+01/02/2022,KITUI,Maize,kg,54.37
+01/03/2022,Kitui,MAIZE,kg,58.09
+01/04/2022,Kitui,MAIZE,kg,60.66
+01/05/2022,Kitui,Maize,kg,64.93
+01/06/2022,Kitui,Maize,kg,63.27
+01/07/2022,Kitui,MAIZE,kg,66.88
+01/08/2022,Kitui,Maize,kg,
+01/09/2022,Kitui,maize (white),kg,68.96
+01/10/2022,Kitui,MAIZE,kg,66.71
+01/11/2022,Kitui,Maize,kg,68.79
+01/12/2022,Kitui,maize (white),kg,72.06
+01/01/2023,Kitui,maize (white),kg,81.77
+01/02/2023,Kitui,MAIZE,kg,87.76
+01/03/2023,Kitui,MAIZE,kg,93.59
+01/04/2023,Kitui,maize (white),kg,99.9
+01/05/2023,Kitui,Maize,kg,104.33
+01/06/2023,Kitui,Maize,kg,99.73
+01/07/2023,Kitui,MAIZE,kg,95.16
+01/09/2023,Kitui,MAIZE,kg,78.96
+01/10/2023,Kitui,maize (white),kg,70.56
+01/11/2023,Kitui,maize (white),kg,62.66
+01/12/2023,Kitui,Maize,kg,58.97
+01/01/2024,Kitui,maize (white),kg,57.71
+01/02/2024,Kitui,maize (white),kg,61.73
+01/03/2024,Kitui,MAIZE,kg,61.26
+01/04/2024,Kitui,Maize,kg,61.4
+01/05/2024,Kitui,Maize,kg,64.07
+01/06/2024,KITUI,MAIZE,kg,68.21
+01/07/2024,Kitui,MAIZE,kg,67.9
+01/08/2024,Kitui,maize (white),kg,64.75
+01/09/2024,KITUI,MAIZE,kg,61.35
+01/10/2024,Kitui,Maize,kg,56.77
+01/11/2024,Kitui,maize (white),kg,51.69
+01/12/2024,Kitui,maize (white),kg,52.11
+01/01/2025,Kitui,maize (white),kg,51.52
+01/02/2025,Kitui,maize (white),kg,56.56
+01/03/2025,Kitui,MAIZE,kg,58.66
+01/04/2025,Kitui,MAIZE,kg,65.11
+01/05/2025,Kitui,maize (white),kg,67.51
+01/06/2025,Kitui,Maize,kg,65.19
+01/07/2025,Kitui,Maize,kg,69.73
+01/08/2025,Kitui,maize (white),kg,67.23
+01/09/2025,Kitui,maize (white),kg,59.78
+01/10/2025,Kitui,Maize,kg,58.97
+01/11/2025,Kitui,MAIZE,kg,57.32
+01/12/2025,Kitui,Maize,kg,54.87
+01/01/2021,Kitui,Beans,kg,116.74
+01/02/2021,Kitui,beans - rosecoco,kg,120.09
+01/03/2021,Kitui,Beans,kg,126.9
+01/04/2021,KITUI,Beans ,kg,129.55
+01/05/2021,KITUI,Beans,kg,132.99
+01/06/2021,Kitui,Beans,kg,127.91
+01/07/2021,Kitui,beans - rosecoco,kg,
+01/08/2021,Kitui,beans - rosecoco,kg,141.06
+01/09/2021,Kitui,Beans,kg,134.17
+01/10/2021,Kitui,Beans ,kg,125.57
+01/11/2021,Kitui,Beans ,kg,123.05
+01/12/2021,Kitui,beans - rosecoco,kg,123.62
+01/01/2022,Kitui,beans - rosecoco,kg,120.61
+01/02/2022,Kitui,Beans ,kg,133.3
+01/03/2022,Kitui,Beans,kg,130.04
+01/04/2022,Kitui,beans - rosecoco,kg,137.18
+01/05/2022,Kitui,Beans,kg,152.36
+01/06/2022,KITUI,beans - rosecoco,kg,138.77
+01/07/2022,Kitui,Beans,kg,152.64
+01/08/2022,Kitui,Beans ,kg,145.21
+01/09/2022,Kitui,Beans ,kg,151.24
+01/10/2022,Kitui,beans - rosecoco,kg,155.22
+01/11/2022,Kitui,Beans ,kg,156.6
+01/12/2022,Kitui,beans - rosecoco,kg,163.6
+01/01/2023,Kitui,Beans ,kg,165.48
+01/02/2023,Kitui,Beans,kg,176.68
+01/03/2023,Kitui,Beans,kg,178.54
+01/04/2023,Kitui,Beans ,kg,188.67
+01/06/2023,Kitui,Beans ,kg,194.48
+01/07/2023,Kitui,Beans ,kg,177.22
+01/08/2023,Kitui,Beans ,kg,178.3
+01/09/2023,Kitui,Beans,kg,161.95
+01/10/2023,Kitui,beans - rosecoco,kg,152.49
+01/11/2023,Kitui,Beans ,kg,151.06
+01/12/2023,KITUI,Beans,kg,141.59
+01/01/2024,Kitui,Beans ,kg,131.75
+01/02/2024,Kitui,Beans,kg,142.86
+01/03/2024,Kitui,Beans,kg,131.41
+01/04/2024,Kitui,Beans,kg,148.4
+01/05/2024,Kitui,Beans,kg,148.21
+01/06/2024,KITUI,Beans,kg,144.82
+01/07/2024,Kitui,beans - rosecoco,kg,150.45
+01/08/2024,Kitui,Beans,kg,145.92
+01/09/2024,Kitui,Beans,kg,151.87
+01/10/2024,KITUI,Beans ,kg,137.65
+01/11/2024,Kitui,Beans ,kg,144.61
+01/12/2024,Kitui,Beans ,kg,141.6
+01/01/2025,Kitui,beans - rosecoco,kg,135.14
+01/02/2025,Kitui,Beans ,kg,137.87
+01/03/2025,KITUI,Beans ,kg,151.88
+01/04/2025,Kitui,beans - rosecoco,kg,150.42
+01/05/2025,Kitui,Beans,kg,155.5
+01/06/2025,Kitui,Beans,kg,155.28
+01/07/2025,KITUI,Beans ,kg,150.19
+01/08/2025,Kitui,Beans ,kg,151.35
+01/09/2025,Kitui,Beans,kg,144.82
+01/10/2025,Kitui,Beans ,kg,138.46
+01/11/2025,Kitui,beans - rosecoco,kg,141.01
+01/12/2025,Kitui,beans - rosecoco,kg,149.02
+01/01/2021,KITUI,Rice,kg,139.86
+01/02/2021,Kitui,rice (pishori),kg,142.22
+01/03/2021,Kitui,Rice,kg,138.42
+01/04/2021,Kitui,Rice,kg,141.19
+01/05/2021,Kitui,rice (pishori),kg,143.32
+01/06/2021,Kitui,rice (pishori),kg,
+01/07/2021,KITUI,rice (pishori),kg,141.75
+01/08/2021,KITUI,Rice,kg,147.75
+01/09/2021,Kitui,rice (pishori),kg,143.61
+01/10/2021,Kitui,Rice,kg,146.31
+01/11/2021,Kitui,rice (pishori),kg,143.16
+01/12/2021,Kitui,rice (pishori),kg,144.48
+01/01/2022,Kitui,Rice,kg,139.9
+01/02/2022,Kitui,rice (pishori),kg,143.62
+01/03/2022,Kitui,Rice,kg,142.89
+01/04/2022,KITUI,Rice,kg,151.09
+01/05/2022,Kitui,Rice,kg,155.73
+01/06/2022,Kitui,Rice,kg,164.84
+01/07/2022,Kitui,rice (pishori),kg,158.89
+01/09/2022,Kitui,rice (pishori),kg,173.7
+01/10/2022,Kitui,rice (pishori),kg,186.37
+01/11/2022,Kitui,Rice,kg,191.23
+01/12/2022,Kitui,rice (pishori),kg,177.33
+01/01/2023,Kitui,Rice,kg,196.85
+01/02/2023,Kitui,Rice,kg,213.54
+01/03/2023,Kitui,Rice,kg,193.95
+01/04/2023,Kitui,rice (pishori),kg,216.46
+01/05/2023,Kitui,Rice,kg,205.27
+01/06/2023,Kitui,rice (pishori),kg,204.64
+01/07/2023,Kitui,rice (pishori),kg,202.81
+01/08/2023,KITUI,rice (pishori),kg,182.84
+01/09/2023,Kitui,Rice,kg,186.45
+01/10/2023,Kitui,Rice,kg,174.1
+01/11/2023,Kitui,Rice,kg,167.2
+01/12/2023,Kitui,rice (pishori),kg,169.86
+01/01/2024,Kitui,Rice,kg,180.78
+01/02/2024,Kitui,rice (pishori),kg,164.11
+01/03/2024,Kitui,Rice,kg,165.22
+01/04/2024,KITUI,rice (pishori),kg,162.98
+01/05/2024,Kitui,rice (pishori),kg,160.42
+01/06/2024,Kitui,Rice,kg,165.63
+01/07/2024,Kitui,rice (pishori),kg,171.58
+01/08/2024,KITUI,Rice,kg,164.17
+01/09/2024,Kitui,rice (pishori),kg,166.39
+01/11/2024,KITUI,rice (pishori),kg,172.35
+01/12/2024,Kitui,Rice,kg,152.37
+01/01/2025,Kitui,Rice,kg,164.11
+01/02/2025,Kitui,Rice,kg,165.67
+01/03/2025,Kitui,Rice,kg,166.54
+01/04/2025,Kitui,rice (pishori),kg,161.81
+01/05/2025,Kitui,Rice,kg,163.41
+01/06/2025,KITUI,rice (pishori),kg,168.99
+01/07/2025,Kitui,Rice,kg,170.82
+01/08/2025,Kitui,rice (pishori),kg,163.46
+01/09/2025,Kitui,Rice,kg,163.11
+01/10/2025,Kitui,rice (pishori),kg,170.18
+01/11/2025,Kitui,Rice,kg,171.83
+01/12/2025,Kitui,Rice,kg,163.94
+01/01/2021,Kitui,sugar,kg,120.21
+01/02/2021,Kitui,SUGAR,kg,126.46
+01/03/2021,Kitui,Sugar,kg,119.54
+01/04/2021,Kitui,SUGAR,kg,124.43
+01/05/2021,KITUI,Sugar,kg,126.79
+01/06/2021,Kitui,SUGAR,kg,123.07
+01/07/2021,Kitui,SUGAR,kg,131.03
+01/08/2021,Kitui,Sugar,kg,127.15
+01/09/2021,Kitui,SUGAR,kg,127.46
+01/10/2021,Kitui,SUGAR,kg,118.77
+01/11/2021,Kitui,SUGAR,kg,118.27
+01/01/2022,Kitui,SUGAR,kg,125.97
+01/02/2022,Kitui,sugar,kg,128.15
+01/03/2022,KITUI,sugar,kg,135.17
+01/04/2022,Kitui,sugar,kg,142.46
+01/05/2022,Kitui,sugar,kg,140.12
+01/06/2022,Kitui,SUGAR,kg,145.64
+01/07/2022,Kitui,sugar,kg,155.51
+01/08/2022,Kitui,sugar,kg,168.67
+01/09/2022,Kitui,SUGAR,kg,166.35
+01/10/2022,Kitui,Sugar,kg,184.96
+01/11/2022,Kitui,Sugar,kg,192.65
+01/12/2022,Kitui,sugar,kg,205.61
+01/01/2023,Kitui,sugar,kg,226.81
+01/02/2023,Kitui,SUGAR,kg,228.06
+01/03/2023,Kitui,Sugar,kg,234.79
+01/04/2023,Kitui,SUGAR,kg,251.57
+01/05/2023,Kitui,SUGAR,kg,244.6
+01/06/2023,Kitui,Sugar,kg,235.23
+01/07/2023,Kitui,Sugar,kg,223.88
+01/08/2023,Kitui,sugar,kg,212.84
+01/09/2023,Kitui,sugar,kg,191.85
+01/10/2023,KITUI,SUGAR,kg,183.62
+01/11/2023,Kitui,sugar,kg,169.45
+01/12/2023,Kitui,Sugar,kg,165.25
+01/01/2024,Kitui,SUGAR,kg,157.77
+01/02/2024,Kitui,SUGAR,kg,152.15
+01/03/2024,KITUI,sugar,kg,145.69
+01/04/2024,Kitui,sugar,kg,146.54
+01/05/2024,Kitui,SUGAR,kg,143.35
+01/06/2024,Kitui,sugar,kg,158.34
+01/07/2024,Kitui,sugar,kg,144.41
+01/08/2024,KITUI,SUGAR,kg,146.91
+01/09/2024,Kitui,SUGAR,kg,149.24
+01/10/2024,Kitui,SUGAR,kg,136.51
+01/11/2024,KITUI,Sugar,kg,138.2
+01/12/2024,Kitui,sugar,kg,140.11
+01/01/2025,Kitui,SUGAR,kg,138.39
+01/02/2025,Kitui,SUGAR,kg,138.69
+01/03/2025,Kitui,SUGAR,kg,143.86
+01/04/2025,Kitui,sugar,kg,153.84
+01/05/2025,Kitui,SUGAR,kg,152.91
+01/06/2025,KITUI,SUGAR,kg,150.71
+01/07/2025,Kitui,sugar,kg,150.78
+01/08/2025,Kitui,SUGAR,kg,142.57
+01/09/2025,Kitui,SUGAR,kg,152.18
+01/10/2025,Kitui,SUGAR,kg,149.95
+01/11/2025,Kitui,sugar,kg,142.64
+01/12/2025,Kitui,Sugar,kg,148.43
+01/01/2021,Kitui,Flour (wheat),kg,112.91
+01/02/2021,KITUI,Flour (wheat),kg,114.8
+01/03/2021,Kitui,Flour (wheat),kg,116.49
+01/05/2021,Kitui,Wheat flour,kg,117.91
+01/06/2021,Kitui,wheat Flour,kg,114.46
+01/07/2021,Kitui,wheat Flour,kg,114.49
+01/08/2021,KITUI,Flour (wheat),kg,109.64
+01/09/2021,Kitui,wheat Flour,kg,112.19
+01/10/2021,Kitui,Flour (wheat),kg,112.8
+01/11/2021,Kitui,Wheat flour,kg,118.19
+01/12/2021,Kitui,Flour (wheat),kg,121.34
+01/01/2022,Kitui,Flour (wheat),kg,115.0
+01/02/2022,Kitui,Flour (wheat),kg,119.56
+01/03/2022,Kitui,Wheat flour,kg,121.4
+01/04/2022,Kitui,Flour (wheat),kg,120.28
+01/05/2022,Kitui,Wheat flour,kg,119.92
+01/06/2022,Kitui,Wheat flour,kg,127.46
+01/07/2022,Kitui,Wheat flour,kg,129.29
+01/08/2022,Kitui,Wheat flour,kg,139.36
+01/09/2022,Kitui,Wheat flour,kg,146.61
+01/10/2022,Kitui,Wheat flour,kg,153.89
+01/11/2022,Kitui,Wheat flour,kg,162.17
+01/12/2022,Kitui,Wheat flour,kg,174.07
+01/01/2023,Kitui,Wheat flour,kg,174.79
+01/02/2023,Kitui,Wheat flour,kg,191.74
+01/03/2023,Kitui,Wheat flour,kg,181.9
+01/04/2023,Kitui,Wheat flour,kg,193.59
+01/05/2023,Kitui,Flour (wheat),kg,193.82
+01/06/2023,Kitui,Flour (wheat),kg,182.32
+01/07/2023,Kitui,Flour (wheat),kg,170.85
+01/09/2023,Kitui,wheat Flour,kg,158.23
+01/10/2023,Kitui,wheat Flour,kg,156.55
+01/11/2023,Kitui,Flour (wheat),kg,149.08
+01/12/2023,Kitui,wheat Flour,kg,140.09
+01/01/2024,Kitui,Wheat flour,kg,136.16
+01/02/2024,KITUI,Flour (wheat),kg,137.65
+01/03/2024,Kitui,wheat Flour,kg,133.87
+01/04/2024,Kitui,Wheat flour,kg,128.15
+01/05/2024,Kitui,Wheat flour,kg,132.34
+01/06/2024,Kitui,wheat Flour,kg,133.82
+01/07/2024,Kitui,Flour (wheat),kg,132.31
+01/08/2024,Kitui,Wheat flour,kg,131.99
+01/09/2024,Kitui,wheat Flour,kg,130.34
+01/10/2024,Kitui,Wheat flour,kg,130.17
+01/11/2024,Kitui,Wheat flour,kg,126.91
+01/12/2024,Kitui,Flour (wheat),kg,125.21
+01/01/2025,Kitui,wheat Flour,kg,135.85
+01/02/2025,Kitui,Flour (wheat),kg,129.82
+01/03/2025,Kitui,Flour (wheat),kg,134.34
+01/04/2025,Kitui,wheat Flour,kg,128.52
+01/05/2025,Kitui,Wheat flour,kg,136.15
+01/06/2025,Kitui,Wheat flour,kg,132.76
+01/07/2025,Kitui,Wheat flour,kg,148.51
+01/08/2025,Kitui,Flour (wheat),kg,132.2
+01/09/2025,Kitui,Flour (wheat),kg,132.19
+01/10/2025,Kitui,wheat Flour,kg,139.71
+01/11/2025,Kitui,Flour (wheat),kg,140.44
+01/12/2025,Kitui,wheat Flour,kg,127.51
+01/01/2021,Kitui,Cooking Oil,litre,243.03
+01/02/2021,KITUI,Cooking Oil,litre,236.29
+01/03/2021,Kitui,Cooking oil,litre,235.81
+01/04/2021,Kitui,Cooking Oil,litre,241.43
+01/05/2021,KITUI,veg. oil,litre,260.02
+01/06/2021,Kitui,Cooking oil,litre,250.29
+01/07/2021,Kitui,veg. oil,litre,249.24
+01/09/2021,Kitui,Cooking oil,litre,251.78
+01/10/2021,Kitui,Cooking Oil,litre,253.33
+01/11/2021,Kitui,Cooking Oil,litre,257.55
+01/12/2021,Kitui,Cooking Oil,litre,255.74
+01/01/2022,Kitui,veg. oil,litre,262.24
+01/02/2022,Kitui,Cooking Oil,litre,250.06
+01/03/2022,Kitui,veg. oil,litre,264.54
+01/04/2022,Kitui,Cooking oil,litre,267.41
+01/05/2022,Kitui,Cooking oil,litre,278.72
+01/06/2022,KITUI,veg. oil,litre,286.71
+01/07/2022,KITUI,Cooking oil,litre,292.58
+01/08/2022,Kitui,Cooking Oil,litre,308.31
+01/09/2022,Kitui,Cooking oil,litre,336.47
+01/10/2022,Kitui,Cooking oil,litre,339.98
+01/11/2022,Kitui,Cooking Oil,litre,352.44
+01/12/2022,Kitui,veg. oil,litre,393.78
+01/01/2023,Kitui,veg. oil,litre,418.96
+01/02/2023,Kitui,veg. oil,litre,421.1
+01/03/2023,Kitui,veg. oil,litre,437.8
+01/04/2023,Kitui,Cooking Oil,litre,429.56
+01/05/2023,KITUI,Cooking Oil,litre,433.78
+01/06/2023,Kitui,Cooking Oil,litre,438.32
+01/07/2023,Kitui,veg. oil,litre,416.07
+01/08/2023,Kitui,Cooking oil,litre,386.61
+01/09/2023,Kitui,veg. oil,litre,359.63
+01/10/2023,Kitui,Cooking oil,litre,325.36
+01/11/2023,KITUI,Cooking Oil,litre,327.07
+01/12/2023,Kitui,Cooking oil,litre,
+01/01/2024,Kitui,Cooking oil,litre,309.91
+01/02/2024,Kitui,Cooking oil,litre,311.86
+01/03/2024,Kitui,veg. oil,litre,294.22
+01/04/2024,Kitui,veg. oil,litre,297.61
+01/05/2024,Kitui,veg. oil,litre,279.44
+01/06/2024,Kitui,Cooking Oil,litre,298.92
+01/07/2024,Kitui,Cooking Oil,litre,295.71
+01/08/2024,Kitui,Cooking Oil,litre,299.28
+01/09/2024,Kitui,veg. oil,litre,292.7
+01/10/2024,Kitui,Cooking Oil,litre,290.2
+01/11/2024,KITUI,Cooking Oil,litre,298.66
+01/12/2024,Kitui,veg. oil,litre,281.18
+01/01/2025,Kitui,Cooking oil,litre,293.56
+01/02/2025,Kitui,Cooking oil,litre,299.37
+01/03/2025,Kitui,Cooking oil,litre,285.84
+01/04/2025,Kitui,Cooking Oil,litre,285.06
+01/05/2025,Kitui,Cooking Oil,litre,300.87
+01/06/2025,KITUI,Cooking Oil,litre,299.56
+01/07/2025,Kitui,Cooking oil,litre,304.4
+01/08/2025,Kitui,Cooking oil,litre,304.61
+01/09/2025,Kitui,Cooking Oil,litre,291.76
+01/10/2025,Kitui,veg. oil,litre,300.89
+01/11/2025,Kitui,Cooking Oil,litre,307.66
+01/12/2025,Kitui,Cooking oil,litre,295.29
+01/01/2021,KITUI,Potatoes,kg,47.85
+01/02/2021,Kitui,potatoes,kg,50.93
+01/03/2021,Kitui,Irish potatoes,kg,54.56
+01/04/2021,Kitui,Irish potatoes,kg,55.92
+01/05/2021,Kitui,Potatoes,kg,58.97
+01/06/2021,KITUI,potatoes,kg,60.31
+01/07/2021,KITUI,potatoes,kg,57.89
+01/08/2021,Kitui,potatoes,kg,56.05
+01/09/2021,Kitui,potatoes,kg,57.97
+01/10/2021,Kitui,Potatoes,kg,51.01
+01/11/2021,Kitui,Irish potatoes,kg,52.39
+01/12/2021,Kitui,Irish potatoes,kg,50.23
+01/01/2022,Kitui,Potatoes,kg,53.46
+01/02/2022,Kitui,potatoes,kg,52.78
+01/03/2022,Kitui,Potatoes,kg,58.17
+01/04/2022,KITUI,Irish potatoes,kg,61.68
+01/05/2022,KITUI,potatoes,kg,64.02
+01/06/2022,Kitui,potatoes,kg,67.45
+01/07/2022,Kitui,Potatoes,kg,66.45
+01/08/2022,Kitui,Potatoes,kg,67.79
+01/09/2022,Kitui,potatoes,kg,66.41
+01/10/2022,KITUI,potatoes,kg,67.91
+01/11/2022,Kitui,Irish potatoes,kg,66.26
+01/12/2022,Kitui,potatoes,kg,65.13
+01/01/2023,KITUI,Irish potatoes,kg,70.31
+01/02/2023,KITUI,potatoes,kg,75.42
+01/03/2023,Kitui,potatoes,kg,78.49
+01/04/2023,Kitui,potatoes,kg,88.09
+01/05/2023,KITUI,Irish potatoes,kg,87.93
+01/06/2023,Kitui,potatoes,kg,88.41
+01/07/2023,Kitui,Potatoes,kg,81.08
+01/08/2023,Kitui,Irish potatoes,kg,76.71
+01/09/2023,Kitui,Irish potatoes,kg,73.56
+01/10/2023,Kitui,Potatoes,kg,62.91
+01/11/2023,KITUI,Irish potatoes,kg,61.94
+01/12/2023,Kitui,Potatoes,kg,59.04
+01/01/2024,KITUI,Potatoes,kg,57.74
+01/02/2024,Kitui,Potatoes,kg,60.24
+01/03/2024,Kitui,Irish potatoes,kg,60.66
+01/04/2024,Kitui,Potatoes,kg,65.84
+01/05/2024,KITUI,potatoes,kg,65.1
+01/06/2024,Kitui,Irish potatoes,kg,65.76
+01/07/2024,Kitui,Potatoes,kg,70.34
+01/08/2024,Kitui,potatoes,kg,64.07
+01/09/2024,Kitui,Irish potatoes,kg,58.58
+01/10/2024,Kitui,Irish potatoes,kg,61.22
+01/11/2024,Kitui,potatoes,kg,56.1
+01/12/2024,Kitui,Potatoes,kg,50.87
+01/01/2025,Kitui,Irish potatoes,kg,57.69
+01/02/2025,KITUI,Irish potatoes,kg,61.95
+01/03/2025,Kitui,Irish potatoes,kg,64.35
+01/04/2025,Kitui,potatoes,kg,70.49
+01/05/2025,Kitui,Potatoes,kg,69.41
+01/06/2025,Kitui,Potatoes,kg,72.0
+01/07/2025,Kitui,Irish potatoes,kg,68.05
+01/08/2025,Kitui,potatoes,kg,68.31
+01/09/2025,Kitui,Potatoes,kg,67.89
+01/10/2025,Kitui,potatoes,kg,62.83
+01/11/2025,Kitui,Irish potatoes,kg,60.01
+01/12/2025,Kitui,Irish potatoes,kg,55.6
+01/01/2021,Kitui,milk (fresh),litre,55.62
+01/02/2021,Kitui,Milk,litre,57.98
+01/03/2021,Kitui,milk (fresh),litre,59.57
+01/04/2021,Kitui,Milk,litre,63.43
+01/05/2021,Kitui,milk (fresh),litre,63.42
+01/06/2021,Kitui,milk (fresh),litre,57.64
+01/07/2021,KITUI,Milk,litre,61.66
+01/08/2021,Kitui,Milk,litre,57.91
+01/09/2021,KITUI,milk (fresh),litre,59.63
+01/10/2021,Kitui,Milk,litre,60.18
+01/11/2021,KITUI,milk (fresh),litre,55.95
+01/12/2021,Kitui,Milk,litre,56.17
+01/01/2022,Kitui,Milk,litre,59.31
+01/02/2022,KITUI,Milk,litre,60.23
+01/03/2022,Kitui,milk (fresh),litre,66.03
+01/04/2022,Kitui,milk (fresh),litre,66.25
+01/05/2022,Kitui,milk (fresh),litre,69.18
+01/06/2022,Kitui,milk (fresh),litre,73.87
+01/07/2022,Kitui,milk (fresh),litre,70.75
+01/08/2022,Kitui,Milk,litre,72.99
+01/09/2022,Kitui,Milk,litre,71.75
+01/10/2022,Kitui,Milk,litre,75.59
+01/11/2022,Kitui,Milk,litre,78.94
+01/12/2022,Kitui,Milk,litre,82.1
+01/01/2023,Kitui,milk (fresh),litre,81.84
+01/02/2023,Kitui,Milk,litre,83.61
+01/03/2023,Kitui,milk (fresh),litre,86.69
+01/04/2023,Kitui,milk (fresh),litre,87.28
+01/05/2023,Kitui,Milk,litre,92.15
+01/07/2023,Kitui,Milk,litre,81.43
+01/08/2023,Kitui,milk (fresh),litre,77.96
+01/09/2023,Kitui,milk (fresh),litre,81.92
+01/10/2023,Kitui,milk (fresh),litre,70.6
+01/11/2023,Kitui,milk (fresh),litre,71.33
+01/12/2023,Kitui,milk (fresh),litre,65.83
+01/01/2024,Kitui,milk (fresh),litre,69.12
+01/02/2024,Kitui,Milk,litre,69.45
+01/03/2024,KITUI,Milk,litre,69.29
+01/04/2024,Kitui,Milk,litre,72.0
+01/05/2024,Kitui,Milk,litre,71.45
+01/06/2024,Kitui,milk (fresh),litre,72.98
+01/07/2024,Kitui,Milk,litre,75.28
+01/08/2024,Kitui,milk (fresh),litre,72.59
+01/09/2024,Kitui,Milk,litre,67.4
+01/10/2024,Kitui,milk (fresh),litre,65.62
+01/11/2024,Kitui,Milk,litre,65.71
+01/12/2024,Kitui,Milk,litre,65.48
+01/01/2025,Kitui,Milk,litre,66.76
+01/02/2025,Kitui,milk (fresh),litre,66.89
+01/03/2025,Kitui,milk (fresh),litre,71.46
+01/04/2025,Kitui,milk (fresh),litre,72.17
+01/05/2025,Kitui,Milk,litre,74.42
+01/06/2025,Kitui,Milk,litre,74.36
+01/07/2025,Kitui,Milk,litre,75.47
+01/08/2025,Kitui,milk (fresh),litre,70.44
+01/09/2025,Kitui,Milk,litre,74.88
+01/10/2025,Kitui,Milk,litre,70.67
+01/11/2025,Kitui,milk (fresh),litre,69.78
+01/12/2025,Kitui,milk (fresh),litre,69.85
+01/10/2023,KITUI,SUGAR,kg,183.62
+01/12/2023,Kitui,Cooking oil,litre,
+01/10/2023,Kitui,maize (white),kg,70.56

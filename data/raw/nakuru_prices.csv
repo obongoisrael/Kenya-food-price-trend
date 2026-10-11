@@ -1,0 +1,474 @@
+Date,County,Commodity,Unit,Price (KES)
+01/01/2021,Nakuru,maize (white),kg,38.74
+01/02/2021,Nakuru,Maize,kg,41.85
+01/03/2021,NAKURU,Maize,kg,47.44
+01/04/2021,Nakuru,maize (white),90kg bag,4399.01
+01/05/2021,Nakuru,maize (white),90kg bag,4654.95
+01/06/2021,Nakuru,Maize,90kg bag,4737.72
+01/07/2021,Nakuru,Maize,90kg bag,4590.15
+01/08/2021,NAKURU,Maize,kg,48.89
+01/09/2021,Nakuru,maize (white),90kg bag,4209.61
+01/10/2021,NAKURU,MAIZE,90kg bag,4041.27
+01/11/2021,Nakuru,MAIZE,kg,42.76
+01/12/2021,Nakuru,Maize,kg,42.31
+01/01/2022,Nakuru,Maize,90kg bag,3869.06
+01/02/2022,Nakuru,Maize,90kg bag,3988.09
+01/03/2022,Nakuru,maize (white),kg,48.55
+01/04/2022,Nakuru,Maize,90kg bag,4623.06
+01/05/2022,Nakuru,MAIZE,kg,58.16
+01/06/2022,Nakuru,Maize,90kg bag,4992.4
+01/07/2022,Nakuru,maize (white),kg,60.45
+01/08/2022,Nakuru,Maize,90kg bag,5927.29
+01/09/2022,Nakuru,Maize,90kg bag,5475.63
+01/10/2022,Nakuru,MAIZE,90kg bag,5354.4
+01/11/2022,Nakuru,maize (white),90kg bag,5637.86
+01/12/2022,Nakuru,Maize,kg,68.03
+01/01/2023,Nakuru,maize (white),kg,70.03
+01/02/2023,Nakuru,MAIZE,90kg bag,7047.31
+01/03/2023,Nakuru,Maize,90kg bag,7563.8
+01/04/2023,Nakuru,maize (white),kg,88.3
+01/05/2023,Nakuru,Maize,kg,100.42
+01/06/2023,Nakuru,MAIZE,kg,90.44
+01/07/2023,Nakuru,maize (white),kg,83.66
+01/08/2023,Nakuru,Maize,kg,76.15
+01/09/2023,Nakuru,maize (white),kg,69.49
+01/10/2023,NAKURU,MAIZE,90kg bag,5547.41
+01/11/2023,Nakuru,Maize,kg,56.27
+01/12/2023,Nakuru,Maize,90kg bag,4662.23
+01/01/2024,Nakuru,Maize,90kg bag,4362.29
+01/02/2024,Nakuru,maize (white),90kg bag,4728.63
+01/03/2024,Nakuru,maize (white),90kg bag,4816.04
+01/04/2024,Nakuru,MAIZE,90kg bag,5050.29
+01/05/2024,Nakuru,Maize,90kg bag,5037.6
+01/06/2024,Nakuru,maize (white),90kg bag,5243.5
+01/07/2024,NAKURU,maize (white),kg,57.15
+01/08/2024,Nakuru,MAIZE,90kg bag,5050.49
+01/09/2024,Nakuru,Maize,90kg bag,4572.41
+01/10/2024,Nakuru,Maize,90kg bag,
+01/11/2024,Nakuru,maize (white),kg,48.06
+01/12/2024,Nakuru,maize (white),kg,45.59
+01/01/2025,Nakuru,maize (white),90kg bag,4256.38
+01/02/2025,Nakuru,maize (white),kg,49.42
+01/03/2025,Nakuru,MAIZE,90kg bag,5005.69
+01/04/2025,Nakuru,Maize,kg,53.22
+01/05/2025,Nakuru,MAIZE,kg,59.55
+01/06/2025,Nakuru,maize (white),90kg bag,5237.7
+01/07/2025,Nakuru,MAIZE,90kg bag,5380.51
+01/08/2025,Nakuru,MAIZE,kg,59.83
+01/09/2025,Nakuru,Maize,kg,54.18
+01/10/2025,NAKURU,maize (white),90kg bag,4706.92
+01/11/2025,NAKURU,maize (white),kg,48.55
+01/12/2025,NAKURU,maize (white),kg,51.93
+01/01/2021,Nakuru,beans - rosecoco,kg,100.93
+01/02/2021,Nakuru,Beans,kg,109.35
+01/03/2021,Nakuru,beans - rosecoco,kg,109.58
+01/04/2021,Nakuru,Beans,kg,103.43
+01/05/2021,Nakuru,Beans ,kg,113.32
+01/06/2021,Nakuru,beans - rosecoco,kg,116.69
+01/07/2021,NAKURU,Beans ,kg,119.85
+01/08/2021,Nakuru,beans - rosecoco,kg,113.48
+01/09/2021,Nakuru,Beans ,kg,110.82
+01/10/2021,Nakuru,Beans,kg,106.65
+01/11/2021,Nakuru,Beans ,kg,109.03
+01/12/2021,Nakuru,beans - rosecoco,kg,105.2
+01/01/2022,Nakuru,Beans ,kg,106.37
+01/02/2022,Nakuru,Beans,kg,109.38
+01/03/2022,NAKURU,beans - rosecoco,kg,118.66
+01/04/2022,Nakuru,Beans,kg,120.1
+01/05/2022,Nakuru,Beans,kg,120.71
+01/06/2022,Nakuru,Beans,kg,133.65
+01/07/2022,Nakuru,beans - rosecoco,kg,131.23
+01/08/2022,Nakuru,Beans ,kg,
+01/09/2022,Nakuru,Beans ,kg,138.4
+01/10/2022,Nakuru,Beans,kg,143.13
+01/11/2022,Nakuru,Beans ,kg,144.86
+01/12/2022,NAKURU,beans - rosecoco,kg,141.97
+01/01/2023,Nakuru,beans - rosecoco,kg,149.53
+01/02/2023,NAKURU,beans - rosecoco,kg,151.21
+01/03/2023,Nakuru,Beans ,kg,172.49
+01/04/2023,Nakuru,beans - rosecoco,kg,171.64
+01/05/2023,Nakuru,Beans ,kg,178.52
+01/06/2023,Nakuru,Beans ,kg,167.72
+01/07/2023,Nakuru,Beans,kg,153.5
+01/08/2023,Nakuru,Beans ,kg,162.2
+01/09/2023,Nakuru,beans - rosecoco,kg,145.93
+01/10/2023,Nakuru,Beans,kg,137.12
+01/11/2023,Nakuru,beans - rosecoco,kg,129.77
+01/12/2023,NAKURU,Beans ,kg,127.7
+01/01/2024,Nakuru,beans - rosecoco,kg,125.87
+01/02/2024,Nakuru,beans - rosecoco,kg,118.99
+01/03/2024,Nakuru,beans - rosecoco,kg,131.76
+01/04/2024,Nakuru,beans - rosecoco,kg,128.62
+01/05/2024,Nakuru,beans - rosecoco,kg,131.27
+01/06/2024,Nakuru,Beans,kg,141.04
+01/07/2024,Nakuru,Beans,kg,136.9
+01/08/2024,Nakuru,Beans ,kg,129.38
+01/09/2024,Nakuru,Beans,kg,120.15
+01/11/2024,Nakuru,beans - rosecoco,kg,123.33
+01/12/2024,Nakuru,beans - rosecoco,kg,120.44
+01/01/2025,Nakuru,beans - rosecoco,kg,117.6
+01/02/2025,Nakuru,Beans ,kg,122.44
+01/03/2025,Nakuru,Beans ,kg,124.84
+01/04/2025,Nakuru,beans - rosecoco,kg,134.92
+01/05/2025,Nakuru,Beans,kg,140.75
+01/06/2025,Nakuru,beans - rosecoco,kg,143.15
+01/07/2025,Nakuru,beans - rosecoco,kg,135.24
+01/08/2025,Nakuru,Beans,kg,136.8
+01/09/2025,Nakuru,Beans ,kg,134.51
+01/10/2025,Nakuru,beans - rosecoco,kg,126.79
+01/11/2025,Nakuru,Beans,kg,125.7
+01/12/2025,Nakuru,Beans ,kg,133.6
+01/01/2021,Nakuru,Rice,kg,117.63
+01/02/2021,Nakuru,rice (pishori),kg,126.89
+01/04/2021,Nakuru,rice (pishori),kg,123.14
+01/05/2021,Nakuru,Rice,kg,125.5
+01/06/2021,Nakuru,Rice,kg,123.98
+01/07/2021,NAKURU,Rice,kg,128.09
+01/08/2021,Nakuru,Rice,kg,131.31
+01/09/2021,Nakuru,rice (pishori),kg,120.74
+01/10/2021,Nakuru,Rice,kg,128.99
+01/11/2021,Nakuru,rice (pishori),kg,120.28
+01/12/2021,Nakuru,Rice,kg,122.43
+01/01/2022,Nakuru,rice (pishori),kg,120.13
+01/02/2022,NAKURU,rice (pishori),kg,137.22
+01/03/2022,Nakuru,Rice,kg,132.16
+01/04/2022,Nakuru,rice (pishori),kg,136.29
+01/05/2022,NAKURU,rice (pishori),kg,136.13
+01/06/2022,NAKURU,Rice,kg,147.28
+01/07/2022,Nakuru,Rice,kg,137.3
+01/08/2022,Nakuru,Rice,kg,150.62
+01/09/2022,Nakuru,rice (pishori),kg,164.96
+01/10/2022,Nakuru,Rice,kg,157.55
+01/11/2022,Nakuru,Rice,kg,164.66
+01/12/2022,Nakuru,Rice,kg,173.69
+01/02/2023,Nakuru,Rice,kg,181.61
+01/03/2023,Nakuru,rice (pishori),kg,190.99
+01/04/2023,Nakuru,Rice,kg,188.87
+01/05/2023,Nakuru,rice (pishori),kg,189.41
+01/07/2023,Nakuru,Rice,kg,180.49
+01/08/2023,Nakuru,Rice,kg,172.19
+01/09/2023,Nakuru,rice (pishori),kg,171.69
+01/11/2023,Nakuru,Rice,kg,150.7
+01/12/2023,Nakuru,rice (pishori),kg,136.8
+01/01/2024,Nakuru,Rice,kg,148.28
+01/02/2024,Nakuru,rice (pishori),kg,147.43
+01/03/2024,Nakuru,Rice,kg,140.27
+01/04/2024,Nakuru,Rice,kg,136.18
+01/05/2024,Nakuru,rice (pishori),kg,140.56
+01/06/2024,Nakuru,Rice,kg,149.92
+01/07/2024,Nakuru,Rice,kg,140.99
+01/08/2024,Nakuru,Rice,kg,142.89
+01/09/2024,Nakuru,rice (pishori),kg,144.78
+01/10/2024,Nakuru,rice (pishori),kg,148.06
+01/11/2024,Nakuru,rice (pishori),kg,142.13
+01/12/2024,Nakuru,rice (pishori),kg,141.86
+01/01/2025,NAKURU,rice (pishori),kg,140.79
+01/02/2025,Nakuru,Rice,kg,151.77
+01/03/2025,Nakuru,rice (pishori),kg,151.33
+01/04/2025,Nakuru,Rice,kg,148.18
+01/05/2025,Nakuru,rice (pishori),kg,143.88
+01/06/2025,Nakuru,rice (pishori),kg,147.49
+01/07/2025,Nakuru,rice (pishori),kg,153.8
+01/08/2025,NAKURU,Rice,kg,147.32
+01/09/2025,Nakuru,rice (pishori),kg,153.58
+01/10/2025,Nakuru,Rice,kg,150.17
+01/11/2025,Nakuru,rice (pishori),kg,149.24
+01/12/2025,Nakuru,rice (pishori),kg,150.92
+01/01/2021,NAKURU,sugar,kg,110.48
+01/02/2021,NAKURU,sugar,kg,106.42
+01/03/2021,Nakuru,Sugar,kg,106.19
+01/05/2021,Nakuru,sugar,kg,108.43
+01/06/2021,Nakuru,sugar,kg,114.93
+01/07/2021,Nakuru,sugar,kg,110.86
+01/08/2021,Nakuru,Sugar,kg,115.53
+01/09/2021,Nakuru,Sugar,kg,116.23
+01/10/2021,NAKURU,Sugar,kg,104.3
+01/11/2021,Nakuru,SUGAR,kg,111.82
+01/12/2021,Nakuru,sugar,kg,108.93
+01/01/2022,NAKURU,SUGAR,kg,107.73
+01/02/2022,Nakuru,sugar,kg,112.44
+01/03/2022,Nakuru,Sugar,kg,116.68
+01/04/2022,NAKURU,Sugar,kg,124.82
+01/05/2022,Nakuru,Sugar,kg,119.63
+01/06/2022,NAKURU,SUGAR,kg,134.46
+01/07/2022,Nakuru,sugar,kg,144.46
+01/08/2022,NAKURU,SUGAR,kg,145.73
+01/09/2022,Nakuru,Sugar,kg,153.91
+01/10/2022,Nakuru,sugar,kg,161.11
+01/11/2022,Nakuru,Sugar,kg,166.24
+01/12/2022,Nakuru,sugar,kg,187.36
+01/01/2023,Nakuru,Sugar,kg,198.81
+01/02/2023,Nakuru,SUGAR,kg,211.95
+01/03/2023,Nakuru,sugar,kg,231.96
+01/04/2023,NAKURU,Sugar,kg,223.74
+01/05/2023,Nakuru,SUGAR,kg,
+01/06/2023,Nakuru,sugar,kg,220.37
+01/07/2023,Nakuru,Sugar,kg,191.5
+01/08/2023,Nakuru,sugar,kg,179.79
+01/09/2023,Nakuru,sugar,kg,170.3
+01/10/2023,Nakuru,SUGAR,kg,156.21
+01/11/2023,Nakuru,Sugar,kg,151.67
+01/12/2023,Nakuru,Sugar,kg,139.1
+01/01/2024,Nakuru,SUGAR,kg,141.97
+01/02/2024,Nakuru,Sugar,kg,137.68
+01/03/2024,Nakuru,sugar,kg,133.13
+01/04/2024,Nakuru,Sugar,kg,128.13
+01/05/2024,Nakuru,sugar,kg,131.97
+01/06/2024,Nakuru,SUGAR,kg,132.62
+01/07/2024,Nakuru,sugar,kg,124.93
+01/08/2024,Nakuru,Sugar,kg,129.62
+01/09/2024,Nakuru,Sugar,kg,129.98
+01/10/2024,Nakuru,SUGAR,kg,127.18
+01/11/2024,Nakuru,Sugar,kg,131.74
+01/12/2024,NAKURU,SUGAR,kg,130.46
+01/01/2025,Nakuru,SUGAR,kg,123.49
+01/02/2025,Nakuru,sugar,kg,128.48
+01/03/2025,Nakuru,SUGAR,kg,126.47
+01/04/2025,Nakuru,sugar,kg,133.74
+01/05/2025,Nakuru,SUGAR,kg,129.39
+01/06/2025,Nakuru,sugar,kg,137.34
+01/07/2025,Nakuru,Sugar,kg,135.28
+01/08/2025,Nakuru,Sugar,kg,137.08
+01/09/2025,Nakuru,sugar,kg,131.74
+01/10/2025,Nakuru,SUGAR,kg,125.68
+01/11/2025,Nakuru,SUGAR,kg,137.81
+01/12/2025,Nakuru,sugar,kg,130.26
+01/01/2021,Nakuru,wheat Flour,kg,95.27
+01/02/2021,Nakuru,Wheat flour,kg,101.68
+01/03/2021,Nakuru,wheat Flour,kg,101.18
+01/04/2021,NAKURU,wheat Flour,kg,100.28
+01/05/2021,Nakuru,Wheat flour,kg,101.55
+01/06/2021,Nakuru,wheat Flour,kg,104.01
+01/07/2021,Nakuru,Flour (wheat),kg,101.04
+01/08/2021,Nakuru,Wheat flour,kg,103.23
+01/09/2021,Nakuru,wheat Flour,kg,102.38
+01/10/2021,Nakuru,wheat Flour,kg,95.23
+01/11/2021,Nakuru,wheat Flour,kg,100.9
+01/12/2021,Nakuru,Flour (wheat),kg,106.75
+01/01/2022,Nakuru,wheat Flour,kg,102.28
+01/02/2022,Nakuru,Wheat flour,kg,104.48
+01/03/2022,NAKURU,Flour (wheat),kg,104.91
+01/04/2022,Nakuru,Flour (wheat),kg,107.68
+01/05/2022,Nakuru,Flour (wheat),kg,116.0
+01/06/2022,Nakuru,Flour (wheat),kg,114.8
+01/07/2022,NAKURU,Flour (wheat),kg,116.23
+01/08/2022,Nakuru,wheat Flour,kg,113.21
+01/09/2022,Nakuru,Wheat flour,kg,128.42
+01/10/2022,NAKURU,Wheat flour,kg,129.22
+01/11/2022,Nakuru,wheat Flour,kg,136.73
+01/12/2022,Nakuru,Wheat flour,kg,155.91
+01/01/2023,Nakuru,Wheat flour,kg,162.97
+01/02/2023,Nakuru,wheat Flour,kg,156.22
+01/03/2023,NAKURU,wheat Flour,kg,174.29
+01/04/2023,Nakuru,Wheat flour,kg,173.85
+01/05/2023,Nakuru,Wheat flour,kg,166.04
+01/06/2023,Nakuru,wheat Flour,kg,169.4
+01/07/2023,Nakuru,Flour (wheat),kg,151.47
+01/08/2023,Nakuru,wheat Flour,kg,145.96
+01/09/2023,Nakuru,Wheat flour,kg,137.13
+01/10/2023,NAKURU,Flour (wheat),kg,131.23
+01/11/2023,Nakuru,wheat Flour,kg,132.74
+01/01/2024,NAKURU,wheat Flour,kg,116.68
+01/02/2024,NAKURU,Wheat flour,kg,115.27
+01/03/2024,Nakuru,Wheat flour,kg,118.18
+01/04/2024,NAKURU,Wheat flour,kg,115.81
+01/05/2024,Nakuru,wheat Flour,kg,119.89
+01/06/2024,Nakuru,Flour (wheat),kg,114.34
+01/07/2024,Nakuru,Wheat flour,kg,112.2
+01/08/2024,Nakuru,Flour (wheat),kg,114.72
+01/09/2024,Nakuru,wheat Flour,kg,116.31
+01/10/2024,Nakuru,wheat Flour,kg,112.69
+01/11/2024,NAKURU,Wheat flour,kg,116.83
+01/12/2024,Nakuru,Wheat flour,kg,122.4
+01/01/2025,Nakuru,Wheat flour,kg,114.58
+01/03/2025,Nakuru,Wheat flour,kg,123.21
+01/04/2025,Nakuru,wheat Flour,kg,117.07
+01/05/2025,Nakuru,Flour (wheat),kg,117.17
+01/06/2025,Nakuru,wheat Flour,kg,116.81
+01/07/2025,Nakuru,Flour (wheat),kg,122.46
+01/08/2025,Nakuru,wheat Flour,kg,122.83
+01/09/2025,NAKURU,Wheat flour,kg,120.22
+01/10/2025,Nakuru,wheat Flour,kg,120.69
+01/11/2025,Nakuru,Flour (wheat),kg,125.09
+01/12/2025,Nakuru,Flour (wheat),kg,123.85
+01/01/2021,Nakuru,Cooking Oil,litre,216.1
+01/02/2021,Nakuru,veg. oil,litre,215.25
+01/03/2021,Nakuru,Cooking oil,litre,219.86
+01/04/2021,Nakuru,Cooking oil,litre,212.22
+01/05/2021,Nakuru,veg. oil,litre,223.92
+01/06/2021,Nakuru,veg. oil,litre,223.78
+01/07/2021,Nakuru,Cooking Oil,litre,217.25
+01/08/2021,Nakuru,Cooking Oil,litre,237.52
+01/09/2021,Nakuru,veg. oil,litre,216.48
+01/10/2021,Nakuru,Cooking oil,litre,217.09
+01/11/2021,Nakuru,Cooking oil,litre,225.12
+01/12/2021,Nakuru,Cooking oil,litre,211.33
+01/01/2022,Nakuru,Cooking Oil,litre,221.06
+01/02/2022,Nakuru,veg. oil,litre,219.1
+01/03/2022,Nakuru,veg. oil,litre,227.12
+01/04/2022,Nakuru,veg. oil,litre,238.42
+01/05/2022,NAKURU,veg. oil,litre,248.46
+01/06/2022,Nakuru,Cooking oil,litre,262.68
+01/07/2022,Nakuru,veg. oil,litre,270.48
+01/08/2022,Nakuru,veg. oil,litre,285.71
+01/09/2022,Nakuru,veg. oil,litre,295.03
+01/10/2022,Nakuru,Cooking Oil,litre,301.8
+01/11/2022,Nakuru,Cooking Oil,litre,334.87
+01/12/2022,Nakuru,Cooking Oil,litre,337.73
+01/01/2023,Nakuru,Cooking Oil,litre,354.07
+01/02/2023,Nakuru,Cooking Oil,litre,393.16
+01/03/2023,NAKURU,Cooking Oil,litre,395.39
+01/04/2023,Nakuru,Cooking Oil,litre,392.6
+01/05/2023,Nakuru,Cooking oil,litre,395.16
+01/06/2023,Nakuru,Cooking Oil,litre,385.81
+01/07/2023,Nakuru,Cooking Oil,litre,345.23
+01/08/2023,Nakuru,Cooking Oil,litre,339.9
+01/09/2023,Nakuru,veg. oil,litre,309.69
+01/10/2023,Nakuru,veg. oil,litre,303.72
+01/11/2023,Nakuru,veg. oil,litre,281.17
+01/12/2023,Nakuru,veg. oil,litre,285.98
+01/01/2024,Nakuru,Cooking oil,litre,270.3
+01/02/2024,Nakuru,Cooking Oil,litre,254.33
+01/03/2024,Nakuru,Cooking Oil,litre,257.51
+01/04/2024,Nakuru,Cooking Oil,litre,246.97
+01/05/2024,Nakuru,veg. oil,litre,256.12
+01/06/2024,Nakuru,Cooking Oil,litre,259.81
+01/07/2024,NAKURU,veg. oil,litre,257.32
+01/08/2024,NAKURU,veg. oil,litre,240.0
+01/09/2024,Nakuru,veg. oil,litre,251.54
+01/10/2024,Nakuru,Cooking Oil,litre,257.42
+01/11/2024,Nakuru,Cooking oil,litre,255.73
+01/12/2024,Nakuru,Cooking Oil,litre,262.71
+01/01/2025,Nakuru,Cooking Oil,litre,245.22
+01/02/2025,Nakuru,Cooking Oil,litre,260.89
+01/03/2025,Nakuru,Cooking Oil,litre,253.94
+01/04/2025,Nakuru,Cooking Oil,litre,262.69
+01/05/2025,Nakuru,Cooking Oil,litre,266.19
+01/06/2025,Nakuru,Cooking Oil,litre,269.65
+01/07/2025,Nakuru,Cooking oil,litre,260.14
+01/08/2025,Nakuru,veg. oil,litre,266.1
+01/09/2025,Nakuru,Cooking oil,litre,254.91
+01/10/2025,Nakuru,veg. oil,litre,252.54
+01/11/2025,Nakuru,Cooking oil,litre,268.0
+01/12/2025,NAKURU,veg. oil,litre,263.67
+01/01/2021,NAKURU,Irish potatoes,kg,42.4
+01/02/2021,Nakuru,Potatoes,kg,46.93
+01/03/2021,Nakuru,potatoes,kg,50.4
+01/04/2021,Nakuru,Potatoes,kg,49.69
+01/05/2021,Nakuru,Potatoes,kg,54.65
+01/06/2021,Nakuru,potatoes,kg,51.82
+01/07/2021,Nakuru,potatoes,kg,50.94
+01/08/2021,Nakuru,Irish potatoes,kg,47.26
+01/09/2021,Nakuru,Potatoes,kg,49.85
+01/10/2021,Nakuru,Potatoes,kg,45.73
+01/11/2021,Nakuru,potatoes,kg,47.84
+01/12/2021,Nakuru,Potatoes,kg,44.75
+01/01/2022,Nakuru,Irish potatoes,kg,45.56
+01/02/2022,Nakuru,Potatoes,kg,44.97
+01/03/2022,Nakuru,potatoes,kg,52.94
+01/04/2022,Nakuru,Potatoes,kg,53.41
+01/05/2022,NAKURU,Irish potatoes,kg,
+01/06/2022,Nakuru,potatoes,kg,55.17
+01/07/2022,Nakuru,Irish potatoes,kg,61.77
+01/08/2022,NAKURU,Potatoes,kg,61.86
+01/09/2022,Nakuru,Potatoes,kg,58.32
+01/10/2022,NAKURU,potatoes,kg,58.89
+01/11/2022,Nakuru,potatoes,kg,59.43
+01/12/2022,Nakuru,Irish potatoes,kg,61.77
+01/01/2023,Nakuru,potatoes,kg,63.04
+01/02/2023,Nakuru,Irish potatoes,kg,70.33
+01/03/2023,Nakuru,Potatoes,kg,70.76
+01/04/2023,Nakuru,potatoes,kg,73.59
+01/05/2023,Nakuru,Potatoes,kg,75.75
+01/06/2023,Nakuru,Irish potatoes,kg,70.46
+01/07/2023,NAKURU,potatoes,kg,71.55
+01/08/2023,NAKURU,Irish potatoes,kg,70.69
+01/09/2023,Nakuru,potatoes,kg,63.67
+01/10/2023,Nakuru,potatoes,kg,56.63
+01/11/2023,Nakuru,Potatoes,kg,54.75
+01/12/2023,Nakuru,Potatoes,kg,48.91
+01/01/2024,Nakuru,potatoes,kg,51.37
+01/02/2024,Nakuru,Irish potatoes,kg,53.96
+01/03/2024,NAKURU,Irish potatoes,kg,56.55
+01/04/2024,NAKURU,Potatoes,kg,56.48
+01/05/2024,Nakuru,Irish potatoes,kg,61.33
+01/06/2024,Nakuru,Potatoes,kg,63.8
+01/07/2024,Nakuru,Potatoes,kg,58.97
+01/08/2024,NAKURU,Irish potatoes,kg,59.13
+01/09/2024,Nakuru,potatoes,kg,52.64
+01/10/2024,Nakuru,potatoes,kg,49.52
+01/11/2024,Nakuru,Potatoes,kg,51.69
+01/12/2024,Nakuru,potatoes,kg,50.24
+01/01/2025,Nakuru,potatoes,kg,51.4
+01/02/2025,Nakuru,potatoes,kg,52.38
+01/03/2025,Nakuru,Irish potatoes,kg,55.81
+01/04/2025,Nakuru,Potatoes,kg,60.77
+01/05/2025,Nakuru,potatoes,kg,64.78
+01/06/2025,Nakuru,Irish potatoes,kg,62.15
+01/07/2025,Nakuru,Irish potatoes,kg,58.93
+01/08/2025,Nakuru,Potatoes,kg,62.42
+01/09/2025,NAKURU,Potatoes,kg,58.48
+01/11/2025,Nakuru,Potatoes,kg,53.1
+01/12/2025,Nakuru,potatoes,kg,55.85
+01/01/2021,Nakuru,Milk,litre,49.8
+01/02/2021,Nakuru,milk (fresh),litre,51.61
+01/03/2021,NAKURU,milk (fresh),litre,52.18
+01/04/2021,NAKURU,milk (fresh),litre,51.92
+01/05/2021,Nakuru,milk (fresh),litre,56.47
+01/06/2021,Nakuru,Milk,litre,52.54
+01/07/2021,NAKURU,Milk,litre,53.83
+01/08/2021,Nakuru,milk (fresh),litre,55.01
+01/09/2021,Nakuru,milk (fresh),litre,51.39
+01/10/2021,Nakuru,milk (fresh),litre,54.66
+01/11/2021,Nakuru,Milk,litre,53.22
+01/12/2021,Nakuru,milk (fresh),litre,50.59
+01/01/2022,Nakuru,milk (fresh),litre,51.34
+01/02/2022,Nakuru,Milk,litre,51.57
+01/03/2022,Nakuru,milk (fresh),litre,53.39
+01/04/2022,Nakuru,milk (fresh),litre,58.78
+01/05/2022,Nakuru,Milk,litre,61.33
+01/06/2022,Nakuru,Milk,litre,62.73
+01/07/2022,Nakuru,Milk,litre,64.0
+01/09/2022,NAKURU,Milk,litre,66.08
+01/10/2022,Nakuru,Milk,litre,63.37
+01/11/2022,Nakuru,Milk,litre,67.71
+01/12/2022,Nakuru,milk (fresh),litre,72.83
+01/01/2023,Nakuru,Milk,litre,75.32
+01/02/2023,Nakuru,milk (fresh),litre,74.46
+01/03/2023,Nakuru,Milk,litre,
+01/04/2023,Nakuru,Milk,litre,83.85
+01/05/2023,Nakuru,milk (fresh),litre,85.54
+01/06/2023,Nakuru,Milk,litre,76.5
+01/07/2023,Nakuru,milk (fresh),litre,76.47
+01/08/2023,Nakuru,Milk,litre,74.23
+01/09/2023,Nakuru,milk (fresh),litre,72.06
+01/10/2023,NAKURU,Milk,litre,63.91
+01/11/2023,Nakuru,Milk,litre,63.65
+01/12/2023,Nakuru,Milk,litre,59.92
+01/01/2024,NAKURU,milk (fresh),litre,63.99
+01/02/2024,Nakuru,Milk,litre,60.76
+01/03/2024,Nakuru,Milk,litre,60.69
+01/04/2024,Nakuru,Milk,litre,61.49
+01/05/2024,Nakuru,milk (fresh),litre,65.07
+01/06/2024,Nakuru,milk (fresh),litre,64.74
+01/07/2024,Nakuru,milk (fresh),litre,61.04
+01/08/2024,Nakuru,Milk,litre,62.53
+01/09/2024,Nakuru,milk (fresh),litre,58.31
+01/10/2024,Nakuru,Milk,litre,58.07
+01/11/2024,Nakuru,Milk,litre,56.21
+01/12/2024,Nakuru,milk (fresh),litre,55.95
+01/01/2025,Nakuru,milk (fresh),litre,57.66
+01/02/2025,Nakuru,milk (fresh),litre,58.43
+01/03/2025,Nakuru,Milk,litre,62.94
+01/04/2025,Nakuru,Milk,litre,65.25
+01/05/2025,Nakuru,milk (fresh),litre,64.6
+01/06/2025,Nakuru,milk (fresh),litre,63.49
+01/07/2025,Nakuru,milk (fresh),litre,67.09
+01/08/2025,Nakuru,milk (fresh),litre,60.62
+01/09/2025,Nakuru,milk (fresh),litre,59.51
+01/10/2025,Nakuru,Milk,litre,63.17
+01/11/2025,NAKURU,Milk,litre,62.06
+01/12/2025,Nakuru,milk (fresh),litre,62.41
+01/10/2023,Nakuru,SUGAR,kg,156.21
+01/11/2023,Nakuru,veg. oil,litre,281.17
+01/08/2023,Nakuru,Maize,kg,76.15

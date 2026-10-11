@@ -1,0 +1,474 @@
+Date,County,Commodity,Unit,Price (KES)
+01/01/2021,Kakamega,MAIZE,kg,40.46
+01/02/2021,Kakamega,maize (white),kg,44.18
+01/03/2021,Kakamega,MAIZE,kg,47.85
+01/04/2021,Kakamega,Maize,kg,49.17
+01/05/2021,Kakamega,Maize,kg,52.89
+01/06/2021,Kakamega,MAIZE,kg,52.7
+01/07/2021,Kakamega,maize (white),kg,48.99
+01/08/2021,Kakamega,MAIZE,kg,49.12
+01/09/2021,Kakamega,maize (white),kg,46.63
+01/10/2021,Kakamega,MAIZE,kg,45.29
+01/11/2021,Kakamega,maize (white),kg,41.63
+01/12/2021,Kakamega,maize (white),kg,41.68
+01/01/2022,Kakamega,maize (white),kg,42.1
+01/02/2022,Kakamega,Maize,kg,45.89
+01/03/2022,Kakamega,maize (white),kg,49.67
+01/04/2022,Kakamega,Maize,kg,55.11
+01/05/2022,Kakamega,maize (white),kg,58.56
+01/06/2022,Kakamega,maize (white),kg,60.27
+01/07/2022,Kakamega,MAIZE,kg,62.08
+01/08/2022,Kakamega,Maize,kg,62.46
+01/09/2022,Kakamega,maize (white),kg,62.48
+01/10/2022,Kakamega,Maize,kg,65.28
+01/11/2022,Kakamega,Maize,kg,58.77
+01/12/2022,Kakamega,Maize,kg,66.0
+01/01/2023,Kakamega,MAIZE,kg,71.95
+01/02/2023,Kakamega,Maize,kg,80.52
+01/03/2023,Kakamega,Maize,kg,82.1
+01/04/2023,Kakamega,Maize,kg,91.4
+01/05/2023,Kakamega,Maize,kg,95.34
+01/06/2023,Kakamega,MAIZE,kg,90.2
+01/07/2023,Kakamega,MAIZE,kg,81.21
+01/08/2023,Kakamega,Maize,kg,77.45
+01/09/2023,Kakamega,MAIZE,kg,67.09
+01/10/2023,Kakamega,maize (white),kg,62.88
+01/11/2023,Kakamega,Maize,kg,54.29
+01/12/2023,Kakamega,Maize,kg,55.04
+01/01/2024,Kakamega,Maize,kg,51.52
+01/02/2024,Kakamega,maize (white),kg,51.12
+01/03/2024,Kakamega,MAIZE,kg,53.89
+01/04/2024,Kakamega,Maize,kg,55.46
+01/05/2024,Kakamega,MAIZE,kg,60.03
+01/06/2024,Kakamega,maize (white),kg,62.73
+01/07/2024,Kakamega,MAIZE,kg,58.8
+01/08/2024,Kakamega,MAIZE,kg,58.48
+01/09/2024,Kakamega,Maize,kg,52.29
+01/10/2024,KAKAMEGA,Maize,kg,51.19
+01/11/2024,KAKAMEGA,maize (white),kg,51.85
+01/12/2024,Kakamega,MAIZE,kg,45.78
+01/01/2025,KAKAMEGA,Maize,kg,50.62
+01/02/2025,Kakamega,maize (white),kg,53.19
+01/03/2025,Kakamega,MAIZE,kg,51.76
+01/04/2025,Kakamega,maize (white),kg,55.83
+01/05/2025,Kakamega,Maize,kg,59.17
+01/06/2025,Kakamega,maize (white),kg,63.84
+01/07/2025,Kakamega,MAIZE,kg,60.57
+01/08/2025,Kakamega,Maize,kg,58.81
+01/09/2025,Kakamega,maize (white),kg,57.13
+01/10/2025,Kakamega,Maize,kg,52.94
+01/11/2025,Kakamega,Maize,kg,50.8
+01/12/2025,Kakamega,MAIZE,kg,49.23
+01/01/2021,Kakamega,Beans ,kg,109.35
+01/02/2021,Kakamega,Beans ,kg,107.35
+01/03/2021,KAKAMEGA,beans - rosecoco,kg,111.14
+01/04/2021,Kakamega,Beans,kg,113.54
+01/05/2021,Kakamega,Beans ,kg,117.22
+01/06/2021,Kakamega,Beans,kg,116.97
+01/07/2021,Kakamega,Beans,kg,114.63
+01/08/2021,Kakamega,Beans,kg,122.72
+01/09/2021,Kakamega,beans - rosecoco,kg,106.61
+01/10/2021,Kakamega,Beans ,kg,110.86
+01/11/2021,Kakamega,beans - rosecoco,kg,109.52
+01/12/2021,Kakamega,Beans ,kg,108.3
+01/01/2022,Kakamega,Beans ,kg,106.38
+01/02/2022,KAKAMEGA,Beans ,kg,112.46
+01/03/2022,Kakamega,Beans,kg,116.36
+01/04/2022,Kakamega,Beans,kg,119.42
+01/05/2022,Kakamega,Beans,kg,128.31
+01/06/2022,KAKAMEGA,beans - rosecoco,kg,131.01
+01/07/2022,Kakamega,beans - rosecoco,kg,133.27
+01/08/2022,Kakamega,Beans,kg,140.06
+01/09/2022,Kakamega,beans - rosecoco,kg,133.96
+01/10/2022,Kakamega,beans - rosecoco,kg,141.48
+01/11/2022,Kakamega,Beans,kg,139.37
+01/12/2022,Kakamega,Beans ,kg,147.89
+01/01/2023,KAKAMEGA,Beans ,kg,152.21
+01/02/2023,Kakamega,Beans ,kg,160.13
+01/03/2023,Kakamega,Beans,kg,161.1
+01/04/2023,Kakamega,beans - rosecoco,kg,167.22
+01/05/2023,Kakamega,Beans ,kg,168.73
+01/06/2023,Kakamega,Beans ,kg,172.02
+01/07/2023,Kakamega,beans - rosecoco,kg,168.98
+01/08/2023,Kakamega,Beans,kg,161.78
+01/09/2023,KAKAMEGA,Beans ,kg,144.85
+01/11/2023,Kakamega,beans - rosecoco,kg,124.57
+01/12/2023,Kakamega,Beans ,kg,118.18
+01/01/2024,Kakamega,beans - rosecoco,kg,121.93
+01/02/2024,Kakamega,beans - rosecoco,kg,
+01/03/2024,Kakamega,Beans ,kg,122.92
+01/04/2024,Kakamega,beans - rosecoco,kg,125.01
+01/05/2024,Kakamega,Beans,kg,136.66
+01/06/2024,KAKAMEGA,Beans,kg,132.22
+01/07/2024,Kakamega,beans - rosecoco,kg,127.82
+01/08/2024,Kakamega,beans - rosecoco,kg,141.23
+01/09/2024,Kakamega,Beans,kg,129.2
+01/10/2024,Kakamega,Beans,kg,123.86
+01/11/2024,Kakamega,beans - rosecoco,kg,125.09
+01/12/2024,Kakamega,beans - rosecoco,kg,119.18
+01/01/2025,Kakamega,beans - rosecoco,kg,129.27
+01/02/2025,Kakamega,beans - rosecoco,kg,120.84
+01/03/2025,Kakamega,Beans,kg,125.9
+01/04/2025,Kakamega,Beans,kg,134.85
+01/05/2025,Kakamega,beans - rosecoco,kg,135.57
+01/06/2025,Kakamega,Beans,kg,146.19
+01/07/2025,Kakamega,Beans ,kg,132.96
+01/08/2025,Kakamega,beans - rosecoco,kg,134.19
+01/09/2025,Kakamega,beans - rosecoco,kg,134.58
+01/10/2025,Kakamega,beans - rosecoco,kg,132.23
+01/11/2025,Kakamega,beans - rosecoco,kg,131.33
+01/12/2025,Kakamega,Beans,kg,128.13
+01/01/2021,Kakamega,Rice,kg,126.99
+01/02/2021,Kakamega,Rice,kg,121.21
+01/03/2021,Kakamega,rice (pishori),kg,124.19
+01/05/2021,Kakamega,rice (pishori),kg,126.93
+01/06/2021,Kakamega,rice (pishori),kg,125.97
+01/07/2021,Kakamega,Rice,kg,131.34
+01/08/2021,Kakamega,rice (pishori),kg,132.88
+01/09/2021,Kakamega,rice (pishori),kg,125.93
+01/10/2021,Kakamega,Rice,kg,121.43
+01/11/2021,KAKAMEGA,rice (pishori),kg,126.57
+01/12/2021,Kakamega,rice (pishori),kg,121.15
+01/01/2022,Kakamega,Rice,kg,125.63
+01/02/2022,Kakamega,rice (pishori),kg,
+01/03/2022,KAKAMEGA,rice (pishori),kg,142.35
+01/04/2022,Kakamega,rice (pishori),kg,138.04
+01/05/2022,Kakamega,Rice,kg,135.72
+01/06/2022,Kakamega,rice (pishori),kg,147.35
+01/07/2022,KAKAMEGA,Rice,kg,137.92
+01/08/2022,Kakamega,rice (pishori),kg,148.69
+01/09/2022,Kakamega,rice (pishori),kg,163.22
+01/10/2022,Kakamega,Rice,kg,164.39
+01/11/2022,Kakamega,rice (pishori),kg,159.2
+01/12/2022,Kakamega,rice (pishori),kg,163.24
+01/01/2023,Kakamega,Rice,kg,182.21
+01/02/2023,Kakamega,Rice,kg,182.85
+01/03/2023,Kakamega,Rice,kg,183.98
+01/04/2023,Kakamega,Rice,kg,191.79
+01/05/2023,Kakamega,Rice,kg,185.76
+01/06/2023,Kakamega,rice (pishori),kg,175.17
+01/07/2023,Kakamega,rice (pishori),kg,184.75
+01/08/2023,Kakamega,rice (pishori),kg,170.08
+01/09/2023,Kakamega,rice (pishori),kg,161.0
+01/10/2023,Kakamega,rice (pishori),kg,152.64
+01/11/2023,Kakamega,Rice,kg,154.31
+01/12/2023,Kakamega,rice (pishori),kg,145.38
+01/01/2024,Kakamega,Rice,kg,149.19
+01/02/2024,Kakamega,rice (pishori),kg,144.29
+01/03/2024,Kakamega,rice (pishori),kg,
+01/04/2024,Kakamega,rice (pishori),kg,144.47
+01/05/2024,Kakamega,Rice,kg,143.97
+01/06/2024,Kakamega,rice (pishori),kg,138.5
+01/07/2024,Kakamega,rice (pishori),kg,142.12
+01/08/2024,Kakamega,rice (pishori),kg,149.33
+01/09/2024,Kakamega,rice (pishori),kg,158.37
+01/10/2024,Kakamega,Rice,kg,138.7
+01/11/2024,Kakamega,Rice,kg,139.03
+01/12/2024,Kakamega,rice (pishori),kg,145.01
+01/01/2025,Kakamega,rice (pishori),kg,146.49
+01/02/2025,Kakamega,Rice,kg,143.03
+01/03/2025,Kakamega,rice (pishori),kg,148.3
+01/04/2025,Kakamega,rice (pishori),kg,142.72
+01/05/2025,Kakamega,rice (pishori),kg,150.17
+01/06/2025,Kakamega,rice (pishori),kg,156.53
+01/07/2025,Kakamega,Rice,kg,159.98
+01/08/2025,KAKAMEGA,rice (pishori),kg,151.16
+01/09/2025,Kakamega,rice (pishori),kg,149.74
+01/10/2025,Kakamega,rice (pishori),kg,151.92
+01/11/2025,Kakamega,Rice,kg,154.21
+01/12/2025,Kakamega,Rice,kg,151.52
+01/01/2021,Kakamega,sugar,kg,108.33
+01/02/2021,Kakamega,sugar,kg,114.32
+01/03/2021,KAKAMEGA,Sugar,kg,110.14
+01/04/2021,Kakamega,sugar,kg,110.38
+01/05/2021,Kakamega,SUGAR,kg,118.66
+01/06/2021,Kakamega,sugar,kg,111.88
+01/07/2021,Kakamega,SUGAR,kg,111.95
+01/08/2021,Kakamega,Sugar,kg,108.7
+01/09/2021,Kakamega,Sugar,kg,116.37
+01/10/2021,Kakamega,Sugar,kg,113.06
+01/11/2021,Kakamega,sugar,kg,113.49
+01/12/2021,Kakamega,SUGAR,kg,112.89
+01/01/2022,KAKAMEGA,sugar,kg,113.12
+01/02/2022,Kakamega,Sugar,kg,112.98
+01/03/2022,Kakamega,Sugar,kg,115.84
+01/04/2022,Kakamega,SUGAR,kg,123.81
+01/05/2022,Kakamega,sugar,kg,127.04
+01/06/2022,Kakamega,SUGAR,kg,138.0
+01/07/2022,Kakamega,sugar,kg,134.44
+01/08/2022,Kakamega,Sugar,kg,142.47
+01/09/2022,Kakamega,SUGAR,kg,148.28
+01/10/2022,Kakamega,SUGAR,kg,169.41
+01/11/2022,Kakamega,Sugar,kg,167.62
+01/12/2022,KAKAMEGA,Sugar,kg,190.47
+01/01/2023,Kakamega,SUGAR,kg,206.94
+01/02/2023,Kakamega,Sugar,kg,208.55
+01/03/2023,Kakamega,Sugar,kg,222.15
+01/04/2023,Kakamega,sugar,kg,207.13
+01/05/2023,Kakamega,Sugar,kg,216.92
+01/06/2023,Kakamega,sugar,kg,202.1
+01/07/2023,KAKAMEGA,sugar,kg,202.54
+01/08/2023,Kakamega,sugar,kg,188.05
+01/09/2023,Kakamega,sugar,kg,169.95
+01/10/2023,Kakamega,Sugar,kg,165.42
+01/11/2023,Kakamega,Sugar,kg,151.62
+01/12/2023,Kakamega,SUGAR,kg,139.62
+01/01/2024,Kakamega,Sugar,kg,134.18
+01/02/2024,Kakamega,sugar,kg,127.17
+01/03/2024,Kakamega,SUGAR,kg,130.68
+01/04/2024,Kakamega,Sugar,kg,139.14
+01/05/2024,Kakamega,sugar,kg,
+01/06/2024,Kakamega,SUGAR,kg,132.38
+01/07/2024,Kakamega,Sugar,kg,128.2
+01/08/2024,Kakamega,Sugar,kg,132.63
+01/09/2024,Kakamega,sugar,kg,130.22
+01/10/2024,Kakamega,SUGAR,kg,126.72
+01/11/2024,Kakamega,SUGAR,kg,120.33
+01/12/2024,Kakamega,SUGAR,kg,125.17
+01/01/2025,Kakamega,Sugar,kg,132.43
+01/02/2025,Kakamega,sugar,kg,128.33
+01/03/2025,Kakamega,SUGAR,kg,133.45
+01/04/2025,Kakamega,SUGAR,kg,130.86
+01/05/2025,Kakamega,Sugar,kg,126.73
+01/06/2025,Kakamega,sugar,kg,136.67
+01/08/2025,Kakamega,sugar,kg,132.21
+01/09/2025,Kakamega,SUGAR,kg,132.15
+01/10/2025,Kakamega,Sugar,kg,133.86
+01/11/2025,Kakamega,Sugar,kg,129.84
+01/12/2025,Kakamega,sugar,kg,133.59
+01/01/2021,Kakamega,Flour (wheat),kg,100.73
+01/02/2021,Kakamega,Flour (wheat),kg,98.05
+01/03/2021,Kakamega,Wheat flour,kg,102.98
+01/04/2021,KAKAMEGA,Flour (wheat),kg,105.16
+01/05/2021,Kakamega,Wheat flour,kg,103.4
+01/06/2021,Kakamega,Flour (wheat),kg,106.79
+01/07/2021,Kakamega,Wheat flour,kg,101.1
+01/08/2021,Kakamega,Flour (wheat),kg,105.87
+01/10/2021,KAKAMEGA,wheat Flour,kg,99.94
+01/12/2021,Kakamega,wheat Flour,kg,102.0
+01/01/2022,Kakamega,Wheat flour,kg,
+01/03/2022,Kakamega,wheat Flour,kg,111.35
+01/04/2022,Kakamega,wheat Flour,kg,109.36
+01/06/2022,Kakamega,wheat Flour,kg,111.82
+01/07/2022,Kakamega,wheat Flour,kg,121.53
+01/08/2022,Kakamega,Wheat flour,kg,130.47
+01/09/2022,Kakamega,Flour (wheat),kg,135.19
+01/10/2022,Kakamega,Flour (wheat),kg,140.69
+01/11/2022,Kakamega,Flour (wheat),kg,143.85
+01/12/2022,Kakamega,wheat Flour,kg,149.39
+01/01/2023,KAKAMEGA,Flour (wheat),kg,160.77
+01/02/2023,Kakamega,Wheat flour,kg,160.8
+01/04/2023,Kakamega,Wheat flour,kg,178.11
+01/05/2023,Kakamega,wheat Flour,kg,167.1
+01/06/2023,KAKAMEGA,Wheat flour,kg,176.39
+01/07/2023,Kakamega,wheat Flour,kg,154.05
+01/08/2023,Kakamega,Wheat flour,kg,154.95
+01/09/2023,Kakamega,wheat Flour,kg,139.76
+01/10/2023,Kakamega,Wheat flour,kg,137.87
+01/11/2023,KAKAMEGA,Wheat flour,kg,126.63
+01/12/2023,Kakamega,wheat Flour,kg,125.79
+01/01/2024,Kakamega,Flour (wheat),kg,121.53
+01/02/2024,Kakamega,wheat Flour,kg,118.27
+01/03/2024,Kakamega,Flour (wheat),kg,120.51
+01/04/2024,KAKAMEGA,Flour (wheat),kg,123.51
+01/05/2024,Kakamega,Wheat flour,kg,116.0
+01/06/2024,Kakamega,wheat Flour,kg,121.13
+01/07/2024,Kakamega,Wheat flour,kg,118.21
+01/08/2024,Kakamega,wheat Flour,kg,117.58
+01/09/2024,Kakamega,wheat Flour,kg,125.04
+01/10/2024,Kakamega,Wheat flour,kg,109.58
+01/11/2024,Kakamega,wheat Flour,kg,114.7
+01/12/2024,Kakamega,Wheat flour,kg,110.98
+01/01/2025,Kakamega,wheat Flour,kg,116.74
+01/02/2025,Kakamega,Flour (wheat),kg,117.86
+01/03/2025,Kakamega,Wheat flour,kg,133.21
+01/04/2025,Kakamega,Wheat flour,kg,121.9
+01/05/2025,Kakamega,Wheat flour,kg,127.98
+01/06/2025,Kakamega,wheat Flour,kg,126.78
+01/07/2025,KAKAMEGA,Wheat flour,kg,120.7
+01/08/2025,Kakamega,wheat Flour,kg,124.0
+01/09/2025,Kakamega,wheat Flour,kg,128.11
+01/10/2025,Kakamega,Wheat flour,kg,122.47
+01/11/2025,KAKAMEGA,Wheat flour,kg,122.54
+01/12/2025,Kakamega,Wheat flour,kg,123.84
+01/01/2021,Kakamega,Cooking oil,litre,216.88
+01/02/2021,Kakamega,Cooking oil,litre,217.52
+01/03/2021,Kakamega,veg. oil,litre,213.24
+01/04/2021,Kakamega,veg. oil,litre,227.66
+01/05/2021,Kakamega,veg. oil,litre,236.63
+01/06/2021,Kakamega,veg. oil,litre,233.79
+01/07/2021,Kakamega,Cooking Oil,litre,216.33
+01/08/2021,Kakamega,veg. oil,litre,234.19
+01/09/2021,Kakamega,Cooking oil,litre,226.94
+01/10/2021,Kakamega,Cooking Oil,litre,225.04
+01/11/2021,Kakamega,Cooking oil,litre,221.75
+01/12/2021,Kakamega,veg. oil,litre,226.83
+01/01/2022,Kakamega,Cooking oil,litre,238.45
+01/02/2022,KAKAMEGA,Cooking oil,litre,235.94
+01/03/2022,Kakamega,Cooking Oil,litre,233.6
+01/04/2022,Kakamega,Cooking Oil,litre,237.23
+01/05/2022,Kakamega,Cooking Oil,litre,245.78
+01/06/2022,Kakamega,Cooking Oil,litre,261.61
+01/07/2022,Kakamega,Cooking Oil,litre,281.92
+01/08/2022,Kakamega,veg. oil,litre,270.21
+01/09/2022,Kakamega,veg. oil,litre,293.16
+01/10/2022,Kakamega,Cooking Oil,litre,305.98
+01/11/2022,Kakamega,veg. oil,litre,320.32
+01/12/2022,Kakamega,veg. oil,litre,350.71
+01/01/2023,Kakamega,Cooking oil,litre,370.76
+01/02/2023,Kakamega,Cooking Oil,litre,364.09
+01/03/2023,KAKAMEGA,Cooking Oil,litre,378.55
+01/04/2023,KAKAMEGA,veg. oil,litre,408.45
+01/05/2023,Kakamega,Cooking oil,litre,394.48
+01/06/2023,Kakamega,Cooking oil,litre,386.04
+01/07/2023,KAKAMEGA,veg. oil,litre,358.56
+01/08/2023,Kakamega,Cooking oil,litre,340.79
+01/09/2023,Kakamega,veg. oil,litre,329.1
+01/10/2023,Kakamega,Cooking oil,litre,301.49
+01/11/2023,Kakamega,veg. oil,litre,280.6
+01/12/2023,Kakamega,Cooking oil,litre,277.88
+01/01/2024,Kakamega,veg. oil,litre,276.41
+01/02/2024,Kakamega,Cooking oil,litre,255.53
+01/03/2024,Kakamega,Cooking Oil,litre,268.76
+01/04/2024,Kakamega,veg. oil,litre,264.59
+01/05/2024,Kakamega,Cooking oil,litre,252.05
+01/06/2024,Kakamega,Cooking oil,litre,258.55
+01/07/2024,Kakamega,veg. oil,litre,257.86
+01/08/2024,Kakamega,veg. oil,litre,262.5
+01/09/2024,Kakamega,Cooking oil,litre,262.06
+01/10/2024,Kakamega,Cooking Oil,litre,246.48
+01/11/2024,KAKAMEGA,veg. oil,litre,245.99
+01/12/2024,KAKAMEGA,Cooking oil,litre,264.61
+01/01/2025,Kakamega,veg. oil,litre,258.81
+01/02/2025,Kakamega,veg. oil,litre,262.98
+01/03/2025,Kakamega,Cooking oil,litre,264.54
+01/04/2025,Kakamega,Cooking Oil,litre,276.15
+01/06/2025,Kakamega,Cooking oil,litre,275.85
+01/07/2025,Kakamega,Cooking Oil,litre,261.21
+01/08/2025,Kakamega,Cooking oil,litre,273.42
+01/09/2025,Kakamega,veg. oil,litre,277.82
+01/10/2025,Kakamega,Cooking oil,litre,255.74
+01/11/2025,Kakamega,veg. oil,litre,269.78
+01/12/2025,Kakamega,Cooking Oil,litre,264.89
+01/01/2021,Kakamega,potatoes,kg,40.65
+01/02/2021,Kakamega,Irish potatoes,kg,45.39
+01/03/2021,Kakamega,potatoes,kg,49.63
+01/04/2021,Kakamega,potatoes,kg,49.47
+01/05/2021,Kakamega,Irish potatoes,kg,52.76
+01/06/2021,Kakamega,Irish potatoes,kg,50.97
+01/07/2021,Kakamega,Irish potatoes,kg,54.11
+01/08/2021,KAKAMEGA,Irish potatoes,kg,49.56
+01/09/2021,Kakamega,Irish potatoes,kg,47.21
+01/10/2021,Kakamega,Irish potatoes,kg,46.35
+01/11/2021,Kakamega,Potatoes,kg,48.37
+01/12/2021,Kakamega,potatoes,kg,44.01
+01/01/2022,Kakamega,Potatoes,kg,44.12
+01/02/2022,Kakamega,potatoes,kg,48.75
+01/03/2022,Kakamega,Potatoes,kg,51.58
+01/04/2022,Kakamega,potatoes,kg,57.29
+01/05/2022,Kakamega,Irish potatoes,kg,55.48
+01/06/2022,KAKAMEGA,Potatoes,kg,56.96
+01/07/2022,Kakamega,potatoes,kg,60.22
+01/08/2022,KAKAMEGA,Potatoes,kg,61.44
+01/09/2022,Kakamega,Irish potatoes,kg,60.72
+01/10/2022,Kakamega,Potatoes,kg,61.29
+01/11/2022,Kakamega,potatoes,kg,56.8
+01/12/2022,Kakamega,Irish potatoes,kg,59.25
+01/01/2023,Kakamega,Irish potatoes,kg,63.32
+01/02/2023,KAKAMEGA,potatoes,kg,69.3
+01/03/2023,Kakamega,Irish potatoes,kg,73.1
+01/04/2023,Kakamega,Irish potatoes,kg,74.87
+01/05/2023,KAKAMEGA,Irish potatoes,kg,75.37
+01/06/2023,Kakamega,Potatoes,kg,79.15
+01/07/2023,Kakamega,potatoes,kg,76.24
+01/08/2023,Kakamega,potatoes,kg,74.95
+01/09/2023,Kakamega,Potatoes,kg,63.55
+01/10/2023,Kakamega,potatoes,kg,61.53
+01/11/2023,Kakamega,Potatoes,kg,52.85
+01/12/2023,Kakamega,Irish potatoes,kg,51.81
+01/01/2024,KAKAMEGA,potatoes,kg,51.36
+01/02/2024,Kakamega,potatoes,kg,52.99
+01/03/2024,KAKAMEGA,Irish potatoes,kg,54.57
+01/04/2024,Kakamega,Irish potatoes,kg,57.55
+01/05/2024,Kakamega,potatoes,kg,60.27
+01/06/2024,Kakamega,Irish potatoes,kg,60.28
+01/07/2024,Kakamega,Potatoes,kg,61.59
+01/08/2024,Kakamega,Potatoes,kg,58.35
+01/09/2024,Kakamega,Irish potatoes,kg,55.86
+01/10/2024,Kakamega,Irish potatoes,kg,55.53
+01/11/2024,Kakamega,potatoes,kg,51.81
+01/12/2024,Kakamega,Potatoes,kg,50.98
+01/01/2025,Kakamega,Potatoes,kg,51.64
+01/02/2025,Kakamega,Irish potatoes,kg,54.02
+01/03/2025,Kakamega,Potatoes,kg,57.91
+01/04/2025,Kakamega,potatoes,kg,58.58
+01/05/2025,Kakamega,Irish potatoes,kg,64.39
+01/06/2025,Kakamega,potatoes,kg,66.2
+01/07/2025,Kakamega,Potatoes,kg,64.84
+01/08/2025,Kakamega,Potatoes,kg,59.91
+01/09/2025,Kakamega,Irish potatoes,kg,55.37
+01/10/2025,Kakamega,potatoes,kg,54.65
+01/11/2025,Kakamega,potatoes,kg,53.65
+01/12/2025,Kakamega,Irish potatoes,kg,54.08
+01/01/2021,Kakamega,Milk,litre,46.26
+01/02/2021,Kakamega,milk (fresh),litre,50.18
+01/03/2021,Kakamega,Milk,litre,52.27
+01/04/2021,Kakamega,milk (fresh),litre,55.6
+01/05/2021,Kakamega,Milk,litre,54.54
+01/06/2021,Kakamega,milk (fresh),litre,58.35
+01/07/2021,Kakamega,Milk,litre,58.16
+01/08/2021,KAKAMEGA,Milk,litre,56.81
+01/09/2021,Kakamega,Milk,litre,56.03
+01/10/2021,Kakamega,Milk,litre,53.36
+01/11/2021,KAKAMEGA,milk (fresh),litre,51.24
+01/12/2021,KAKAMEGA,Milk,litre,53.04
+01/01/2022,Kakamega,milk (fresh),litre,54.31
+01/02/2022,Kakamega,milk (fresh),litre,54.69
+01/03/2022,Kakamega,milk (fresh),litre,55.95
+01/04/2022,Kakamega,Milk,litre,55.93
+01/05/2022,Kakamega,Milk,litre,62.09
+01/06/2022,Kakamega,milk (fresh),litre,63.41
+01/07/2022,KAKAMEGA,Milk,litre,61.73
+01/08/2022,Kakamega,Milk,litre,65.44
+01/09/2022,Kakamega,milk (fresh),litre,67.51
+01/10/2022,Kakamega,milk (fresh),litre,66.84
+01/11/2022,Kakamega,milk (fresh),litre,70.04
+01/12/2022,Kakamega,Milk,litre,72.08
+01/01/2023,Kakamega,Milk,litre,70.03
+01/02/2023,Kakamega,milk (fresh),litre,75.67
+01/03/2023,Kakamega,Milk,litre,80.44
+01/04/2023,Kakamega,Milk,litre,83.61
+01/05/2023,Kakamega,milk (fresh),litre,85.49
+01/06/2023,Kakamega,milk (fresh),litre,76.4
+01/07/2023,Kakamega,Milk,litre,78.18
+01/08/2023,Kakamega,Milk,litre,76.1
+01/09/2023,Kakamega,Milk,litre,72.83
+01/10/2023,KAKAMEGA,Milk,litre,69.61
+01/11/2023,Kakamega,Milk,litre,61.39
+01/12/2023,Kakamega,Milk,litre,60.47
+01/01/2024,Kakamega,Milk,litre,58.49
+01/02/2024,Kakamega,milk (fresh),litre,62.12
+01/03/2024,Kakamega,milk (fresh),litre,59.2
+01/04/2024,Kakamega,Milk,litre,65.01
+01/05/2024,KAKAMEGA,milk (fresh),litre,65.53
+01/06/2024,Kakamega,Milk,litre,65.07
+01/07/2024,Kakamega,Milk,litre,59.7
+01/08/2024,Kakamega,Milk,litre,61.55
+01/09/2024,Kakamega,milk (fresh),litre,62.81
+01/10/2024,KAKAMEGA,Milk,litre,57.56
+01/11/2024,Kakamega,milk (fresh),litre,58.72
+01/12/2024,Kakamega,milk (fresh),litre,58.74
+01/01/2025,Kakamega,milk (fresh),litre,61.1
+01/02/2025,Kakamega,Milk,litre,61.38
+01/03/2025,Kakamega,milk (fresh),litre,63.15
+01/04/2025,Kakamega,milk (fresh),litre,63.58
+01/05/2025,KAKAMEGA,milk (fresh),litre,65.8
+01/06/2025,Kakamega,milk (fresh),litre,66.17
+01/07/2025,Kakamega,milk (fresh),litre,67.66
+01/08/2025,Kakamega,Milk,litre,64.93
+01/09/2025,Kakamega,Milk,litre,65.85
+01/11/2025,Kakamega,milk (fresh),litre,63.72
+01/12/2025,KAKAMEGA,Milk,litre,60.99
+01/06/2023,Kakamega,sugar,kg,202.1
+01/11/2023,Kakamega,veg. oil,litre,280.6
+01/08/2023,Kakamega,Maize,kg,77.45

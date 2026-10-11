@@ -1,0 +1,474 @@
+Date,County,Commodity,Unit,Price (KES)
+01/01/2021,Mombasa,Maize,kg,44.07
+01/02/2021,Mombasa,Maize,kg,48.42
+01/03/2021,Mombasa,maize (white),kg,52.09
+01/04/2021,Mombasa,Maize,kg,55.38
+01/05/2021,Mombasa,Maize,kg,58.33
+01/06/2021,Mombasa,maize (white),kg,56.79
+01/07/2021,Mombasa,MAIZE,kg,56.15
+01/08/2021,Mombasa,maize (white),kg,55.77
+01/09/2021,Mombasa,MAIZE,kg,49.45
+01/10/2021,Mombasa,maize (white),kg,49.01
+01/11/2021,Mombasa,Maize,kg,45.93
+01/12/2021,Mombasa,MAIZE,kg,45.62
+01/01/2022,Mombasa,Maize,kg,44.87
+01/02/2022,Mombasa,maize (white),kg,48.84
+01/03/2022,Mombasa,MAIZE,kg,54.11
+01/04/2022,Mombasa,MAIZE,kg,60.04
+01/05/2022,Mombasa,Maize,kg,64.32
+01/06/2022,MOMBASA,MAIZE,kg,65.35
+01/07/2022,Mombasa,MAIZE,kg,66.93
+01/08/2022,Mombasa,MAIZE,kg,66.3
+01/09/2022,Mombasa,Maize,kg,68.83
+01/10/2022,MOMBASA,Maize,kg,67.64
+01/11/2022,Mombasa,Maize,kg,70.6
+01/12/2022,Mombasa,maize (white),kg,76.27
+01/01/2023,Mombasa,Maize,kg,77.78
+01/02/2023,Mombasa,maize (white),kg,81.25
+01/03/2023,Mombasa,Maize,kg,90.31
+01/04/2023,Mombasa,maize (white),kg,94.48
+01/06/2023,Mombasa,Maize,kg,103.76
+01/07/2023,Mombasa,Maize,kg,94.71
+01/08/2023,MOMBASA,MAIZE,kg,81.61
+01/09/2023,Mombasa,Maize,kg,77.5
+01/10/2023,Mombasa,MAIZE,kg,69.92
+01/11/2023,Mombasa,maize (white),kg,60.19
+01/12/2023,Mombasa,maize (white),kg,55.91
+01/01/2024,Mombasa,Maize,kg,55.47
+01/02/2024,Mombasa,maize (white),kg,57.71
+01/03/2024,Mombasa,Maize,kg,60.91
+01/04/2024,Mombasa,MAIZE,kg,64.84
+01/05/2024,Mombasa,Maize,kg,67.17
+01/06/2024,Mombasa,maize (white),kg,67.92
+01/07/2024,MOMBASA,maize (white),kg,67.28
+01/08/2024,Mombasa,maize (white),kg,63.39
+01/09/2024,Mombasa,MAIZE,kg,56.07
+01/10/2024,MOMBASA,Maize,kg,55.18
+01/11/2024,Mombasa,MAIZE,kg,53.48
+01/12/2024,Mombasa,maize (white),kg,51.59
+01/01/2025,Mombasa,Maize,kg,54.78
+01/02/2025,Mombasa,Maize,kg,55.52
+01/03/2025,Mombasa,Maize,kg,58.24
+01/04/2025,Mombasa,MAIZE,kg,66.47
+01/05/2025,Mombasa,maize (white),kg,67.9
+01/06/2025,Mombasa,maize (white),kg,68.21
+01/07/2025,Mombasa,MAIZE,kg,68.87
+01/08/2025,Mombasa,Maize,kg,66.61
+01/09/2025,Mombasa,maize (white),kg,61.73
+01/10/2025,Mombasa,maize (white),kg,53.38
+01/11/2025,Mombasa,Maize,kg,53.99
+01/12/2025,Mombasa,maize (white),kg,53.55
+01/01/2021,MOMBASA,Beans,kg,110.8
+01/02/2021,Mombasa,Beans ,kg,111.97
+01/03/2021,Mombasa,Beans ,kg,120.78
+01/04/2021,Mombasa,Beans ,kg,122.01
+01/05/2021,Mombasa,beans - rosecoco,kg,122.82
+01/06/2021,Mombasa,beans - rosecoco,kg,124.41
+01/07/2021,Mombasa,Beans ,kg,126.97
+01/08/2021,Mombasa,Beans,kg,119.65
+01/09/2021,Mombasa,Beans,kg,118.54
+01/10/2021,Mombasa,Beans ,kg,114.48
+01/11/2021,Mombasa,Beans ,kg,118.92
+01/12/2021,Mombasa,Beans ,kg,119.42
+01/01/2022,Mombasa,Beans ,kg,127.08
+01/02/2022,Mombasa,Beans ,kg,118.21
+01/03/2022,Mombasa,Beans ,kg,126.49
+01/04/2022,Mombasa,Beans,kg,138.74
+01/05/2022,Mombasa,beans - rosecoco,kg,139.7
+01/06/2022,Mombasa,beans - rosecoco,kg,143.73
+01/07/2022,Mombasa,beans - rosecoco,kg,155.92
+01/08/2022,Mombasa,beans - rosecoco,kg,148.69
+01/09/2022,Mombasa,beans - rosecoco,kg,146.18
+01/10/2022,Mombasa,Beans,kg,146.8
+01/11/2022,Mombasa,Beans ,kg,156.97
+01/12/2022,Mombasa,Beans,kg,161.3
+01/01/2023,Mombasa,Beans ,kg,159.43
+01/02/2023,Mombasa,Beans,kg,168.89
+01/03/2023,MOMBASA,Beans,kg,
+01/04/2023,Mombasa,beans - rosecoco,kg,190.66
+01/05/2023,Mombasa,Beans ,kg,185.93
+01/06/2023,Mombasa,Beans,kg,190.85
+01/07/2023,Mombasa,Beans ,kg,184.05
+01/08/2023,Mombasa,beans - rosecoco,kg,162.4
+01/09/2023,Mombasa,Beans,kg,159.5
+01/10/2023,MOMBASA,Beans ,kg,152.98
+01/11/2023,Mombasa,beans - rosecoco,kg,140.88
+01/12/2023,Mombasa,beans - rosecoco,kg,129.71
+01/01/2024,Mombasa,beans - rosecoco,kg,135.9
+01/02/2024,Mombasa,Beans,kg,141.36
+01/03/2024,Mombasa,beans - rosecoco,kg,147.86
+01/04/2024,Mombasa,Beans ,kg,135.09
+01/05/2024,Mombasa,Beans,kg,158.84
+01/07/2024,Mombasa,Beans,kg,151.63
+01/08/2024,Mombasa,Beans,kg,149.97
+01/09/2024,Mombasa,beans - rosecoco,kg,144.92
+01/10/2024,Mombasa,Beans,kg,137.57
+01/11/2024,Mombasa,beans - rosecoco,kg,129.6
+01/12/2024,Mombasa,Beans ,kg,136.08
+01/01/2025,Mombasa,Beans ,kg,132.26
+01/02/2025,Mombasa,Beans,kg,128.25
+01/03/2025,Mombasa,Beans ,kg,155.7
+01/04/2025,Mombasa,Beans,kg,151.47
+01/05/2025,MOMBASA,Beans,kg,160.27
+01/06/2025,Mombasa,Beans ,kg,149.45
+01/07/2025,Mombasa,Beans,kg,159.73
+01/08/2025,Mombasa,Beans ,kg,157.46
+01/09/2025,Mombasa,beans - rosecoco,kg,153.22
+01/10/2025,Mombasa,beans - rosecoco,kg,142.37
+01/11/2025,Mombasa,beans - rosecoco,kg,134.65
+01/12/2025,Mombasa,Beans ,kg,138.22
+01/01/2021,Mombasa,Rice,kg,132.72
+01/02/2021,Mombasa,rice (pishori),kg,133.69
+01/03/2021,Mombasa,Rice,kg,132.78
+01/04/2021,Mombasa,Rice,kg,134.43
+01/05/2021,Mombasa,Rice,kg,135.54
+01/06/2021,Mombasa,Rice,kg,139.01
+01/07/2021,MOMBASA,rice (pishori),kg,139.07
+01/08/2021,Mombasa,rice (pishori),kg,143.57
+01/09/2021,Mombasa,Rice,kg,137.98
+01/10/2021,Mombasa,rice (pishori),kg,138.07
+01/11/2021,Mombasa,Rice,kg,133.52
+01/12/2021,Mombasa,rice (pishori),kg,145.9
+01/01/2022,Mombasa,rice (pishori),kg,142.58
+01/02/2022,Mombasa,rice (pishori),kg,150.47
+01/03/2022,Mombasa,rice (pishori),kg,149.45
+01/04/2022,Mombasa,Rice,kg,156.38
+01/05/2022,Mombasa,rice (pishori),kg,152.58
+01/06/2022,Mombasa,Rice,kg,161.29
+01/07/2022,Mombasa,Rice,kg,175.3
+01/08/2022,Mombasa,Rice,kg,160.4
+01/09/2022,Mombasa,rice (pishori),kg,177.22
+01/10/2022,Mombasa,Rice,kg,185.32
+01/11/2022,Mombasa,rice (pishori),kg,184.39
+01/12/2022,Mombasa,Rice,kg,192.7
+01/01/2023,Mombasa,Rice,kg,202.31
+01/02/2023,Mombasa,Rice,kg,196.75
+01/03/2023,Mombasa,Rice,kg,207.96
+01/04/2023,Mombasa,rice (pishori),kg,202.21
+01/05/2023,Mombasa,rice (pishori),kg,202.96
+01/06/2023,Mombasa,rice (pishori),kg,199.94
+01/07/2023,Mombasa,Rice,kg,196.95
+01/08/2023,Mombasa,Rice,kg,191.04
+01/09/2023,MOMBASA,Rice,kg,184.54
+01/10/2023,Mombasa,Rice,kg,166.74
+01/11/2023,Mombasa,Rice,kg,178.17
+01/12/2023,Mombasa,rice (pishori),kg,169.15
+01/01/2024,Mombasa,Rice,kg,164.19
+01/02/2024,MOMBASA,rice (pishori),kg,157.75
+01/03/2024,Mombasa,rice (pishori),kg,159.14
+01/04/2024,Mombasa,Rice,kg,162.98
+01/05/2024,Mombasa,Rice,kg,163.06
+01/06/2024,Mombasa,Rice,kg,153.05
+01/07/2024,Mombasa,Rice,kg,164.8
+01/08/2024,Mombasa,rice (pishori),kg,174.67
+01/09/2024,Mombasa,rice (pishori),kg,150.09
+01/10/2024,Mombasa,Rice,kg,162.84
+01/11/2024,MOMBASA,Rice,kg,159.12
+01/12/2024,Mombasa,rice (pishori),kg,156.88
+01/01/2025,Mombasa,rice (pishori),kg,165.06
+01/02/2025,Mombasa,rice (pishori),kg,154.26
+01/03/2025,Mombasa,rice (pishori),kg,163.05
+01/04/2025,Mombasa,rice (pishori),kg,171.82
+01/05/2025,Mombasa,Rice,kg,165.14
+01/06/2025,Mombasa,Rice,kg,164.99
+01/07/2025,MOMBASA,rice (pishori),kg,167.84
+01/08/2025,Mombasa,Rice,kg,164.31
+01/09/2025,MOMBASA,Rice,kg,173.37
+01/10/2025,Mombasa,Rice,kg,159.77
+01/11/2025,Mombasa,rice (pishori),kg,168.09
+01/12/2025,Mombasa,Rice,kg,157.44
+01/01/2021,Mombasa,SUGAR,kg,115.74
+01/02/2021,Mombasa,sugar,kg,119.56
+01/03/2021,Mombasa,SUGAR,kg,116.77
+01/04/2021,Mombasa,SUGAR,kg,119.18
+01/05/2021,Mombasa,SUGAR,kg,121.68
+01/06/2021,Mombasa,Sugar,kg,132.57
+01/07/2021,Mombasa,sugar,kg,123.09
+01/08/2021,Mombasa,SUGAR,kg,122.26
+01/09/2021,Mombasa,sugar,kg,121.46
+01/10/2021,MOMBASA,SUGAR,kg,122.28
+01/11/2021,Mombasa,sugar,kg,125.05
+01/12/2021,Mombasa,sugar,kg,123.8
+01/01/2022,Mombasa,sugar,kg,132.13
+01/02/2022,Mombasa,sugar,kg,127.57
+01/03/2022,Mombasa,sugar,kg,135.59
+01/04/2022,MOMBASA,sugar,kg,135.06
+01/05/2022,MOMBASA,sugar,kg,141.21
+01/06/2022,Mombasa,SUGAR,kg,137.97
+01/08/2022,Mombasa,Sugar,kg,158.06
+01/09/2022,Mombasa,SUGAR,kg,166.32
+01/10/2022,MOMBASA,Sugar,kg,166.81
+01/11/2022,Mombasa,Sugar,kg,195.68
+01/12/2022,Mombasa,sugar,kg,201.64
+01/01/2023,Mombasa,Sugar,kg,214.59
+01/02/2023,Mombasa,sugar,kg,227.7
+01/03/2023,Mombasa,Sugar,kg,236.64
+01/04/2023,Mombasa,sugar,kg,245.21
+01/05/2023,Mombasa,Sugar,kg,231.26
+01/06/2023,Mombasa,SUGAR,kg,226.39
+01/07/2023,MOMBASA,sugar,kg,222.71
+01/08/2023,Mombasa,SUGAR,kg,206.88
+01/09/2023,Mombasa,Sugar,kg,188.41
+01/10/2023,Mombasa,SUGAR,kg,173.26
+01/11/2023,Mombasa,sugar,kg,160.27
+01/12/2023,Mombasa,Sugar,kg,155.11
+01/01/2024,MOMBASA,Sugar,kg,154.57
+01/02/2024,Mombasa,Sugar,kg,141.06
+01/03/2024,Mombasa,Sugar,kg,150.55
+01/04/2024,Mombasa,sugar,kg,147.05
+01/05/2024,MOMBASA,SUGAR,kg,141.41
+01/06/2024,Mombasa,sugar,kg,146.61
+01/07/2024,MOMBASA,Sugar,kg,136.5
+01/08/2024,Mombasa,sugar,kg,134.55
+01/09/2024,Mombasa,Sugar,kg,135.37
+01/10/2024,Mombasa,sugar,kg,138.08
+01/11/2024,Mombasa,SUGAR,kg,137.83
+01/12/2024,Mombasa,SUGAR,kg,137.11
+01/01/2025,Mombasa,SUGAR,kg,140.52
+01/02/2025,Mombasa,SUGAR,kg,132.54
+01/03/2025,Mombasa,SUGAR,kg,145.65
+01/04/2025,Mombasa,Sugar,kg,139.25
+01/05/2025,Mombasa,sugar,kg,144.07
+01/06/2025,Mombasa,SUGAR,kg,146.02
+01/07/2025,Mombasa,Sugar,kg,142.82
+01/08/2025,Mombasa,Sugar,kg,141.31
+01/09/2025,Mombasa,Sugar,kg,141.97
+01/10/2025,Mombasa,SUGAR,kg,145.35
+01/11/2025,Mombasa,SUGAR,kg,147.36
+01/12/2025,Mombasa,Sugar,kg,147.32
+01/01/2021,Mombasa,wheat Flour,kg,111.58
+01/02/2021,Mombasa,wheat Flour,kg,106.72
+01/03/2021,Mombasa,Flour (wheat),kg,109.06
+01/04/2021,Mombasa,wheat Flour,kg,106.41
+01/05/2021,Mombasa,Flour (wheat),kg,107.46
+01/06/2021,Mombasa,wheat Flour,kg,108.61
+01/07/2021,Mombasa,wheat Flour,kg,111.59
+01/08/2021,Mombasa,Flour (wheat),kg,114.12
+01/09/2021,MOMBASA,Wheat flour,kg,105.02
+01/10/2021,Mombasa,Flour (wheat),kg,115.3
+01/11/2021,Mombasa,Wheat flour,kg,108.93
+01/12/2021,Mombasa,wheat Flour,kg,109.86
+01/01/2022,Mombasa,wheat Flour,kg,116.85
+01/02/2022,Mombasa,Flour (wheat),kg,115.83
+01/03/2022,Mombasa,wheat Flour,kg,112.77
+01/04/2022,Mombasa,Wheat flour,kg,
+01/05/2022,Mombasa,wheat Flour,kg,120.95
+01/06/2022,Mombasa,Flour (wheat),kg,128.99
+01/07/2022,Mombasa,Wheat flour,kg,133.46
+01/08/2022,Mombasa,wheat Flour,kg,143.99
+01/09/2022,Mombasa,Wheat flour,kg,142.59
+01/10/2022,Mombasa,Flour (wheat),kg,156.52
+01/11/2022,MOMBASA,Flour (wheat),kg,156.48
+01/12/2022,Mombasa,Flour (wheat),kg,174.15
+01/01/2023,Mombasa,Wheat flour,kg,172.51
+01/02/2023,Mombasa,wheat Flour,kg,181.39
+01/03/2023,Mombasa,Flour (wheat),kg,198.73
+01/04/2023,MOMBASA,wheat Flour,kg,
+01/05/2023,Mombasa,wheat Flour,kg,188.74
+01/06/2023,Mombasa,Wheat flour,kg,195.71
+01/07/2023,Mombasa,Flour (wheat),kg,178.09
+01/08/2023,Mombasa,Wheat flour,kg,163.44
+01/09/2023,Mombasa,Wheat flour,kg,162.07
+01/10/2023,Mombasa,Wheat flour,kg,144.88
+01/11/2023,Mombasa,wheat Flour,kg,147.94
+01/12/2023,Mombasa,Flour (wheat),kg,142.56
+01/01/2024,Mombasa,Wheat flour,kg,131.41
+01/02/2024,Mombasa,Flour (wheat),kg,128.81
+01/03/2024,Mombasa,wheat Flour,kg,130.68
+01/04/2024,Mombasa,Flour (wheat),kg,129.51
+01/05/2024,Mombasa,Wheat flour,kg,125.51
+01/06/2024,Mombasa,Flour (wheat),kg,131.46
+01/07/2024,Mombasa,Flour (wheat),kg,121.22
+01/08/2024,Mombasa,Flour (wheat),kg,127.2
+01/09/2024,Mombasa,wheat Flour,kg,126.99
+01/10/2024,Mombasa,wheat Flour,kg,127.22
+01/11/2024,Mombasa,Wheat flour,kg,129.39
+01/12/2024,Mombasa,Flour (wheat),kg,123.71
+01/01/2025,Mombasa,Wheat flour,kg,131.32
+01/02/2025,Mombasa,Flour (wheat),kg,129.25
+01/03/2025,Mombasa,Flour (wheat),kg,128.49
+01/04/2025,Mombasa,wheat Flour,kg,126.72
+01/05/2025,Mombasa,Flour (wheat),kg,128.33
+01/06/2025,Mombasa,Wheat flour,kg,135.12
+01/07/2025,Mombasa,wheat Flour,kg,130.06
+01/08/2025,MOMBASA,Wheat flour,kg,134.15
+01/09/2025,Mombasa,Flour (wheat),kg,137.92
+01/10/2025,Mombasa,wheat Flour,kg,137.56
+01/11/2025,Mombasa,Wheat flour,kg,139.61
+01/12/2025,Mombasa,Flour (wheat),kg,132.43
+01/01/2021,Mombasa,Cooking Oil,litre,234.65
+01/03/2021,Mombasa,Cooking Oil,litre,238.32
+01/04/2021,Mombasa,Cooking oil,litre,237.84
+01/05/2021,Mombasa,Cooking Oil,litre,249.03
+01/06/2021,Mombasa,Cooking oil,litre,257.66
+01/07/2021,Mombasa,veg. oil,litre,232.81
+01/08/2021,Mombasa,Cooking Oil,litre,246.38
+01/09/2021,Mombasa,Cooking oil,litre,243.98
+01/10/2021,Mombasa,Cooking oil,litre,250.65
+01/11/2021,Mombasa,Cooking Oil,litre,240.33
+01/12/2021,Mombasa,Cooking oil,litre,247.52
+01/01/2022,MOMBASA,Cooking Oil,litre,243.09
+01/02/2022,Mombasa,Cooking oil,litre,259.74
+01/03/2022,Mombasa,Cooking oil,litre,259.96
+01/04/2022,Mombasa,veg. oil,litre,263.97
+01/05/2022,Mombasa,Cooking oil,litre,275.75
+01/06/2022,Mombasa,Cooking oil,litre,279.67
+01/07/2022,MOMBASA,Cooking Oil,litre,279.02
+01/08/2022,Mombasa,Cooking Oil,litre,311.22
+01/09/2022,Mombasa,Cooking oil,litre,324.05
+01/10/2022,Mombasa,veg. oil,litre,337.64
+01/11/2022,Mombasa,Cooking Oil,litre,369.69
+01/12/2022,Mombasa,veg. oil,litre,393.71
+01/02/2023,Mombasa,veg. oil,litre,406.82
+01/03/2023,Mombasa,Cooking Oil,litre,447.91
+01/04/2023,Mombasa,Cooking Oil,litre,450.63
+01/05/2023,Mombasa,veg. oil,litre,418.77
+01/06/2023,Mombasa,Cooking Oil,litre,401.81
+01/07/2023,Mombasa,veg. oil,litre,391.26
+01/08/2023,Mombasa,Cooking Oil,litre,372.09
+01/09/2023,Mombasa,Cooking oil,litre,338.88
+01/10/2023,MOMBASA,Cooking Oil,litre,335.67
+01/12/2023,Mombasa,veg. oil,litre,293.46
+01/01/2024,Mombasa,Cooking oil,litre,303.06
+01/02/2024,Mombasa,veg. oil,litre,282.97
+01/03/2024,Mombasa,Cooking Oil,litre,284.93
+01/04/2024,Mombasa,Cooking oil,litre,289.39
+01/05/2024,Mombasa,veg. oil,litre,290.41
+01/06/2024,MOMBASA,Cooking oil,litre,280.41
+01/07/2024,Mombasa,Cooking oil,litre,283.31
+01/08/2024,MOMBASA,veg. oil,litre,275.35
+01/09/2024,Mombasa,Cooking Oil,litre,296.36
+01/10/2024,Mombasa,veg. oil,litre,286.47
+01/11/2024,Mombasa,Cooking Oil,litre,271.54
+01/12/2024,Mombasa,Cooking Oil,litre,281.39
+01/01/2025,Mombasa,Cooking oil,litre,288.72
+01/02/2025,Mombasa,Cooking Oil,litre,288.75
+01/03/2025,MOMBASA,Cooking oil,litre,302.79
+01/04/2025,Mombasa,Cooking Oil,litre,301.35
+01/05/2025,Mombasa,Cooking Oil,litre,286.74
+01/06/2025,Mombasa,veg. oil,litre,292.03
+01/07/2025,Mombasa,Cooking oil,litre,282.11
+01/08/2025,Mombasa,Cooking Oil,litre,295.48
+01/09/2025,Mombasa,Cooking oil,litre,294.11
+01/10/2025,Mombasa,veg. oil,litre,315.97
+01/11/2025,Mombasa,Cooking oil,litre,293.0
+01/12/2025,Mombasa,Cooking Oil,litre,274.31
+01/01/2021,Mombasa,Irish potatoes,kg,47.98
+01/02/2021,Mombasa,Irish potatoes,kg,52.57
+01/03/2021,Mombasa,Potatoes,kg,51.52
+01/04/2021,Mombasa,potatoes,kg,56.16
+01/05/2021,Mombasa,potatoes,kg,55.26
+01/06/2021,Mombasa,potatoes,kg,62.02
+01/07/2021,Mombasa,potatoes,kg,56.6
+01/08/2021,Mombasa,Potatoes,kg,52.43
+01/09/2021,MOMBASA,potatoes,kg,53.51
+01/10/2021,Mombasa,Potatoes,kg,51.05
+01/11/2021,MOMBASA,Potatoes,kg,52.39
+01/12/2021,Mombasa,potatoes,kg,48.61
+01/01/2022,MOMBASA,Irish potatoes,kg,
+01/02/2022,Mombasa,Irish potatoes,kg,53.64
+01/03/2022,Mombasa,Irish potatoes,kg,58.81
+01/04/2022,Mombasa,potatoes,kg,59.74
+01/05/2022,Mombasa,potatoes,kg,65.12
+01/06/2022,Mombasa,Potatoes,kg,66.51
+01/07/2022,Mombasa,Potatoes,kg,66.02
+01/08/2022,Mombasa,Potatoes,kg,66.73
+01/09/2022,Mombasa,Potatoes,kg,65.9
+01/10/2022,MOMBASA,potatoes,kg,63.29
+01/11/2022,Mombasa,Irish potatoes,kg,67.47
+01/12/2022,Mombasa,potatoes,kg,63.77
+01/01/2023,Mombasa,potatoes,kg,72.1
+01/02/2023,Mombasa,Potatoes,kg,76.23
+01/03/2023,Mombasa,Irish potatoes,kg,78.78
+01/04/2023,Mombasa,Irish potatoes,kg,81.16
+01/05/2023,MOMBASA,Irish potatoes,kg,84.56
+01/06/2023,Mombasa,Potatoes,kg,85.73
+01/07/2023,MOMBASA,potatoes,kg,83.08
+01/09/2023,Mombasa,Irish potatoes,kg,72.09
+01/10/2023,Mombasa,potatoes,kg,63.27
+01/11/2023,Mombasa,Potatoes,kg,60.47
+01/12/2023,Mombasa,Potatoes,kg,54.98
+01/01/2024,Mombasa,Potatoes,kg,58.73
+01/02/2024,Mombasa,potatoes,kg,59.14
+01/03/2024,Mombasa,Irish potatoes,kg,60.61
+01/05/2024,Mombasa,Irish potatoes,kg,67.52
+01/06/2024,Mombasa,Potatoes,kg,61.28
+01/07/2024,Mombasa,potatoes,kg,66.27
+01/08/2024,Mombasa,potatoes,kg,61.3
+01/09/2024,Mombasa,Irish potatoes,kg,63.16
+01/10/2024,Mombasa,Potatoes,kg,62.67
+01/11/2024,Mombasa,potatoes,kg,55.37
+01/12/2024,MOMBASA,Potatoes,kg,55.73
+01/01/2025,Mombasa,potatoes,kg,56.19
+01/02/2025,Mombasa,Irish potatoes,kg,
+01/03/2025,Mombasa,Potatoes,kg,63.61
+01/04/2025,Mombasa,Potatoes,kg,68.28
+01/05/2025,Mombasa,potatoes,kg,66.23
+01/06/2025,Mombasa,potatoes,kg,72.6
+01/07/2025,Mombasa,Potatoes,kg,66.79
+01/08/2025,Mombasa,Potatoes,kg,67.17
+01/09/2025,Mombasa,potatoes,kg,65.86
+01/10/2025,MOMBASA,potatoes,kg,61.96
+01/11/2025,Mombasa,Potatoes,kg,56.87
+01/12/2025,Mombasa,Potatoes,kg,56.63
+01/01/2021,MOMBASA,milk (fresh),litre,54.46
+01/02/2021,Mombasa,Milk,litre,56.14
+01/03/2021,Mombasa,Milk,litre,56.44
+01/04/2021,Mombasa,Milk,litre,58.05
+01/05/2021,Mombasa,Milk,litre,64.07
+01/06/2021,Mombasa,milk (fresh),litre,59.04
+01/07/2021,Mombasa,milk (fresh),litre,59.2
+01/08/2021,Mombasa,milk (fresh),litre,58.84
+01/09/2021,Mombasa,milk (fresh),litre,61.21
+01/10/2021,Mombasa,Milk,litre,61.52
+01/11/2021,Mombasa,milk (fresh),litre,57.65
+01/12/2021,Mombasa,Milk,litre,55.8
+01/01/2022,Mombasa,milk (fresh),litre,57.11
+01/02/2022,Mombasa,Milk,litre,61.4
+01/03/2022,Mombasa,milk (fresh),litre,60.07
+01/04/2022,Mombasa,Milk,litre,67.07
+01/05/2022,Mombasa,milk (fresh),litre,69.53
+01/06/2022,Mombasa,milk (fresh),litre,68.91
+01/07/2022,Mombasa,milk (fresh),litre,71.71
+01/08/2022,Mombasa,Milk,litre,73.1
+01/09/2022,Mombasa,milk (fresh),litre,75.8
+01/10/2022,Mombasa,Milk,litre,71.16
+01/11/2022,Mombasa,milk (fresh),litre,77.66
+01/12/2022,Mombasa,milk (fresh),litre,76.39
+01/01/2023,Mombasa,milk (fresh),litre,78.4
+01/02/2023,Mombasa,Milk,litre,83.92
+01/03/2023,Mombasa,milk (fresh),litre,86.34
+01/04/2023,Mombasa,milk (fresh),litre,86.56
+01/05/2023,Mombasa,Milk,litre,85.61
+01/06/2023,Mombasa,Milk,litre,86.25
+01/07/2023,Mombasa,milk (fresh),litre,89.57
+01/08/2023,Mombasa,milk (fresh),litre,86.47
+01/09/2023,Mombasa,Milk,litre,78.51
+01/10/2023,Mombasa,milk (fresh),litre,75.22
+01/11/2023,Mombasa,milk (fresh),litre,68.11
+01/12/2023,Mombasa,milk (fresh),litre,66.84
+01/01/2024,Mombasa,Milk,litre,66.71
+01/02/2024,MOMBASA,Milk,litre,64.3
+01/04/2024,Mombasa,milk (fresh),litre,69.02
+01/05/2024,Mombasa,Milk,litre,69.19
+01/06/2024,Mombasa,Milk,litre,68.04
+01/07/2024,Mombasa,milk (fresh),litre,70.72
+01/08/2024,Mombasa,milk (fresh),litre,68.28
+01/09/2024,Mombasa,milk (fresh),litre,69.39
+01/10/2024,Mombasa,milk (fresh),litre,65.83
+01/11/2024,Mombasa,milk (fresh),litre,64.22
+01/01/2025,Mombasa,Milk,litre,64.9
+01/02/2025,Mombasa,milk (fresh),litre,65.37
+01/03/2025,Mombasa,Milk,litre,67.81
+01/04/2025,Mombasa,Milk,litre,72.18
+01/05/2025,Mombasa,Milk,litre,73.49
+01/06/2025,Mombasa,milk (fresh),litre,75.6
+01/07/2025,Mombasa,milk (fresh),litre,68.88
+01/08/2025,Mombasa,milk (fresh),litre,70.69
+01/09/2025,Mombasa,Milk,litre,69.14
+01/10/2025,Mombasa,milk (fresh),litre,68.84
+01/11/2025,Mombasa,Milk,litre,66.5
+01/12/2025,Mombasa,Milk,litre,66.13
+01/07/2023,MOMBASA,sugar,kg,222.71
+01/08/2023,Mombasa,Cooking Oil,litre,372.09
+01/09/2023,Mombasa,Maize,kg,77.5

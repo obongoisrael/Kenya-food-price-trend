@@ -1,0 +1,474 @@
+Date,County,Commodity,Unit,Price (KES)
+01/01/2021,Nairobi,maize (white),kg,43.01
+01/02/2021,Nairobi,maize (white),kg,45.71
+01/03/2021,Nairobi,maize (white),kg,47.99
+01/04/2021,Nairobi,maize (white),kg,50.12
+01/05/2021,Nairobi,MAIZE,kg,53.1
+01/06/2021,Nairobi,Maize,kg,53.21
+01/07/2021,Nairobi,Maize,kg,54.37
+01/08/2021,Nairobi,MAIZE,kg,54.43
+01/09/2021,Nairobi,Maize,kg,48.85
+01/10/2021,Nairobi,maize (white),kg,45.95
+01/11/2021,Nairobi,maize (white),kg,45.54
+01/12/2021,Nairobi,MAIZE,kg,44.83
+01/01/2022,Nairobi,Maize,kg,45.67
+01/02/2022,Nairobi,Maize,kg,46.91
+01/03/2022,Nairobi,Maize,kg,52.01
+01/04/2022,Nairobi,maize (white),kg,57.41
+01/05/2022,Nairobi,MAIZE,kg,57.64
+01/06/2022,Nairobi,maize (white),kg,62.12
+01/07/2022,Nairobi,MAIZE,kg,61.04
+01/08/2022,NAIROBI,maize (white),kg,62.85
+01/09/2022,Nairobi,MAIZE,kg,61.78
+01/10/2022,Nairobi,MAIZE,kg,65.06
+01/11/2022,Nairobi,maize (white),kg,64.14
+01/12/2022,NAIROBI,Maize,kg,70.24
+01/01/2023,NAIROBI,MAIZE,kg,
+01/02/2023,Nairobi,maize (white),kg,81.34
+01/03/2023,Nairobi,maize (white),kg,82.41
+01/04/2023,Nairobi,MAIZE,kg,93.46
+01/05/2023,Nairobi,Maize,kg,97.46
+01/06/2023,Nairobi,maize (white),kg,96.34
+01/07/2023,Nairobi,Maize,kg,86.3
+01/08/2023,Nairobi,maize (white),kg,81.04
+01/09/2023,Nairobi,MAIZE,kg,70.94
+01/10/2023,Nairobi,maize (white),kg,63.21
+01/11/2023,Nairobi,MAIZE,kg,60.37
+01/12/2023,NAIROBI,Maize,kg,53.55
+01/01/2024,Nairobi,maize (white),kg,53.83
+01/02/2024,Nairobi,MAIZE,kg,56.48
+01/03/2024,Nairobi,MAIZE,kg,56.45
+01/04/2024,NAIROBI,maize (white),kg,60.01
+01/05/2024,Nairobi,MAIZE,kg,62.52
+01/06/2024,Nairobi,maize (white),kg,63.19
+01/07/2024,Nairobi,Maize,kg,59.87
+01/08/2024,Nairobi,MAIZE,kg,59.9
+01/09/2024,Nairobi,MAIZE,kg,58.82
+01/10/2024,Nairobi,maize (white),kg,50.8
+01/11/2024,Nairobi,Maize,kg,52.25
+01/12/2024,Nairobi,MAIZE,kg,50.37
+01/01/2025,Nairobi,Maize,kg,50.29
+01/02/2025,Nairobi,Maize,kg,57.2
+01/03/2025,Nairobi,Maize,kg,58.92
+01/04/2025,Nairobi,MAIZE,kg,
+01/05/2025,Nairobi,MAIZE,kg,64.15
+01/06/2025,Nairobi,MAIZE,kg,66.28
+01/07/2025,Nairobi,MAIZE,kg,64.07
+01/08/2025,Nairobi,maize (white),kg,63.35
+01/09/2025,NAIROBI,MAIZE,kg,58.63
+01/10/2025,Nairobi,MAIZE,kg,56.52
+01/11/2025,Nairobi,Maize,kg,55.28
+01/12/2025,Nairobi,maize (white),kg,51.15
+01/01/2021,Nairobi,Beans,kg,106.75
+01/02/2021,Nairobi,beans - rosecoco,kg,110.9
+01/03/2021,Nairobi,beans - rosecoco,kg,113.97
+01/04/2021,Nairobi,Beans ,kg,119.9
+01/05/2021,Nairobi,Beans ,kg,121.53
+01/06/2021,Nairobi,Beans ,kg,123.23
+01/07/2021,Nairobi,beans - rosecoco,kg,118.78
+01/08/2021,Nairobi,beans - rosecoco,kg,118.87
+01/09/2021,Nairobi,Beans ,kg,124.68
+01/10/2021,Nairobi,Beans,kg,113.42
+01/11/2021,Nairobi,Beans ,kg,110.12
+01/12/2021,Nairobi,Beans ,kg,114.59
+01/01/2022,Nairobi,Beans,kg,120.12
+01/02/2022,Nairobi,Beans ,kg,113.82
+01/03/2022,NAIROBI,Beans,kg,123.38
+01/04/2022,Nairobi,Beans,kg,127.38
+01/05/2022,Nairobi,beans - rosecoco,kg,128.07
+01/06/2022,Nairobi,Beans,kg,142.65
+01/07/2022,Nairobi,Beans ,kg,142.51
+01/08/2022,Nairobi,beans - rosecoco,kg,144.75
+01/09/2022,Nairobi,Beans ,kg,142.32
+01/10/2022,Nairobi,beans - rosecoco,kg,148.96
+01/11/2022,Nairobi,Beans ,kg,147.01
+01/12/2022,Nairobi,Beans,kg,153.03
+01/01/2023,Nairobi,beans - rosecoco,kg,154.56
+01/02/2023,Nairobi,beans - rosecoco,kg,161.24
+01/03/2023,Nairobi,Beans,kg,181.7
+01/04/2023,Nairobi,Beans,kg,177.47
+01/05/2023,NAIROBI,Beans ,kg,183.89
+01/06/2023,Nairobi,beans - rosecoco,kg,179.96
+01/07/2023,Nairobi,Beans ,kg,171.69
+01/08/2023,NAIROBI,beans - rosecoco,kg,162.46
+01/09/2023,Nairobi,Beans,kg,157.74
+01/10/2023,Nairobi,Beans ,kg,143.97
+01/11/2023,NAIROBI,Beans ,kg,137.2
+01/12/2023,Nairobi,Beans,kg,133.36
+01/01/2024,Nairobi,Beans ,kg,136.44
+01/02/2024,Nairobi,Beans,kg,135.64
+01/03/2024,Nairobi,beans - rosecoco,kg,137.3
+01/04/2024,Nairobi,beans - rosecoco,kg,136.68
+01/05/2024,Nairobi,Beans,kg,135.76
+01/06/2024,Nairobi,Beans ,kg,146.72
+01/07/2024,Nairobi,beans - rosecoco,kg,145.84
+01/08/2024,Nairobi,Beans,kg,138.46
+01/09/2024,Nairobi,beans - rosecoco,kg,137.56
+01/10/2024,Nairobi,Beans ,kg,134.77
+01/11/2024,Nairobi,Beans ,kg,132.33
+01/12/2024,Nairobi,Beans,kg,131.99
+01/01/2025,Nairobi,Beans ,kg,128.19
+01/02/2025,Nairobi,Beans,kg,139.48
+01/03/2025,Nairobi,Beans,kg,132.84
+01/04/2025,Nairobi,Beans ,kg,146.3
+01/05/2025,Nairobi,Beans ,kg,148.3
+01/06/2025,Nairobi,Beans,kg,151.62
+01/07/2025,Nairobi,Beans,kg,155.4
+01/08/2025,Nairobi,Beans ,kg,150.94
+01/09/2025,Nairobi,Beans ,kg,135.92
+01/10/2025,Nairobi,Beans ,kg,130.04
+01/11/2025,Nairobi,Beans,kg,137.61
+01/12/2025,Nairobi,beans - rosecoco,kg,129.54
+01/01/2021,Nairobi,rice (pishori),kg,127.96
+01/03/2021,Nairobi,Rice,kg,133.23
+01/04/2021,Nairobi,Rice,kg,132.65
+01/05/2021,Nairobi,rice (pishori),kg,132.04
+01/06/2021,Nairobi,rice (pishori),kg,132.69
+01/07/2021,Nairobi,rice (pishori),kg,141.97
+01/08/2021,Nairobi,rice (pishori),kg,137.09
+01/09/2021,Nairobi,Rice,kg,134.55
+01/11/2021,Nairobi,rice (pishori),kg,128.82
+01/12/2021,NAIROBI,Rice,kg,133.42
+01/01/2022,Nairobi,rice (pishori),kg,138.58
+01/02/2022,Nairobi,Rice,kg,135.69
+01/03/2022,Nairobi,Rice,kg,139.39
+01/04/2022,Nairobi,rice (pishori),kg,
+01/05/2022,Nairobi,rice (pishori),kg,148.3
+01/06/2022,Nairobi,rice (pishori),kg,144.57
+01/07/2022,Nairobi,rice (pishori),kg,154.8
+01/08/2022,Nairobi,rice (pishori),kg,156.0
+01/09/2022,Nairobi,Rice,kg,168.97
+01/10/2022,Nairobi,rice (pishori),kg,165.63
+01/11/2022,Nairobi,rice (pishori),kg,178.12
+01/12/2022,Nairobi,rice (pishori),kg,189.41
+01/01/2023,Nairobi,rice (pishori),kg,185.57
+01/02/2023,NAIROBI,Rice,kg,189.59
+01/03/2023,Nairobi,Rice,kg,198.63
+01/04/2023,Nairobi,rice (pishori),kg,199.74
+01/05/2023,Nairobi,Rice,kg,193.34
+01/06/2023,Nairobi,Rice,kg,198.67
+01/07/2023,Nairobi,rice (pishori),kg,201.71
+01/08/2023,Nairobi,rice (pishori),kg,181.46
+01/09/2023,Nairobi,Rice,kg,173.95
+01/10/2023,Nairobi,Rice,kg,162.37
+01/11/2023,Nairobi,rice (pishori),kg,163.04
+01/12/2023,Nairobi,Rice,kg,151.19
+01/01/2024,Nairobi,Rice,kg,149.3
+01/02/2024,NAIROBI,rice (pishori),kg,159.25
+01/03/2024,NAIROBI,rice (pishori),kg,149.28
+01/04/2024,Nairobi,rice (pishori),kg,159.11
+01/05/2024,Nairobi,rice (pishori),kg,161.91
+01/06/2024,Nairobi,Rice,kg,156.38
+01/07/2024,Nairobi,rice (pishori),kg,157.51
+01/08/2024,NAIROBI,rice (pishori),kg,163.16
+01/09/2024,Nairobi,rice (pishori),kg,152.11
+01/10/2024,Nairobi,rice (pishori),kg,149.23
+01/11/2024,Nairobi,rice (pishori),kg,145.14
+01/12/2024,Nairobi,Rice,kg,151.56
+01/01/2025,NAIROBI,Rice,kg,159.04
+01/02/2025,Nairobi,rice (pishori),kg,158.36
+01/03/2025,Nairobi,Rice,kg,151.59
+01/04/2025,Nairobi,Rice,kg,154.03
+01/05/2025,Nairobi,rice (pishori),kg,157.34
+01/06/2025,Nairobi,Rice,kg,162.12
+01/07/2025,Nairobi,rice (pishori),kg,159.83
+01/08/2025,Nairobi,rice (pishori),kg,161.22
+01/09/2025,Nairobi,Rice,kg,160.54
+01/10/2025,Nairobi,Rice,kg,156.63
+01/11/2025,Nairobi,Rice,kg,157.2
+01/12/2025,Nairobi,rice (pishori),kg,158.44
+01/01/2021,Nairobi,SUGAR,kg,115.0
+01/02/2021,Nairobi,SUGAR,kg,113.77
+01/03/2021,Nairobi,Sugar,kg,118.02
+01/04/2021,Nairobi,SUGAR,kg,117.38
+01/05/2021,Nairobi,Sugar,kg,115.0
+01/06/2021,Nairobi,Sugar,kg,119.29
+01/07/2021,Nairobi,sugar,kg,120.01
+01/08/2021,NAIROBI,Sugar,kg,122.89
+01/09/2021,Nairobi,SUGAR,kg,115.56
+01/10/2021,Nairobi,SUGAR,kg,118.02
+01/11/2021,Nairobi,sugar,kg,111.83
+01/12/2021,Nairobi,Sugar,kg,120.67
+01/01/2022,Nairobi,sugar,kg,115.78
+01/02/2022,Nairobi,sugar,kg,115.27
+01/03/2022,Nairobi,Sugar,kg,124.73
+01/04/2022,Nairobi,SUGAR,kg,133.07
+01/05/2022,Nairobi,SUGAR,kg,127.25
+01/06/2022,Nairobi,sugar,kg,134.15
+01/07/2022,Nairobi,sugar,kg,141.68
+01/08/2022,Nairobi,SUGAR,kg,147.14
+01/09/2022,Nairobi,SUGAR,kg,162.93
+01/10/2022,Nairobi,SUGAR,kg,167.31
+01/11/2022,Nairobi,sugar,kg,179.34
+01/12/2022,Nairobi,Sugar,kg,199.6
+01/01/2023,NAIROBI,sugar,kg,204.35
+01/02/2023,Nairobi,sugar,kg,223.5
+01/03/2023,Nairobi,SUGAR,kg,222.43
+01/04/2023,NAIROBI,Sugar,kg,224.46
+01/05/2023,Nairobi,Sugar,kg,218.46
+01/06/2023,Nairobi,SUGAR,kg,236.44
+01/07/2023,Nairobi,sugar,kg,210.25
+01/08/2023,Nairobi,sugar,kg,199.51
+01/09/2023,Nairobi,Sugar,kg,183.06
+01/10/2023,Nairobi,SUGAR,kg,170.33
+01/11/2023,Nairobi,sugar,kg,158.3
+01/12/2023,Nairobi,Sugar,kg,157.96
+01/01/2024,NAIROBI,SUGAR,kg,139.06
+01/02/2024,Nairobi,sugar,kg,133.54
+01/03/2024,Nairobi,sugar,kg,134.23
+01/04/2024,Nairobi,SUGAR,kg,132.38
+01/05/2024,Nairobi,Sugar,kg,140.93
+01/06/2024,Nairobi,sugar,kg,141.13
+01/07/2024,NAIROBI,Sugar,kg,133.33
+01/08/2024,Nairobi,Sugar,kg,130.77
+01/09/2024,Nairobi,sugar,kg,133.97
+01/10/2024,Nairobi,sugar,kg,140.03
+01/11/2024,Nairobi,sugar,kg,122.52
+01/12/2024,Nairobi,SUGAR,kg,
+01/01/2025,Nairobi,Sugar,kg,130.37
+01/02/2025,Nairobi,sugar,kg,140.42
+01/03/2025,NAIROBI,SUGAR,kg,133.54
+01/04/2025,Nairobi,SUGAR,kg,138.65
+01/05/2025,Nairobi,Sugar,kg,134.94
+01/06/2025,Nairobi,sugar,kg,138.0
+01/08/2025,NAIROBI,sugar,kg,145.19
+01/09/2025,Nairobi,SUGAR,kg,139.06
+01/10/2025,Nairobi,Sugar,kg,136.16
+01/11/2025,Nairobi,sugar,kg,131.32
+01/12/2025,Nairobi,SUGAR,kg,137.65
+01/01/2021,NAIROBI,wheat Flour,kg,105.22
+01/02/2021,Nairobi,wheat Flour,kg,101.74
+01/03/2021,Nairobi,Flour (wheat),kg,100.64
+01/04/2021,Nairobi,Flour (wheat),kg,108.65
+01/05/2021,Nairobi,wheat Flour,kg,107.43
+01/06/2021,Nairobi,Wheat flour,kg,109.18
+01/07/2021,NAIROBI,Flour (wheat),kg,102.95
+01/08/2021,Nairobi,Flour (wheat),kg,107.34
+01/09/2021,Nairobi,Wheat flour,kg,106.51
+01/10/2021,NAIROBI,wheat Flour,kg,105.61
+01/11/2021,Nairobi,wheat Flour,kg,101.24
+01/12/2021,Nairobi,Wheat flour,kg,108.02
+01/01/2022,Nairobi,Flour (wheat),kg,113.08
+01/02/2022,Nairobi,wheat Flour,kg,112.9
+01/03/2022,Nairobi,wheat Flour,kg,111.62
+01/04/2022,Nairobi,Wheat flour,kg,116.2
+01/05/2022,Nairobi,Wheat flour,kg,122.09
+01/06/2022,Nairobi,Wheat flour,kg,112.92
+01/07/2022,Nairobi,wheat Flour,kg,127.09
+01/08/2022,Nairobi,wheat Flour,kg,134.99
+01/09/2022,Nairobi,wheat Flour,kg,141.85
+01/10/2022,Nairobi,wheat Flour,kg,153.54
+01/11/2022,Nairobi,Wheat flour,kg,159.12
+01/12/2022,Nairobi,Flour (wheat),kg,163.51
+01/01/2023,Nairobi,wheat Flour,kg,171.3
+01/02/2023,Nairobi,wheat Flour,kg,180.49
+01/03/2023,Nairobi,wheat Flour,kg,177.87
+01/04/2023,Nairobi,wheat Flour,kg,182.22
+01/05/2023,Nairobi,Flour (wheat),kg,185.81
+01/06/2023,Nairobi,wheat Flour,kg,186.68
+01/07/2023,Nairobi,wheat Flour,kg,168.6
+01/08/2023,Nairobi,Wheat flour,kg,160.87
+01/09/2023,Nairobi,wheat Flour,kg,153.38
+01/10/2023,Nairobi,Flour (wheat),kg,150.24
+01/11/2023,Nairobi,Flour (wheat),kg,137.47
+01/12/2023,Nairobi,Flour (wheat),kg,138.12
+01/01/2024,Nairobi,wheat Flour,kg,124.84
+01/02/2024,Nairobi,Wheat flour,kg,125.53
+01/04/2024,Nairobi,Flour (wheat),kg,127.41
+01/05/2024,Nairobi,Flour (wheat),kg,128.23
+01/06/2024,Nairobi,Wheat flour,kg,118.66
+01/07/2024,Nairobi,Flour (wheat),kg,120.76
+01/08/2024,Nairobi,Wheat flour,kg,125.17
+01/09/2024,Nairobi,Flour (wheat),kg,121.16
+01/10/2024,Nairobi,wheat Flour,kg,117.71
+01/11/2024,Nairobi,Flour (wheat),kg,127.11
+01/12/2024,Nairobi,Wheat flour,kg,125.34
+01/01/2025,Nairobi,Flour (wheat),kg,125.92
+01/02/2025,Nairobi,Flour (wheat),kg,123.17
+01/03/2025,Nairobi,Wheat flour,kg,129.89
+01/04/2025,NAIROBI,Wheat flour,kg,126.14
+01/05/2025,Nairobi,wheat Flour,kg,132.15
+01/06/2025,Nairobi,Flour (wheat),kg,125.02
+01/07/2025,Nairobi,wheat Flour,kg,125.49
+01/08/2025,Nairobi,wheat Flour,kg,129.53
+01/09/2025,Nairobi,wheat Flour,kg,125.81
+01/10/2025,NAIROBI,Wheat flour,kg,130.9
+01/11/2025,Nairobi,Flour (wheat),kg,129.24
+01/12/2025,Nairobi,Wheat flour,kg,124.92
+01/01/2021,Nairobi,veg. oil,litre,241.56
+01/02/2021,Nairobi,veg. oil,litre,238.88
+01/03/2021,Nairobi,Cooking Oil,litre,236.75
+01/04/2021,Nairobi,veg. oil,litre,229.18
+01/05/2021,Nairobi,Cooking Oil,litre,245.92
+01/06/2021,Nairobi,Cooking oil,litre,236.57
+01/07/2021,Nairobi,veg. oil,litre,237.12
+01/08/2021,Nairobi,Cooking Oil,litre,235.66
+01/09/2021,Nairobi,veg. oil,litre,238.23
+01/10/2021,Nairobi,Cooking oil,litre,234.4
+01/11/2021,Nairobi,Cooking oil,litre,237.28
+01/12/2021,Nairobi,veg. oil,litre,231.28
+01/01/2022,Nairobi,Cooking Oil,litre,238.56
+01/02/2022,Nairobi,Cooking oil,litre,261.37
+01/03/2022,Nairobi,veg. oil,litre,248.7
+01/04/2022,Nairobi,Cooking oil,litre,253.23
+01/06/2022,Nairobi,Cooking Oil,litre,276.68
+01/07/2022,Nairobi,Cooking oil,litre,272.0
+01/08/2022,Nairobi,Cooking oil,litre,292.17
+01/09/2022,Nairobi,veg. oil,litre,317.43
+01/10/2022,Nairobi,Cooking oil,litre,328.8
+01/11/2022,Nairobi,Cooking Oil,litre,346.53
+01/12/2022,Nairobi,Cooking oil,litre,382.24
+01/01/2023,NAIROBI,Cooking Oil,litre,376.54
+01/02/2023,Nairobi,veg. oil,litre,401.56
+01/04/2023,Nairobi,Cooking Oil,litre,434.19
+01/05/2023,NAIROBI,Cooking Oil,litre,387.67
+01/06/2023,NAIROBI,Cooking oil,litre,392.5
+01/07/2023,NAIROBI,veg. oil,litre,377.46
+01/08/2023,Nairobi,Cooking Oil,litre,370.44
+01/09/2023,NAIROBI,veg. oil,litre,348.33
+01/10/2023,NAIROBI,Cooking oil,litre,335.95
+01/11/2023,Nairobi,Cooking oil,litre,291.33
+01/12/2023,Nairobi,veg. oil,litre,299.39
+01/01/2024,NAIROBI,Cooking Oil,litre,281.12
+01/02/2024,Nairobi,veg. oil,litre,272.23
+01/03/2024,Nairobi,Cooking Oil,litre,279.0
+01/04/2024,Nairobi,veg. oil,litre,265.56
+01/05/2024,Nairobi,veg. oil,litre,255.61
+01/06/2024,NAIROBI,Cooking oil,litre,269.35
+01/07/2024,NAIROBI,veg. oil,litre,259.82
+01/08/2024,Nairobi,Cooking oil,litre,266.19
+01/09/2024,Nairobi,veg. oil,litre,273.79
+01/10/2024,Nairobi,Cooking Oil,litre,272.71
+01/11/2024,Nairobi,veg. oil,litre,282.88
+01/12/2024,Nairobi,veg. oil,litre,268.92
+01/01/2025,Nairobi,Cooking oil,litre,259.3
+01/02/2025,Nairobi,Cooking oil,litre,267.5
+01/03/2025,Nairobi,Cooking oil,litre,268.39
+01/04/2025,Nairobi,Cooking Oil,litre,268.14
+01/05/2025,Nairobi,veg. oil,litre,283.91
+01/06/2025,Nairobi,Cooking oil,litre,276.1
+01/07/2025,Nairobi,veg. oil,litre,265.37
+01/08/2025,Nairobi,veg. oil,litre,287.9
+01/09/2025,Nairobi,Cooking oil,litre,280.58
+01/10/2025,NAIROBI,Cooking oil,litre,284.04
+01/11/2025,Nairobi,Cooking oil,litre,281.8
+01/12/2025,Nairobi,Cooking oil,litre,286.77
+01/01/2021,Nairobi,potatoes,kg,45.34
+01/02/2021,Nairobi,Irish potatoes,kg,48.64
+01/03/2021,Nairobi,Irish potatoes,kg,48.78
+01/05/2021,Nairobi,Irish potatoes,kg,53.45
+01/06/2021,Nairobi,Irish potatoes,kg,58.02
+01/07/2021,Nairobi,Irish potatoes,kg,59.51
+01/08/2021,Nairobi,Potatoes,kg,57.27
+01/09/2021,Nairobi,Irish potatoes,kg,51.31
+01/10/2021,NAIROBI,Irish potatoes,kg,50.38
+01/11/2021,Nairobi,Irish potatoes,kg,47.81
+01/12/2021,NAIROBI,Potatoes,kg,47.37
+01/01/2022,Nairobi,Irish potatoes,kg,50.52
+01/02/2022,Nairobi,potatoes,kg,48.67
+01/03/2022,Nairobi,Potatoes,kg,55.69
+01/04/2022,Nairobi,potatoes,kg,57.47
+01/05/2022,Nairobi,Potatoes,kg,63.29
+01/06/2022,Nairobi,potatoes,kg,63.33
+01/07/2022,Nairobi,Potatoes,kg,62.75
+01/08/2022,Nairobi,potatoes,kg,64.55
+01/09/2022,Nairobi,Irish potatoes,kg,64.7
+01/10/2022,Nairobi,Potatoes,kg,62.64
+01/12/2022,Nairobi,Potatoes,kg,62.98
+01/01/2023,Nairobi,potatoes,kg,62.68
+01/02/2023,NAIROBI,potatoes,kg,73.18
+01/03/2023,Nairobi,Potatoes,kg,77.55
+01/04/2023,Nairobi,Potatoes,kg,80.23
+01/05/2023,Nairobi,potatoes,kg,82.04
+01/06/2023,Nairobi,Irish potatoes,kg,83.81
+01/07/2023,Nairobi,potatoes,kg,77.07
+01/08/2023,Nairobi,Potatoes,kg,71.57
+01/09/2023,Nairobi,potatoes,kg,66.93
+01/10/2023,Nairobi,Irish potatoes,kg,64.07
+01/11/2023,Nairobi,potatoes,kg,55.33
+01/12/2023,Nairobi,Potatoes,kg,57.46
+01/01/2024,Nairobi,Irish potatoes,kg,54.15
+01/02/2024,Nairobi,potatoes,kg,54.73
+01/03/2024,Nairobi,Potatoes,kg,61.25
+01/04/2024,NAIROBI,potatoes,kg,61.44
+01/05/2024,Nairobi,potatoes,kg,61.12
+01/06/2024,NAIROBI,Potatoes,kg,63.67
+01/07/2024,Nairobi,potatoes,kg,65.43
+01/08/2024,NAIROBI,Potatoes,kg,63.83
+01/09/2024,Nairobi,potatoes,kg,58.1
+01/10/2024,NAIROBI,Potatoes,kg,56.76
+01/11/2024,Nairobi,Irish potatoes,kg,55.24
+01/12/2024,Nairobi,Irish potatoes,kg,52.43
+01/01/2025,Nairobi,Irish potatoes,kg,55.02
+01/02/2025,Nairobi,Potatoes,kg,56.76
+01/03/2025,Nairobi,Irish potatoes,kg,59.04
+01/04/2025,Nairobi,Irish potatoes,kg,62.28
+01/05/2025,Nairobi,Potatoes,kg,65.76
+01/06/2025,Nairobi,Irish potatoes,kg,66.72
+01/07/2025,Nairobi,Irish potatoes,kg,64.94
+01/08/2025,Nairobi,Irish potatoes,kg,63.23
+01/09/2025,Nairobi,potatoes,kg,
+01/10/2025,Nairobi,Irish potatoes,kg,58.7
+01/11/2025,Nairobi,potatoes,kg,57.76
+01/12/2025,Nairobi,Potatoes,kg,57.63
+01/01/2021,Nairobi,milk (fresh),litre,52.15
+01/02/2021,NAIROBI,milk (fresh),litre,55.26
+01/03/2021,Nairobi,Milk,litre,54.86
+01/04/2021,Nairobi,milk (fresh),litre,55.7
+01/05/2021,Nairobi,milk (fresh),litre,57.84
+01/06/2021,Nairobi,Milk,litre,56.47
+01/07/2021,NAIROBI,Milk,litre,58.98
+01/08/2021,Nairobi,milk (fresh),litre,62.22
+01/09/2021,Nairobi,Milk,litre,58.76
+01/10/2021,Nairobi,Milk,litre,53.79
+01/11/2021,Nairobi,Milk,litre,53.45
+01/12/2021,Nairobi,milk (fresh),litre,54.16
+01/01/2022,NAIROBI,milk (fresh),litre,57.3
+01/02/2022,Nairobi,Milk,litre,55.8
+01/03/2022,Nairobi,Milk,litre,58.15
+01/04/2022,NAIROBI,milk (fresh),litre,63.44
+01/05/2022,Nairobi,Milk,litre,65.8
+01/06/2022,Nairobi,Milk,litre,65.38
+01/07/2022,Nairobi,Milk,litre,65.37
+01/08/2022,Nairobi,milk (fresh),litre,65.55
+01/09/2022,Nairobi,Milk,litre,68.18
+01/10/2022,Nairobi,Milk,litre,65.92
+01/11/2022,Nairobi,Milk,litre,73.74
+01/12/2022,Nairobi,milk (fresh),litre,72.88
+01/01/2023,Nairobi,Milk,litre,78.28
+01/02/2023,Nairobi,Milk,litre,84.95
+01/03/2023,Nairobi,Milk,litre,86.49
+01/04/2023,Nairobi,Milk,litre,82.81
+01/05/2023,Nairobi,Milk,litre,88.72
+01/06/2023,Nairobi,milk (fresh),litre,88.31
+01/07/2023,Nairobi,milk (fresh),litre,80.68
+01/08/2023,NAIROBI,Milk,litre,76.27
+01/09/2023,Nairobi,Milk,litre,73.8
+01/10/2023,Nairobi,milk (fresh),litre,66.49
+01/11/2023,Nairobi,Milk,litre,69.45
+01/12/2023,Nairobi,Milk,litre,59.77
+01/01/2024,Nairobi,Milk,litre,61.5
+01/02/2024,Nairobi,Milk,litre,63.39
+01/03/2024,Nairobi,milk (fresh),litre,64.48
+01/04/2024,Nairobi,Milk,litre,66.5
+01/05/2024,Nairobi,milk (fresh),litre,67.73
+01/06/2024,Nairobi,milk (fresh),litre,67.15
+01/08/2024,NAIROBI,Milk,litre,61.93
+01/09/2024,Nairobi,milk (fresh),litre,64.74
+01/10/2024,Nairobi,milk (fresh),litre,61.95
+01/11/2024,Nairobi,milk (fresh),litre,62.56
+01/12/2024,Nairobi,Milk,litre,62.49
+01/01/2025,NAIROBI,Milk,litre,61.01
+01/02/2025,Nairobi,milk (fresh),litre,62.9
+01/03/2025,Nairobi,milk (fresh),litre,67.57
+01/04/2025,Nairobi,Milk,litre,68.59
+01/05/2025,Nairobi,milk (fresh),litre,67.9
+01/06/2025,Nairobi,milk (fresh),litre,74.28
+01/07/2025,NAIROBI,Milk,litre,74.61
+01/08/2025,Nairobi,Milk,litre,65.76
+01/09/2025,Nairobi,milk (fresh),litre,67.93
+01/10/2025,NAIROBI,milk (fresh),litre,70.81
+01/11/2025,Nairobi,Milk,litre,66.35
+01/06/2023,Nairobi,SUGAR,kg,236.44
+01/09/2023,NAIROBI,veg. oil,litre,348.33
+01/08/2023,Nairobi,maize (white),kg,81.04
